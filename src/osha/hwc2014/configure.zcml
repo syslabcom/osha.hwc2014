@@ -16,6 +16,14 @@
       description="Installs the osha.hwc2014 package"
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
+
+  <genericsetup:importStep
+      name="osha.hwc2014"
+      title="osha.hwc2014 special import handlers"
+      description=""
+      handler="osha.hwc2014.setuphandlers.setupVarious"
+      />
+
   <!-- -*- extra stuff goes here -*- -->
 
 </configure>

@@ -40,6 +40,8 @@ setup(name='osha.hwc2014',
       zip_safe=False,
       install_requires=[
           'setuptools',
+          'Products.LoginLockout',
+          'Products.PasswordStrength',
           # -*- Extra requirements: -*-
       ],
       extras_require={'test': ['plone.app.testing']},
