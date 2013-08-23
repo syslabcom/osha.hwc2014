@@ -24,6 +24,4 @@
       handler="osha.hwc2014.setuphandlers.setupVarious"
       />
 
-  <!-- -*- extra stuff goes here -*- -->
-
 </configure>

@@ -42,14 +42,11 @@ setup(name='osha.hwc2014',
           'setuptools',
           'Products.LoginLockout',
           'Products.PasswordStrength',
-          # -*- Extra requirements: -*-
+          'osha.hwccontent',
       ],
       extras_require={'test': ['plone.app.testing']},
       entry_points="""
-      # -*- Entry points: -*-
       [z3c.autoinclude.plugin]
       target = plone
       """,
-      setup_requires=["PasteScript"],
-      paster_plugins=["templer.localcommands"],
       )
