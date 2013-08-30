@@ -1,5 +1,4 @@
 from setuptools import setup, find_packages
-import os
 
 version = '1.0'
 
@@ -42,6 +41,12 @@ setup(name='osha.hwc2014',
           'setuptools',
           'Products.LoginLockout',
           'Products.PasswordStrength',
+          'plone.app.contenttypes',
+          'plone.app.multilingual[dexterity]>=1.0',
+          'plone.multilingual>=1.0',
+          'plone.multilingualbehavior>=1.0',
+          'plone.app.theming',
+          'plonetheme.sunburst',
           'osha.hwccontent',
       ],
       extras_require={'test': ['plone.app.testing']},
