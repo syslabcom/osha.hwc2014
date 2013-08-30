@@ -4,5 +4,6 @@
   <dependencies>
     <dependency>profile-Products.LoginLockout:default</dependency>
     <dependency>profile-Products.PasswordStrength:default</dependency>
+    <dependency>profile-osha.hwc2014:default</dependency>
   </dependencies>
 </metadata>
