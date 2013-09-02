@@ -1,5 +1,4 @@
 import logging
-from plone.app.multilingual.browser.setup import SetupMultilingualSite
 
 logger = logging.getLogger('osha.hwc2014')
 
@@ -25,14 +24,3 @@ def setupVarious(context):
     if 'password_policy' in acl_users.objectIds():
         acl_users.manage_delObjects(['password_policy'])
         logger.info("Removed default password policy.")
-
-
-def setupMultilingual(context):
-    if context.readDataFile('osha.hwc2014.txt') is None:
-        return
-    portal = context.getSite()
-
-    setupTool = SetupMultilingualSite()
-    setupTool.setupSite(portal)
-
-    setupTool.setupSharedFolder()
