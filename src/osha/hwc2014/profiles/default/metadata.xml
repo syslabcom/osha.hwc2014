@@ -10,5 +10,6 @@
     <dependency>profile-Products.LoginLockout:default</dependency>
     <dependency>profile-Products.PasswordStrength:default</dependency>
     <dependency>profile-osha.hwccontent:default</dependency>
+    <dependency>profile-collective.multilingualtools:default</dependency>
   </dependencies>
 </metadata>
