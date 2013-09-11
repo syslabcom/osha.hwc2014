@@ -46,6 +46,8 @@ setup(name='osha.hwc2014',
           'plone.app.theming',
           'plonetheme.sunburst',
           'osha.hwccontent',
+          'osha.hwctheme',
+          'webcouturier.dropdownmenu',
       ],
       extras_require={'test': ['plone.app.testing']},
       entry_points="""
