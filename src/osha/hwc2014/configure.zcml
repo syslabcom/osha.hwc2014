@@ -13,7 +13,7 @@
       name="default"
       title="osha.hwc2014"
       directory="profiles/default"
-      description="Installs the osha.hwc2014 package"
+      description="Policy product for the 2014 OSHA Healthy Workplaces campaign."
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
 
