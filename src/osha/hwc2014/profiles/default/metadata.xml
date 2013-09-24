@@ -11,6 +11,7 @@
     <dependency>profile-Products.PasswordStrength:default</dependency>
     <dependency>profile-collective.multilingualtools:default</dependency>
     <dependency>profile-webcouturier.dropdownmenu:default</dependency>
+    <dependency>profile-collective.quickupload:default</dependency>
     <dependency>profile-osha.hwccontent:default</dependency>
     <dependency>profile-osha.hwctheme:default</dependency>
   </dependencies>
