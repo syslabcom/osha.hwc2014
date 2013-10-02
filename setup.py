@@ -39,6 +39,7 @@ setup(name='osha.hwc2014',
       zip_safe=False,
       install_requires=[
           'setuptools',
+          'Products.feedfeeder',
           'Products.LoginLockout',
           'Products.PasswordStrength',
           'collective.multilingualtools',
