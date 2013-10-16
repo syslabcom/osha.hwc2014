@@ -15,3 +15,14 @@ msgstr ""
 #: plone.app.users/plone/app/users/browser/personalpreferences.py:364
 msgid "help_new_password"
 msgstr ""
+
+#. Default: "Contact form"
+#: CMFPlone/skins/plone_templates/contact-info.cpt:20
+msgid "heading_contact_form"
+msgstr ""
+
+#. Default: "Fill in this form to contact the site owners."
+#: CMFPlone/skins/plone_templates/contact-info.cpt:38
+msgid "description_contact_site_owner"
+msgstr ""
+
