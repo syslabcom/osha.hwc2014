@@ -34,6 +34,14 @@ nosetests.xml
 .project
 .pydevproject
 
+# Vim
+
+.*.swp
+.*.swo
+
+# po backups
+*.po~
+
 # Don't check this in:
 buildout.cfg
 include
