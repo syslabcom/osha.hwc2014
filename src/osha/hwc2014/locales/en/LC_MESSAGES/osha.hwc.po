@@ -27,7 +27,7 @@ msgstr ""
 
 #: osha.hwccontent:/__init__.py:6
 msgid "folder_materials_view"
-msgstr "folder_materials_view"
+msgstr "Materials View"
 
 #: osha.hwccontent:/behaviors/moreabout.py:121
 msgid "Section images"
