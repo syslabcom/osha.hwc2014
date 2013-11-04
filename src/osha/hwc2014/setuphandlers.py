@@ -24,3 +24,6 @@ def setupVarious(context):
     if 'password_policy' in acl_users.objectIds():
         acl_users.manage_delObjects(['password_policy'])
         logger.info("Removed default password policy.")
+
+    # set the from address, provided by Gorka via email on 25.10.2013 to Alex
+    portal._updateProperty('email_from_address', 'partners@healthy-workplaces.eu')
