@@ -94,3 +94,13 @@ msgstr ""
 #: CMFPlone/skins/plone_templates/contact-info.cpt:143
 msgid "label_message"
 msgstr ""
+
+#. Default: "Site Administrator has been contacted."
+#: CMFPlone/skins/plone_templates/send_feedback_confirm.cpt:18
+msgid "heading_send_feedback_confirm"
+msgstr ""
+
+#. Default: "A mail has now been sent to the site administrator regarding your questions and/or comments."
+#: CMFPlone/skins/plone_templates/send_feedback_confirm.cpt:23
+msgid "message_send_feedback_confirm"
+msgstr ""
