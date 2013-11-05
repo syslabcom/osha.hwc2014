@@ -58,5 +58,29 @@ msgstr ""
 "at least one number and at least one character that is not a number or a "
 "letter."
 
-#~ msgid "folder_materials_view"
-#~ msgstr "Materials View"
+#. Default: "Fill in this form to contact the site owners."
+#: CMFPlone/skins/plone_templates/contact-info.cpt:38
+msgid "description_contact_site_owner"
+msgstr "Fill in this form to contact the Healthy Workplaces Campaign team."
+
+#. Default: "E-Mail"
+#: CMFPlone/skins/plone_templates/contact-info.cpt:88
+msgid "label_sender_from_address"
+msgstr ""
+
+#. Default: "Name"
+#: CMFPlone/skins/plone_templates/contact-info.cpt:61
+msgid "label_sender_fullname"
+msgstr ""
+
+#. Default: "Subject"
+#: CMFPlone/skins/plone_content/author.cpt:196
+#: CMFPlone/skins/plone_templates/contact-info.cpt:116
+msgid "label_subject"
+msgstr ""
+
+#. Default: "Message"
+#: CMFPlone/skins/plone_content/author.cpt:216
+#: CMFPlone/skins/plone_templates/contact-info.cpt:143
+msgid "label_message"
+msgstr ""
