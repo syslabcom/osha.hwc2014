@@ -6,7 +6,8 @@
     <dependency>profile-plone.app.contenttypes:default</dependency>
     <dependency>profile-plone.app.event.dx:default</dependency>
     <dependency>profile-plone.app.theming:default</dependency>
-    <dependency>profile-Products.LoginLockout:default</dependency>
+    <!-- AttributeError: manage_addLoginLockout  -->
+    <!-- <dependency>profile-Products.LoginLockout:default</dependency> -->
     <dependency>profile-Products.PasswordStrength:default</dependency>
     <dependency>profile-collective.multilingualtools:default</dependency>
     <dependency>profile-slc.xliff:default</dependency>
