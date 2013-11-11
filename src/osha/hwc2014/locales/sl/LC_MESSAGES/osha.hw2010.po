@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osha.hw2010\n"
+"POT-Creation-Date: 2010-04-06 15:40+0000\n"
+"PO-Revision-Date: 2010-03-30 20:00+0000\n"
+"Last-Translator: Alexander Pilz <pilz@syslab.com>\n"
+"Language-Team: Alexander Pilz <pilz@syslab.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: sl\n"
+"Language-Name: Slovenian\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: osha.hw2010\n"
+
+
+msgid "A descriptor for the category of the accident"
+msgstr "Deskriptor za kategorijo nezgode"
+
+msgid "Accident Category"
+msgstr "Kategorija nezgode"
+
+msgid "Additional notes on how to handle this scenario"
+msgstr "Dodatna navodila za ravnanje v takem primeru"
+
+msgid "Address"
+msgstr "Naslov"
+
+msgid "City"
+msgstr "Kraj"
+
+msgid "Company/Organisation"
+msgstr "Družba/organizacija"
+
+msgid "Content Type used to reflect the Before After Maintenance Scenarios"
+msgstr "Vrsta vsebine za opis potekov vzdrževalnih del prej in potem"
+
+msgid "Country"
+msgstr "Država"
+
+msgid "Description of the right scenario"
+msgstr "Opis pravilnega scenarija"
+
+msgid "Description of the wrong scenario"
+msgstr "Opis napačnega scenarija"
+
+msgid "Download Material"
+msgstr "Prenesi gradivo"
+
+msgid "Download the scenarios in other formats for print and web"
+msgstr "Prenesi scenarije v drugih formatih za tiskanje in splet"
+
+msgid "Email"
+msgstr "E-naslov"
+
+msgid "Enter here the problem description and relevant factors"
+msgstr "Tukaj vnesite opis težave in pomembne dejavnike"
+
+msgid "Enter here the solution to the problem and preventive information"
+msgstr "Tukaj vnesite rešitev težave in preventivne informacije"
+
+msgid "Firstname"
+msgstr "Ime"
+
+msgid "General"
+msgstr "Splošno"
+
+msgid "Lastname"
+msgstr "Priimek"
+
+msgid "Note"
+msgstr "Opomba"
+
+msgid "Postal Code"
+msgstr "Poštna številka"
+
+msgid "Right"
+msgstr "Pravilno"
+
+msgid "Right Scenario Image"
+msgstr "Slika pravilnega scenarija"
+
+msgid "Scenario"
+msgstr "Scenarij"
+
+msgid "Sector"
+msgstr "Sektor"
+
+msgid "Telephone"
+msgstr "Telefon"
+
+msgid "The Problem"
+msgstr "Težava"
+
+msgid "The Solution"
+msgstr "Rešitev"
+
+msgid "Upload the image of the wright scenario here"
+msgstr "Tukaj naložite sliko pravilnega scenarija"
+
+msgid "Upload the image of the wrong scenario here"
+msgstr "Tukaj naložite sliko napačnega scenarija"
+
+msgid "Wrong"
+msgstr "Napačno"
+
+msgid "Wrong Scenario Image"
+msgstr "Slika napačnega scenarija"
+
+msgid "You entered an invalid email address."
+msgstr "Vnesli ste neveljaven e-naslov."
+
+msgid "certificate_of_participation"
+msgstr "Potrdilo o sodelovanju – spletni obrazec za prijavo"
+
+msgid "checkboxlist1"
+msgstr "Usposabljanja, seminarji in delavnice Predstavitve in razstave o varnosti"
+
+msgid "checkboxlist2"
+msgstr "Tekmovanja za najboljši plakat in kvizi"
+
+msgid "checkboxlist3"
+msgstr "Film, video in multimedija"
+
+msgid "checkboxlist4"
+msgstr "Oglaševalske in promocijske kampanje"
+
+msgid "checkboxlist5"
+msgstr "Partnerstva med podjetji in šolami/fakultetami/centri za usposabljanje"
+
+msgid "checkboxlist6"
+msgstr "„Sheme dobrososedskih odnosov“ med velikimi in majhnimi podjetji"
+
+msgid "checkboxlist7"
+msgstr "Prepoznavanje nevarnosti"
+
+msgid "checkboxlist8"
+msgstr "Inšpekcijski dnevi"
+
+msgid "checkboxlist9"
+msgstr "Nova politika ali pobude za preprečevanje"
+
+msgid "description_scenario_overview"
+msgstr "Tema evropske kampanje 2010–2011 so vzdrževalna dela. V zvezi s tem agencija daje na razpolago ilustracije nevarnih situacij, povezanih z vzdrževanjem v kategorijah \"<a href=\"#categoryAgriculture\">Kmetijstvo</a>\", \"<a href=\"#categoryCateringCare\">Gostinstvo/Nega</a>\", \"<a href=\"#categoryConstruction\">Gradbeništvo</a>\", \"<a href=\"#categoryGeneral\">Splošno</a>\", <a href=\"#categoryManufacturing\">Proizvodnja</a>\" and \"<a href=\"#categoryTransport\">Prevoz</a>\"."
+
+msgid "error_required"
+msgstr "${name} je obvezno, prosimo, popravite."
+
+msgid "field_address"
+msgstr "Naslov"
+
+msgid "field_city"
+msgstr "Kraj"
+
+msgid "field_company"
+msgstr "Družba/organizacija"
+
+msgid "field_comprehensive_checklis"
+msgstr "Sodeloval(-i) sem (smo) v kampanji Zdravo delovno okolje in organiziral(-i) naslednje dejavnosti"
+
+msgid "field_country"
+msgstr "Država"
+
+msgid "field_email"
+msgstr "E-naslov"
+
+msgid "field_firstname"
+msgstr "Ime kontaktne osebe"
+
+msgid "field_lastname"
+msgstr "Priimek"
+
+msgid "field_postalcode"
+msgstr "Poštna številka"
+
+msgid "field_sector"
+msgstr "Dejavnost/sektor"
+
+msgid "field_telephone"
+msgstr "Telefonska številka"
+
+msgid "hw2010_carousel_about"
+msgstr "Vseevropska kampanja Zdravo delovno okolje 2010–11 spodbuja varnost pri vzdrževalnih delih brez nezgod."
+
+msgid "hw2010_carousel_getinvolved"
+msgstr "V kampanji Zdravo delovno okolje lahko sodelujejo vse organizacije in fizične osebe. Postanite dejavni!"
+
+msgid "hw2010_carousel_getitright"
+msgstr "Osnove in dobre prakse varnega izvajanja vzdrževalnih del."
+
+msgid "hw2010_carousel_maintenance"
+msgstr "Brez ustreznega vzdrževanja lahko na delovnem mestu pride do tragičnih dogodkov."
+
+msgid "hw2010_carousel_partners"
+msgstr "H kampanji Zdravo delovno okolje za varnost pri vzdrževalnih delih prispevajo številni različni partnerji. Spoznajte jih!"
+
+msgid "hw2010_carousel_press"
+msgstr "Seznanite se z našimi zadnjimi izjavami za javnost in uporabite multimedijske vire."
+
+msgid "hw2010_carousel_resources"
+msgstr "Iz tega razdelka si lahko prenesete veliko različnega gradiva v zvezi s kampanjo."
+
+msgid "label_download"
+msgstr "Prenesi"
+
+msgid "label_license"
+msgstr "Licenca"
+
+msgid "label_more"
+msgstr "Več …"
+
+msgid "label_right"
+msgstr "Pravilno"
+
+msgid "label_the_problem"
+msgstr "Težava"
+
+msgid "label_the_solution"
+msgstr "Rešitev"
+
+msgid "label_wrong"
+msgstr "Napačno"
+
+msgid "other"
+msgstr "Drugo"
+
+msgid "partner_form_description_contacted"
+msgstr "Opozarjamo, da vas lahko agencija zaprosi za predložitev podrobnosti o vaših dejavnostih v zvezi s kampanjo."
+
+msgid "partner_form_description_email_certificate"
+msgstr "Na podlagi podatkov vam bomo po e-pošti poslali osebno potrdilo v jeziku, v katerem ste izpolnili spletni obrazec za prijavo."
+
+msgid "partner_form_instructions"
+msgstr "Povsem preprosto je. Izpolnite elektronski obrazec in agencija vam bo po e-pošti poslala <strong>osebno potrdilo o sodelovanju</strong> ter tako priznala vašo zavezanost kampanji za zdravo delovno okolje."
+
+msgid "partner_form_instructions_official_partner"
+msgstr "Če želite pomembneje prispevati h kampanji in postati <strong>njen uradni nacionalni partner </strong>, stopite v stik s pristojno <a href=\"/en/campaigns/hw2010/partners/focal-points\">nacionalno informacijsko točko</a>."
+
+msgid "partner_form_required_fields_are_marked"
+msgstr " Obvezna polja so označena z *)"
+
+msgid "partner_form_title"
+msgstr " Nacionalni partner kampanje, obrazec za prijavo"
+
+msgid "slogan_statment_hw2010_campaign"
+msgstr "Evropska kampanja za varnost pri vzdrževalnih delih"
+
+#. Default: "Healthy Workplaces Campaign"
+msgid "title_hw_campaign_portlet"
+msgstr "Kampanja za zdravo delovno okolje"

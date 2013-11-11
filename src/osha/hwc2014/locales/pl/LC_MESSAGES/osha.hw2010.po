@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osha.hw2010\n"
+"POT-Creation-Date: 2010-04-06 15:40+0000\n"
+"PO-Revision-Date: 2010-03-30 20:00+0000\n"
+"Last-Translator: Alexander Pilz <pilz@syslab.com>\n"
+"Language-Team: Alexander Pilz <pilz@syslab.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: pl\n"
+"Language-Name: Polish\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: osha.hw2010\n"
+
+
+msgid "A descriptor for the category of the accident"
+msgstr "Deskryptor kategorii wypadku"
+
+msgid "Accident Category"
+msgstr "Kategoria wypadku"
+
+msgid "Additional notes on how to handle this scenario"
+msgstr "Dodatkowe uwagi dotyczące sposobów reagowania w przypadku tego scenariusza"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "City"
+msgstr "Miejscowość"
+
+msgid "Company/Organisation"
+msgstr "PrzedsiębiorstwoOrganizacja"
+
+msgid "Content Type used to reflect the Before After Maintenance Scenarios"
+msgstr "Nagłówek Content-Type używany do opisywania scenariuszy przed eksploatacjąpo eksploatacji"
+
+msgid "Country"
+msgstr "Państwo"
+
+msgid "Description of the right scenario"
+msgstr "Opis prawidłowego scenariusza"
+
+msgid "Description of the wrong scenario"
+msgstr "Opis nieprawidłowego scenariusza"
+
+msgid "Download Material"
+msgstr "Pobierz materiały"
+
+msgid "Download the scenarios in other formats for print and web"
+msgstr "Pobierz scenariusze w innych formatach do wydrukowania i zamieszczenia w internecie"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Enter here the problem description and relevant factors"
+msgstr "W tym miejscu opisz problem i istotne czynniki"
+
+msgid "Enter here the solution to the problem and preventive information"
+msgstr "W tym miejscu opisz rozwiązanie problemu i podaj informacje prewencyjne"
+
+msgid "Firstname"
+msgstr "Imię"
+
+msgid "General"
+msgstr "Informacje ogólne"
+
+msgid "Lastname"
+msgstr "Nazwisko"
+
+msgid "Note"
+msgstr "Uwaga"
+
+msgid "Postal Code"
+msgstr "Kod pocztowy"
+
+msgid "Right"
+msgstr "Prawidłowy"
+
+msgid "Right Scenario Image"
+msgstr "Obraz prawidłowego scenariusza"
+
+msgid "Scenario"
+msgstr "Scenariusz"
+
+msgid "Sector"
+msgstr "Sektor"
+
+msgid "Telephone"
+msgstr "Telefon"
+
+msgid "The Problem"
+msgstr "Problem"
+
+msgid "The Solution"
+msgstr "Rozwiązanie"
+
+msgid "Upload the image of the wright scenario here"
+msgstr "Dodaj obraz prawidłowego scenariusza"
+
+msgid "Upload the image of the wrong scenario here"
+msgstr "Dodaj obraz nieprawidłowego scenariusza"
+
+msgid "Wrong"
+msgstr "Nieprawidłowy"
+
+msgid "Wrong Scenario Image"
+msgstr "Obraz nieprawidłowego scenariusza"
+
+msgid "You entered an invalid email address."
+msgstr "Wpisany adres e-mail jest nieprawidłowy."
+
+msgid "certificate_of_participation"
+msgstr "Certyfikat uczestnictwa – formularz zgłoszenia on-line"
+
+msgid "checkboxlist1"
+msgstr "Szkolenia, seminaria i warsztaty; pokazy i wystawy dotyczące bezpieczeństwa"
+
+msgid "checkboxlist2"
+msgstr "Konkursy na plakat i kwizy"
+
+msgid "checkboxlist3"
+msgstr "Film, wideo i multimedia"
+
+msgid "checkboxlist4"
+msgstr "Kampanie reklamowe i promocyjne"
+
+msgid "checkboxlist5"
+msgstr "Partnerstwa między przedsiębiorstwami i szkołamikolegiamiośrodkami szkoleniowymi"
+
+msgid "checkboxlist6"
+msgstr "”Programy wspierające ideę dobrego sąsiedztwa” między dużymi i małymi przedsiębiorstwami"
+
+msgid "checkboxlist7"
+msgstr "Wykrywanie zagrożeń"
+
+msgid "checkboxlist8"
+msgstr "Dni inspekcji"
+
+msgid "checkboxlist9"
+msgstr "Nowe inicjatywy w zakresie polityki lub prewencji"
+
+msgid "description_scenario_overview"
+msgstr "Europejska Kampania na lata 2010-2011 dotyczy kwestii eksploatacji maszyn, urządzeń i budynków. W tym kontekście Agencja zapewnia ilustracje przedstawiające niebezpieczne sytuacje związane z eksploatacją w następujących kategoriach \"<a href=\"#categoryAgriculture\">Rolnictwo</a>\", \"<a href=\"#categoryCateringCare\">Gastronomia/Opieka</a>\", \"<a href=\"#categoryConstruction\">Budownictwo</a>\", \"<a href=\"#categoryGeneral\">Ogólne</a>\", \"<a href=\"#categoryManufacturing\">Przetwórstwo przemysłowe</a>\" and \"<a href=\"#categoryTransport\">Transport</a>\"."
+
+msgid "error_required"
+msgstr "${name} jest wymagane, należy uzupełnić."
+
+msgid "field_address"
+msgstr "Adres"
+
+msgid "field_city"
+msgstr "Miasto"
+
+msgid "field_company"
+msgstr "PrzedsiębiorstwoOrganizacja"
+
+msgid "field_comprehensive_checklis"
+msgstr "Potwierdzam(-y) swój udział w kampanii „Zdrowe miejsca pracy i zorganizowanie następujących działań"
+
+msgid "field_country"
+msgstr "Państwo"
+
+msgid "field_email"
+msgstr "Adres e-mail"
+
+msgid "field_firstname"
+msgstr "Imię osoby do kontaktu"
+
+msgid "field_lastname"
+msgstr "Nazwisko"
+
+msgid "field_postalcode"
+msgstr "Kod pocztowy"
+
+msgid "field_sector"
+msgstr "Branżasektor"
+
+msgid "field_telephone"
+msgstr "Nr telefonu"
+
+msgid "hw2010_carousel_about"
+msgstr "Ogólnoeuropejska kampania „Zdrowe miejsca pracy” na lata 2010-2011 będzie promowała bezpieczną i bezwypadkową eksploatację maszyn, urządzeń i budynków."
+
+msgid "hw2010_carousel_getinvolved"
+msgstr "W kampanii „Zdrowe miejsca pracy” mogą wziąć udział wszystkie organizacje i osoby prywatne. Przyłącz się!"
+
+msgid "hw2010_carousel_getitright"
+msgstr "Podstawowe zasady i najlepsze praktyki w zakresie bezpiecznej eksploatacji."
+
+msgid "hw2010_carousel_maintenance"
+msgstr "Brak właściwej eksploatacji może doprowadzić do dramatycznych sytuacji w miejscu pracy."
+
+msgid "hw2010_carousel_partners"
+msgstr "Szereg różnych partnerów uczestniczy w kampanii „Zdrowe miejsca pracy” dotyczącej bezpiecznej eksploatacji. Poznaj ich!"
+
+msgid "hw2010_carousel_press"
+msgstr "Zobacz nasze najnowsze komunikaty prasowe i zapoznaj się z naszymi materiałami multimedialnymi!"
+
+msgid "hw2010_carousel_resources"
+msgstr "W tej sekcji można pobrać różnorodne materiały dotyczące kampanii."
+
+msgid "label_download"
+msgstr "Pobierz"
+
+msgid "label_license"
+msgstr "Licencja"
+
+msgid "label_more"
+msgstr "Więcej…"
+
+msgid "label_right"
+msgstr "Prawidłowy"
+
+msgid "label_the_problem"
+msgstr "Problem"
+
+msgid "label_the_solution"
+msgstr "Rozwiązanie"
+
+msgid "label_wrong"
+msgstr "Nieprawidłowy"
+
+msgid "other"
+msgstr "Inne"
+
+msgid "partner_form_description_contacted"
+msgstr "Należy pamiętać, że Agencja może zwrócić się z prośbą o podanie szczegółów działań zorganizowanych w związku z kampanią"
+
+msgid "partner_form_description_email_certificate"
+msgstr "Wyślemy ci spersonalizowaną wiadomość e-mail na podstawie podanych przez ciebie informacji w języku, w którym wypełniłeś(-łaś) formularz zgłoszeniowy."
+
+msgid "partner_form_instructions"
+msgstr "To proste! Po prostu wypełnij formularz elektroniczny i Agencja wyśle ci drogą mailową strongspersonalizowany certyfikat uczestnictwastrong jako wyraz uznania dla twojego zaangażowania w kampanię „Zdrowe miejsca pracy."
+
+msgid "partner_form_instructions_official_partner"
+msgstr "Jeśli chcesz bardziej zaangażować się w kampanię i zostać strongoficjalnym krajowym partnerem kampaniistrong, skontaktuj się z twoim lokalnym a href=encampaignshw2010partnersfocal-pointspunktem kontaktowyma."
+
+msgid "partner_form_required_fields_are_marked"
+msgstr "Pola wymagane oznaczono )"
+
+msgid "partner_form_title"
+msgstr "Krajowy partner kampanii, formularz zgłoszeniowy"
+
+msgid "slogan_statment_hw2010_campaign"
+msgstr "Europejska Kampania Informacyjna na rzecz bezpieczeństwa eksploatacji maszyn, urządzeń i budynków"
+
+#. Default: "Healthy Workplaces Campaign"
+msgid "title_hw_campaign_portlet"
+msgstr "Kampania na rzecz Bezpiecznych Miejsc Pracy"

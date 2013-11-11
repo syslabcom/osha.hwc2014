@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osha.hw2010\n"
+"POT-Creation-Date: 2010-04-06 15:40+0000\n"
+"PO-Revision-Date: 2010-03-30 20:00+0000\n"
+"Last-Translator: Alexander Pilz <pilz@syslab.com>\n"
+"Language-Team: Alexander Pilz <pilz@syslab.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: lv\n"
+"Language-Name: Latvian\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: osha.hw2010\n"
+
+
+msgid "A descriptor for the category of the accident"
+msgstr "Negadījuma kategorijas deskriptors"
+
+msgid "Accident Category"
+msgstr "Negadījuma kategorija"
+
+msgid "Additional notes on how to handle this scenario"
+msgstr "Papildu piezīmes par rīcību šāda scenārija gadījumā"
+
+msgid "Address"
+msgstr "Adrese"
+
+msgid "City"
+msgstr "Pilsēta"
+
+msgid "Company/Organisation"
+msgstr "Uzņēmums/organizācija"
+
+msgid "Content Type used to reflect the Before After Maintenance Scenarios"
+msgstr "Satura tips, kuru izmanto pirms/pēc uzturēšanas scenāriju atspoguļošanai"
+
+msgid "Country"
+msgstr "Valsts"
+
+msgid "Description of the right scenario"
+msgstr "Pareizā scenārija apraksts"
+
+msgid "Description of the wrong scenario"
+msgstr "Nepareizā scenārija apraksts"
+
+msgid "Download Material"
+msgstr "Lejupielādēt materiālu"
+
+msgid "Download the scenarios in other formats for print and web"
+msgstr "Lejupielādēt scenārijus citos formātos drukāšanai un tīmeklim"
+
+msgid "Email"
+msgstr "E-pasts"
+
+msgid "Enter here the problem description and relevant factors"
+msgstr "Ievadiet šeit problēmas aprakstu un attiecīgos faktorus"
+
+msgid "Enter here the solution to the problem and preventive information"
+msgstr "Ievadiet šeit problēmas risinājumu un informāciju par novēršanu"
+
+msgid "Firstname"
+msgstr "Vārds"
+
+msgid "General"
+msgstr "Vispārīga informācija"
+
+msgid "Lastname"
+msgstr "Uzvārds"
+
+msgid "Note"
+msgstr "Piezīme"
+
+msgid "Postal Code"
+msgstr "Pasta indekss"
+
+msgid "Right"
+msgstr "Pareizi"
+
+msgid "Right Scenario Image"
+msgstr "Pareizā scenārija attēls"
+
+msgid "Scenario"
+msgstr "Scenārijs"
+
+msgid "Sector"
+msgstr "Nozare"
+
+msgid "Telephone"
+msgstr "Tālrunis"
+
+msgid "The Problem"
+msgstr "Problēma"
+
+msgid "The Solution"
+msgstr "Risinājums"
+
+msgid "Upload the image of the wright scenario here"
+msgstr "Augšupielādēt šeit pareizā scenārija attēlu"
+
+msgid "Upload the image of the wrong scenario here"
+msgstr "Augšupielādēt šeit nepareizā scenārija attēlu"
+
+msgid "Wrong"
+msgstr "Nepareizi"
+
+msgid "Wrong Scenario Image"
+msgstr "Nepareizā scenārija attēls"
+
+msgid "You entered an invalid email address."
+msgstr "Jūs norādījāt nepareizu e-pasta adresi."
+
+msgid "certificate_of_participation"
+msgstr "Dalības apliecība – tiešsaistes pieteikšanās veidlapa"
+
+msgid "checkboxlist1"
+msgstr "Mācību pasākumi, semināri un darbsemināri Drošības demonstrācijas, atvērto durvju dienas un izstādes"
+
+msgid "checkboxlist2"
+msgstr "Plakātu konkursi un viktorīnas"
+
+msgid "checkboxlist3"
+msgstr "Filma, video un multivide"
+
+msgid "checkboxlist4"
+msgstr "Reklāmas un veicināšanas kampaņas"
+
+msgid "checkboxlist5"
+msgstr "Partnerības starp uzņēmumiem un skolām/koledžām/mācību centriem"
+
+msgid "checkboxlist6"
+msgstr "\"Labas kaimiņattiecību programmas\" starp lieliem un maziem uzņēmumiem"
+
+msgid "checkboxlist7"
+msgstr "Riska novērošana"
+
+msgid "checkboxlist8"
+msgstr "Pārbaudes dienas"
+
+msgid "checkboxlist9"
+msgstr "Jauna politika vai profilaktiskas iniciatīvas"
+
+msgid "description_scenario_overview"
+msgstr "Eiropas kampaņa 2010.-2011. gadam attiecas uz uzturēšanas jautājumiem. Šajā saistībā Aģentūra publicē bīstamu situāciju attēlus attiecībā uz uzturēšanu šādās kategorijās \"<a href=\"#categoryAgriculture\">Lauksaimniecība</a>\", \"<a href=\"#categoryCateringCare\">Sabiedriskā ēdināšana/aprūpe</a>\", \"<a href=\"#categoryConstruction\">Būvniecība</a>\", \"<a href=\"#categoryGeneral\">Vispārīga kategorija</a>\", <a href=\"#categoryManufacturing\">Ražošana</a>\" and \"<a href=\"#categoryTransport\">Transports</a>\"."
+
+msgid "error_required"
+msgstr "${name} ir jānorāda, lūdzu, izlabojiet."
+
+msgid "field_address"
+msgstr "Adrese"
+
+msgid "field_city"
+msgstr "Pilsēta"
+
+msgid "field_company"
+msgstr "Uzņēmums/organizācija"
+
+msgid "field_comprehensive_checklis"
+msgstr "Es/mēs piedalījāmies Veselībai nekaitīgu darbavietu kampaņā un rīkojām šādus pasākumus"
+
+msgid "field_country"
+msgstr "Valsts"
+
+msgid "field_email"
+msgstr "E-pasta adrese"
+
+msgid "field_firstname"
+msgstr "Kontaktpersonas vārds"
+
+msgid "field_lastname"
+msgstr "Uzvārds"
+
+msgid "field_postalcode"
+msgstr "Pasta indekss"
+
+msgid "field_sector"
+msgstr "Uzņēmējdarbības veids/nozare"
+
+msgid "field_telephone"
+msgstr "Tālruņa numurs"
+
+msgid "hw2010_carousel_about"
+msgstr "Eiropas mēroga Veselībai nekaitīgu darbavietu kampaņa 2010.-2011. gadam popularizēs drošu uzturēšanu bez negadījumiem."
+
+msgid "hw2010_carousel_getinvolved"
+msgstr "Veselībai nekaitīgu darbavietu kampaņā var piedalīties ikviena organizācija un persona. Esiet aktīvs!"
+
+msgid "hw2010_carousel_getitright"
+msgstr "Pamatinformācija un laba prakse par to, kā veikt drošu uzturēšanu."
+
+msgid "hw2010_carousel_maintenance"
+msgstr "Bez pienācīgas uzturēšanas darbavietā var notikt lielas nelaimes."
+
+msgid "hw2010_carousel_partners"
+msgstr "Savu ieguldījumu Veselībai nekaitīgu darbavietu kampaņā par drošu uzturēšanu sniedz daudz dažādu partneru. Iepazīstieties ar viņiem!"
+
+msgid "hw2010_carousel_press"
+msgstr "Izlasiet mūsu jaunākos paziņojumus presei un izmantojiet mūsu multivides resursus!"
+
+msgid "hw2010_carousel_resources"
+msgstr "Šajā sadaļā lejupielādei ir pieejams plašs kampaņas materiālu klāsts."
+
+msgid "label_download"
+msgstr "Lejupielādēt"
+
+msgid "label_license"
+msgstr "Licence"
+
+msgid "label_more"
+msgstr "Vairāk…"
+
+msgid "label_right"
+msgstr "Pareizi"
+
+msgid "label_the_problem"
+msgstr "Problēma"
+
+msgid "label_the_solution"
+msgstr "Risinājums"
+
+msgid "label_wrong"
+msgstr "Nepareizi"
+
+msgid "other"
+msgstr "Cits"
+
+msgid "partner_form_description_contacted"
+msgstr "Lūdzu, ņemiet vērā, ka Aģentūra var ar Jums sazināties, lai iegūtu papildu informāciju par Jūsu kampaņas pasākumiem"
+
+msgid "partner_form_description_email_certificate"
+msgstr "Pamatojoties uz Jūsu sniegto informāciju, saņemsiet personalizētu e-pasta apliecību tajā valodā, kurā aizpildīta pieteikuma veidlapa."
+
+msgid "partner_form_instructions"
+msgstr "Tas ir viegli! Aizpildiet elektronisko veidlapu un Aģentūra nosūtīs Jums pa e-pastu <strong>personalizētu dalības apliecību</strong> - atzinību par Jūsu ieguldījumu Veselībai nekaitīgu darbavietu kampaņā."
+
+msgid "partner_form_instructions_official_partner"
+msgstr "Ja vēlaties iesaistīties kampaņā lielākā mērā un kļūt par <strong>oficiālu kampaņas partneri savā valstī</strong>, sazinieties ar attiecīgu <a href=\"/en/campaigns/hw2010/partners/focal-points\">kontaktpunktu savā valstī</a>."
+
+msgid "partner_form_required_fields_are_marked"
+msgstr "Obligāti aizpildāmie lauki ir atzīmēti ar *)"
+
+msgid "partner_form_title"
+msgstr "Nacionālais kampaņas partneris, pieteikuma veidlapa"
+
+msgid "slogan_statment_hw2010_campaign"
+msgstr "Eiropas kampaņa par drošības uzturēšanu darbā"
+
+#. Default: "Healthy Workplaces Campaign"
+msgid "title_hw_campaign_portlet"
+msgstr '"Veselībai nekaitīgas darba vietas" kampaņa'

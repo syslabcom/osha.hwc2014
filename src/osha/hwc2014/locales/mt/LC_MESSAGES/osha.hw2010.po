@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osha.hw2010\n"
+"POT-Creation-Date: 2010-04-06 15:40+0000\n"
+"PO-Revision-Date: 2010-03-30 20:00+0000\n"
+"Last-Translator: Alexander Pilz <pilz@syslab.com>\n"
+"Language-Team: Alexander Pilz <pilz@syslab.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: mt\n"
+"Language-Name: Maltese\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: osha.hw2010\n"
+
+
+msgid "A descriptor for the category of the accident"
+msgstr "Deskrittur għall-kategorija tal-inċidenti"
+
+msgid "Accident Category"
+msgstr "Kategorija tal-inċidenti"
+
+msgid "Additional notes on how to handle this scenario"
+msgstr "Noti addizzjonali fuq kif jiġi ttrattat dan ix-xenarju"
+
+msgid "Address"
+msgstr "Indirizz"
+
+msgid "City"
+msgstr "Belt"
+
+msgid "Company/Organisation"
+msgstr "KumpanijaOrganizzazzjoni"
+
+msgid "Content Type used to reflect the Before After Maintenance Scenarios"
+msgstr "Tip tal-kontenut użat biex jirrifletti x-Xenarji ta’ Qabel u Wara l-Manutenzjoni"
+
+msgid "Country"
+msgstr "Pajjiż"
+
+msgid "Description of the right scenario"
+msgstr "Deskrizzjoni tax-xenarju t-tajjeb"
+
+msgid "Description of the wrong scenario"
+msgstr "Deskrizzjoni tax-xenarju l-ħażin"
+
+msgid "Download Material"
+msgstr "Niżżel il-Materjal"
+
+msgid "Download the scenarios in other formats for print and web"
+msgstr "Niżżel ix-xenarji f’formats oħrajn għall-istampa u fuq l-internet"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Enter here the problem description and relevant factors"
+msgstr "Hawnhekk għandek iddaħħal id-deskrizzjoni tal-problema u l-fatturi rilevanti"
+
+msgid "Enter here the solution to the problem and preventive information"
+msgstr "Hawnhekk għandek iddaħħal is-soluzzjoni għall-problema u informazzjoni preventiva"
+
+msgid "Firstname"
+msgstr "L-ewwel isem"
+
+msgid "General"
+msgstr "Ġenerali"
+
+msgid "Lastname"
+msgstr "L-aħħar isem (kunjom)"
+
+msgid "Note"
+msgstr "Nota"
+
+msgid "Postal Code"
+msgstr "Kodiċi Postali"
+
+msgid "Right"
+msgstr "Tajjeb"
+
+msgid "Right Scenario Image"
+msgstr "Immaġini tax-Xenarju t-Tajjeb"
+
+msgid "Scenario"
+msgstr "Xenarju"
+
+msgid "Sector"
+msgstr "Settur"
+
+msgid "Telephone"
+msgstr "Telefon"
+
+msgid "The Problem"
+msgstr "Il-Problema"
+
+msgid "The Solution"
+msgstr "Is-Soluzzjoni"
+
+msgid "Upload the image of the wright scenario here"
+msgstr "Tella’ l-immaġini tax-xenarju t-tajjeb hawnhekk"
+
+msgid "Upload the image of the wrong scenario here"
+msgstr "Tella’ l-immaġini tax-xenarju l-ħażin hawnhekk "
+
+msgid "Wrong"
+msgstr "Ħażin"
+
+msgid "Wrong Scenario Image"
+msgstr "Immaġini tax-Xenarju l-Ħażin"
+
+msgid "You entered an invalid email address."
+msgstr "Inti daħħalt indirizz tal-email invalidu."
+
+msgid "certificate_of_participation"
+msgstr "Ċertifikat ta’ Parteċipazzjoni – Formola ta’ Applikazzjoni Online"
+
+msgid "checkboxlist1"
+msgstr "Avvenimenti ta’ taħriġ, seminars u workshops, dimostrazzjonijiet dwar is-sigurtà, wirjiet u esebizzjonijiet"
+
+msgid "checkboxlist2"
+msgstr "Kompetizzjonijiet tal-powsters u kwizzijiet"
+
+msgid "checkboxlist3"
+msgstr "Film, vidjo u multimedja"
+
+msgid "checkboxlist4"
+msgstr "Reklamar u kampanji ta’ promozzjoni"
+
+msgid "checkboxlist5"
+msgstr "Sħubiji bejn intrapriżi u skejjelkulleġġiċentri ta’ taħriġ"
+
+msgid "checkboxlist6"
+msgstr "Skemi ta’ ġirien tajbin bejn intrapriżi kbar u żgħar"
+
+msgid "checkboxlist7"
+msgstr "Identifikazzjoni tal-perikli"
+
+msgid "checkboxlist8"
+msgstr "Jiem ta’ spezzjoni"
+
+msgid "checkboxlist9"
+msgstr "Inizjattivi ta’ prevenzjoni jew linji politiċi ġodda"
+
+msgid "description_scenario_overview"
+msgstr "Il-Kampanja Ewropea 2010-2011 tikkonċerna kwistjonijiet ta’ Manutenzjoni. F’dan il-kuntest, l-Aġenzija tipprovdi illustrazzjonijiet ta’ sitwazzjonijiet perikolużi relatati mal-manutenzjoni fil-kategoriji \"<a href=\"#categoryAgriculture\">Agrikoltura</a>\", \"<a href=\"#categoryCateringCare\">Catering/Kura</a>\", \"<a href=\"#categoryConstruction\">Kostruzzjoni</a>\", \"<a href=\"#categoryGeneral\">Ġenerali</a>\", \"<a href=\"#categoryManufacturing\">Manifattura</a>\" and \"<a href=\"#categoryTransport\">Trasport</a>\"."
+
+msgid "error_required"
+msgstr "${name} huwa meħtieġ, jekk jogħġbok ikkoreġi."
+
+msgid "field_address"
+msgstr "Indirizz"
+
+msgid "field_city"
+msgstr "Belt"
+
+msgid "field_company"
+msgstr "KumpanijaOrganizzazzjoni"
+
+msgid "field_comprehensive_checklis"
+msgstr "Jiena pparteċipajt  aħna pparteċipajna fil-Kampanja tal-Postijiet tax-Xogħol li Jġibu ‘l Quddiem is-Saħħa u organizzajna l-attivitajiet li ġejjin"
+
+msgid "field_country"
+msgstr "Pajjiż"
+
+msgid "field_email"
+msgstr "Indirizz tal-e-mail"
+
+msgid "field_firstname"
+msgstr "L-ewwel isem tal-persuna ta’ kuntatt"
+
+msgid "field_lastname"
+msgstr "L-aħħar isem (kunjom)"
+
+msgid "field_postalcode"
+msgstr "Kodiċi Postali"
+
+msgid "field_sector"
+msgstr "Negozjusettur"
+
+msgid "field_telephone"
+msgstr "Numru tat-telefon"
+
+msgid "hw2010_carousel_about"
+msgstr "Il-Kampanja tal-Postijiet tax-Xogħol li Jġibu ‘l Quddiem is-Saħħa 2010-11 mifruxa madwar l-Ewropa kollha sejra tippromwovi manutenzjoni sikura ħielsa mill-inċidenti."
+
+msgid "hw2010_carousel_getinvolved"
+msgstr "Il-Kampanja tal-Postijiet tax-Xogħol li Jġibu ‘l Quddiem is-Saħħa hija miftuħa għall-parteċipazzjoni tal-organizzazzjonijiet u l-individwi kollha. Kun attiv!"
+
+msgid "hw2010_carousel_getitright"
+msgstr "Prinċipji bażiċi u l-aħjar prattiċi fuq kif issir il-manutenzjoni mingħajr periklu."
+
+msgid "hw2010_carousel_maintenance"
+msgstr "Mingħajr manutenzjoni xierqa l-affarijiet jistgħu jmorru drammatikament ħażin fuq il-post tax-xogħol."
+
+msgid "hw2010_carousel_partners"
+msgstr "Firxa wiesgħa ta’ msieħba differenti jikkontribwixxu għall-Kampanja tal-Postijiet tax-Xogħol li Jġibu ‘l Quddiem is-Saħħa. Sir af min huma!"
+
+msgid "hw2010_carousel_press"
+msgstr "Ara l-aħħar stqarrijiet għall-istampa tagħna u kkonsulta r-riżorsi tal-multimedja tagħna!"
+
+msgid "hw2010_carousel_resources"
+msgstr "Minn din is-sezzjoni wieħed jista’ jniżżel varjetà wiesgħa ta’ materjal dwar il-Kampanja."
+
+msgid "label_download"
+msgstr "Niżżel"
+
+msgid "label_license"
+msgstr "Liċenzja"
+
+msgid "label_more"
+msgstr "Aktar…"
+
+msgid "label_right"
+msgstr "Tajjeb"
+
+msgid "label_the_problem"
+msgstr "Il-Problema"
+
+msgid "label_the_solution"
+msgstr "Is-Soluzzjoni"
+
+msgid "label_wrong"
+msgstr "Ħażin"
+
+msgid "other"
+msgstr "Oħrajn"
+
+msgid "partner_form_description_contacted"
+msgstr "Jekk jogħġbok innota li inti tista’ tiġi kkuntattjat mill-Aġenzija biex tipprovdi aktar dettalji dwar l-attivitajiet tal-Kampanja tiegħek"
+
+msgid "partner_form_description_email_certificate"
+msgstr "Aħna sejrin noħorġu ċertifikat tal-email personalizzat ibbażat fuq l-informazzjoni li pprovdejtilna, bil-lingwa li biha mlejt il-formola tal-applikazzjoni."
+
+msgid "partner_form_instructions"
+msgstr "Il-proċedura hija waħda faċli! Kulma għandek tagħmel huwa li timla l-formola elettronika u l-Aġenzija tibgħatlek strongċertifikat personalizzat tal-parteċipazzjonistrong permezz ta’ e-mail bħala rikonoxximent tal-impenn tiegħek lejn il-Kampanja dwar il-Postijiet tax-Xogħol Mingħajr Periklu għas-Saħħa."
+
+msgid "partner_form_instructions_official_partner"
+msgstr "Jekk trid tinvolvi ruħek fil-Kampanja b’mod aktar sostanzjali u ssir strongsieħebsieħba nazzjonali uffiċjali fil-Kampanjastrong, ikkuntattja lill-punt fokali nazzjonali a href=encampaignshw2010partnersfocal-pointskorrispondenti tiegħeka."
+
+msgid "partner_form_required_fields_are_marked"
+msgstr "Il-partijiet meħtieġa huma mmarkati )"
+
+msgid "partner_form_title"
+msgstr "Sieħebsieħba fil-kampanja nazzjonali, formola tal-applikazzjoni"
+
+msgid "slogan_statment_hw2010_campaign"
+msgstr "Kampanja Ewropea dwar is-Sigurtà fil-Manutenzjoni"
+
+#. Default: "Healthy Workplaces Campaign"
+msgid "title_hw_campaign_portlet"
+msgstr "Kampanja ta' Postijiet tax-Xogħol Mimlija Saħħa"

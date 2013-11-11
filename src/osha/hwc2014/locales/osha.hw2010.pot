@@ -1,0 +1,421 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osha.hw2010\n"
+"POT-Creation-Date: 2010-04-06 15:40+0000\n"
+"PO-Revision-Date: 2010-03-30 20:00+0000\n"
+"Last-Translator: Alexander Pilz <pilz@syslab.com>\n"
+"Language-Team: Alexander Pilz <pilz@syslab.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: osha.hw2010\n"
+
+
+# Helper: Translations from osha.po, inserted here to get translated together with the campaign
+
+msgid "title_agency"
+msgstr "European Agency<br />for Safety and Health<br />at Work"
+
+msgid "slogan_hw2010_campaign"
+msgstr "Healthy Workplaces"
+
+msgid "subslogan_hw2010_campaign"
+msgstr "Good for you.<br/>Good for business.<br/>"
+
+msgid "slogan_statment_hw2010_campaign"
+msgstr "A European campaign on Safe Maintenance"
+
+msgid "hw2010_carousel_maintenance"
+msgstr "Without proper maintenance things can go dramatically wrong in the workplace."
+
+msgid "hw2010_carousel_getitright"
+msgstr "Basics and best practices on how to do safe maintenance."
+
+msgid "hw2010_carousel_getinvolved"
+msgstr "The Healthy Workplaces Campaign is open for participation to all organisations and individuals. Get active!"
+
+msgid "hw2010_carousel_resources"
+msgstr "A wide variety of Campaign material is available for download from this section."
+
+msgid "hw2010_carousel_about"
+msgstr "The Europe-wide Healthy Workplaces Campaign 2010-11 will promote accident-free safe maintenance. "
+
+msgid "hw2010_carousel_partners"
+msgstr "A wide range of different partners contribute to the Healthy Workplaces Campaign on safe maintenance. Get to know them!"
+
+msgid "hw2010_carousel_press"
+msgstr "Catch up with our latest press releases and consult our multimedia resources!"
+
+# /End helper
+
+
+#: ./content/scenario.py:29
+#: ./interfaces/scenario.py:63
+msgid "A descriptor for the category of the accident"
+msgstr ""
+
+#: ./content/scenario.py:28
+#: ./interfaces/scenario.py:61
+msgid "Accident Category"
+msgstr ""
+
+#: ./content/scenario.py:122
+#: ./interfaces/scenario.py:33
+msgid "Additional notes on how to handle this scenario"
+msgstr ""
+
+#: ./browser/forms.py:26
+msgid "Address"
+msgstr ""
+
+#: ./browser/forms.py:28
+msgid "City"
+msgstr ""
+
+#: ./browser/forms.py:25
+msgid "Company/Organisation"
+msgstr ""
+
+#: ./profiles/default/types/Scenario.xml
+msgid "Content Type used to reflect the Before After Maintenance Scenarios"
+msgstr ""
+
+#: ./browser/forms.py:29
+msgid "Country"
+msgstr ""
+
+#: ./content/scenario.py:102
+#: ./interfaces/scenario.py:39
+msgid "Description of the right scenario"
+msgstr ""
+
+#: ./content/scenario.py:76
+#: ./interfaces/scenario.py:45
+msgid "Description of the wrong scenario"
+msgstr ""
+
+#: ./content/scenario.py:110
+#: ./interfaces/scenario.py:13
+msgid "Download Material"
+msgstr ""
+
+#: ./content/scenario.py:111
+#: ./interfaces/scenario.py:15
+msgid "Download the scenarios in other formats for print and web"
+msgstr ""
+
+#: ./browser/forms.py:33
+msgid "Email"
+msgstr ""
+
+#: ./content/scenario.py:40
+#: ./interfaces/scenario.py:57
+msgid "Enter here the problem description and relevant factors"
+msgstr ""
+
+#: ./content/scenario.py:50
+#: ./interfaces/scenario.py:51
+msgid "Enter here the solution to the problem and preventive information"
+msgstr ""
+
+#: ./browser/forms.py:30
+msgid "Firstname"
+msgstr ""
+
+#: ./content/scenario.py:31
+msgid "General"
+msgstr ""
+
+#: ./browser/forms.py:31
+msgid "Lastname"
+msgstr ""
+
+#: ./content/scenario.py:121
+#: ./interfaces/scenario.py:31
+msgid "Note"
+msgstr ""
+
+#: ./browser/forms.py:27
+msgid "Postal Code"
+msgstr ""
+
+#: ./content/scenario.py:101
+#: ./interfaces/scenario.py:37
+msgid "Right"
+msgstr ""
+
+#: ./content/scenario.py:93
+#: ./interfaces/scenario.py:19
+msgid "Right Scenario Image"
+msgstr ""
+
+#: ./profiles/default/types/Scenario.xml
+msgid "Scenario"
+msgstr ""
+
+#: ./browser/forms.py:32
+msgid "Sector"
+msgstr ""
+
+#: ./browser/forms.py:34
+msgid "Telephone"
+msgstr ""
+
+#: ./content/scenario.py:39
+#: ./interfaces/scenario.py:55
+msgid "The Problem"
+msgstr ""
+
+#: ./content/scenario.py:49
+#: ./interfaces/scenario.py:49
+msgid "The Solution"
+msgstr ""
+
+#: ./content/scenario.py:94
+#: ./interfaces/scenario.py:21
+msgid "Upload the image of the wright scenario here"
+msgstr ""
+
+#: ./content/scenario.py:68
+#: ./interfaces/scenario.py:27
+msgid "Upload the image of the wrong scenario here"
+msgstr ""
+
+#: ./content/scenario.py:75
+#: ./interfaces/scenario.py:43
+msgid "Wrong"
+msgstr ""
+
+#: ./content/scenario.py:67
+#: ./interfaces/scenario.py:25
+msgid "Wrong Scenario Image"
+msgstr ""
+
+#: ./browser/forms.py:50
+msgid "You entered an invalid email address."
+msgstr ""
+
+#. Default: "Certificate of Participation - Online Application Form"
+#: ./browser/templates/partner-application.pt:16
+msgid "certificate_of_participation"
+msgstr ""
+
+#. Default: "Training events, seminars and workshops Safety demonstrations, displays and exhibitions"
+#: ./browser/templates/partner-application.pt:91
+msgid "checkboxlist1"
+msgstr ""
+
+#. Default: "Poster competitions and quizzes"
+#: ./browser/templates/partner-application.pt:97
+msgid "checkboxlist2"
+msgstr ""
+
+#. Default: "Film, video and multimedia"
+#: ./browser/templates/partner-application.pt:103
+msgid "checkboxlist3"
+msgstr ""
+
+#. Default: "Advertising and promotion campaigns"
+#: ./browser/templates/partner-application.pt:109
+msgid "checkboxlist4"
+msgstr ""
+
+#. Default: "Partnerships between enterprises and schools/colleges/training centres"
+#: ./browser/templates/partner-application.pt:115
+msgid "checkboxlist5"
+msgstr ""
+
+#. Default: "\"Good neighbour schemes\" between large and small enterprises"
+#: ./browser/templates/partner-application.pt:121
+msgid "checkboxlist6"
+msgstr ""
+
+#. Default: "Hazard spotting"
+#: ./browser/templates/partner-application.pt:127
+msgid "checkboxlist7"
+msgstr ""
+
+#. Default: "Inspection days"
+#: ./browser/templates/partner-application.pt:133
+msgid "checkboxlist8"
+msgstr ""
+
+#. Default: "New policy or prevention initiatives"
+#: ./browser/templates/partner-application.pt:139
+msgid "checkboxlist9"
+msgstr ""
+
+#. Default: "The European Campaign 2010-2011 is concerned with Maintenance issues. In this context the Agency is provides illustrations of hazardous situations relating to maintenance in the categories \"<a href=\"#categoryAgriculture\">Agriculture</a>\", \"<a href=\"#categoryCateringCare\">Catering/Care</a>\", \"<a href=\"#categoryConstruction\">Construction</a>\", \"<a href=\"#categoryGeneral\">General</a>\", <a href=\"#categoryManufacturing\">Manufacturing</a>\" and \"<a href=\"#categoryTransport\">Transport</a>\"."
+#: ./browser/templates/scenario-overview.pt:15
+msgid "description_scenario_overview"
+msgstr ""
+
+#. Default: "${name} is required, please correct."
+#: ./browser/forms.py:43
+msgid "error_required"
+msgstr ""
+
+#. Default: "Address"
+#: ./browser/templates/partner-application.pt:41
+msgid "field_address"
+msgstr ""
+
+#. Default: "City"
+#: ./browser/templates/partner-application.pt:51
+msgid "field_city"
+msgstr ""
+
+#. Default: "Company/Organisation"
+#: ./browser/templates/partner-application.pt:36
+msgid "field_company"
+msgstr ""
+
+#. Default: "I/we participated in the Healthy Workplace Campaign and organised the following activities"
+#: ./browser/templates/partner-application.pt:86
+msgid "field_comprehensive_checklis"
+msgstr ""
+
+#. Default: "Country"
+#: ./browser/templates/partner-application.pt:56
+msgid "field_country"
+msgstr ""
+
+#. Default: "E-mail address"
+#: ./browser/templates/partner-application.pt:76
+msgid "field_email"
+msgstr ""
+
+#. Default: "First name of contact person"
+#: ./browser/templates/partner-application.pt:61
+msgid "field_firstname"
+msgstr ""
+
+#. Default: "Last name"
+#: ./browser/templates/partner-application.pt:66
+msgid "field_lastname"
+msgstr ""
+
+#. Default: "Postal code"
+#: ./browser/templates/partner-application.pt:46
+msgid "field_postalcode"
+msgstr ""
+
+#. Default: "Business/sector"
+#: ./browser/templates/partner-application.pt:71
+msgid "field_sector"
+msgstr ""
+
+#. Default: "Telephone number"
+#: ./browser/templates/partner-application.pt:81
+msgid "field_telephone"
+msgstr ""
+
+#. Default: "The Europe-wide Healthy Workplaces Campaign 2010-11 will promote accident-free safe maintenance. "
+msgid "hw2010_carousel_about"
+msgstr ""
+
+#. Default: "The Healthy Workplaces Campaign is open for participation to all organisations and individuals. Get active!"
+msgid "hw2010_carousel_getinvolved"
+msgstr ""
+
+#. Default: "Basics and best practices on how to do safe maintenance."
+msgid "hw2010_carousel_getitright"
+msgstr ""
+
+#. Default: "Without proper maintenance things can go dramatically wrong in the workplace."
+msgid "hw2010_carousel_maintenance"
+msgstr ""
+
+#. Default: "A wide range of different partners contribute to the Healthy Workplaces Campaign on safe maintenance. Get to know them!"
+msgid "hw2010_carousel_partners"
+msgstr ""
+
+#. Default: "Catch up with our latest press releases and consult our multimedia resources!"
+msgid "hw2010_carousel_press"
+msgstr ""
+
+#. Default: "A wide variety of Campaign material is available for download from this section."
+msgid "hw2010_carousel_resources"
+msgstr ""
+
+#. Default: "Download"
+#: ./browser/templates/scenario-detailsview.pt:36
+msgid "label_download"
+msgstr ""
+
+#. Default: "License"
+#: ./browser/templates/scenario-detailsview.pt:39
+msgid "label_license"
+msgstr ""
+
+#. Default: "More…"
+#: ./browser/templates/scenario-overview.pt:27
+msgid "label_more"
+msgstr ""
+
+#. Default: "Right"
+#: ./browser/templates/scenario-detailsview.pt:21
+msgid "label_right"
+msgstr ""
+
+#. Default: "The Problem"
+#: ./browser/templates/scenario-detailsview.pt:30
+msgid "label_the_problem"
+msgstr ""
+
+#. Default: "The Solution"
+#: ./browser/templates/scenario-detailsview.pt:33
+msgid "label_the_solution"
+msgstr ""
+
+#. Default: "Wrong"
+#: ./browser/templates/scenario-detailsview.pt:19
+msgid "label_wrong"
+msgstr ""
+
+#. Default: "Other"
+#: ./browser/templates/partner-application.pt:145
+msgid "other"
+msgstr ""
+
+#. Default: "Please note that you may be contacted by the Agency to provide more details on your Campaign activities."
+#: ./browser/templates/partner-application.pt:159
+msgid "partner_form_description_contacted"
+msgstr ""
+
+#. Default: "We will issue a personalised email certificate based on the information that you provided us with, in the language in which you completed the application form."
+#: ./browser/templates/partner-application.pt:155
+msgid "partner_form_description_email_certificate"
+msgstr ""
+
+#. Default: "It’s easy! Just fill in the electronic form and the Agency will send you by email a <strong>personalised certificate of participation</strong> in recognition of your commitment to the Healthy Workplaces Campaign."
+#: ./browser/templates/partner-application.pt:19
+msgid "partner_form_instructions"
+msgstr ""
+
+#. Default: "If you want to get involved in the Campaign more substantially and become an <strong>official national Campaign partner</strong>, get in touch with your corresponding <a href=\"/en/campaigns/hw2010/partners/focal-points\">national focal point</a>."
+#: ./browser/templates/partner-application.pt:24
+msgid "partner_form_instructions_official_partner"
+msgstr ""
+
+#. Default: "Required fields are marked *)"
+#: ./browser/templates/partner-application.pt:33
+msgid "partner_form_required_fields_are_marked"
+msgstr ""
+
+#. Default: "National campaign partner, application form"
+#: ./browser/templates/partner-application.pt:9
+msgid "partner_form_title"
+msgstr ""
+
+#. Default: "A European campaign on Safe Maintenance"
+msgid "slogan_statment_hw2010_campaign"
+msgstr ""
+
+#. Default: "Healthy Workplaces Campaign"
+msgid "title_hw_campaign_portlet"
+msgstr ""

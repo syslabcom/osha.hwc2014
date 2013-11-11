@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osha.hw2010\n"
+"POT-Creation-Date: 2010-04-06 15:40+0000\n"
+"PO-Revision-Date: 2010-03-30 20:00+0000\n"
+"Last-Translator: EU-OSHA <webmaster@osha.europa.eu>\n"
+"Language-Team: EU-OSHA <webmaster@osha.europa.eu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Code: is\n"
+"Domain: osha.hw2010\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Language-Name: Ìslenska\n"
+
+#: ./content/scenario.py:29 ./interfaces/scenario.py:63
+msgid "A descriptor for the category of the accident"
+msgstr "Lýsing á flokkun slyssins"
+
+#: ./content/scenario.py:28 ./interfaces/scenario.py:61
+msgid "Accident Category"
+msgstr "Slysaflokkur"
+
+#: ./content/scenario.py:122 ./interfaces/scenario.py:33
+msgid "Additional notes on how to handle this scenario"
+msgstr "Viðbótar athugasemdir um hvernig á að taka á þessum aðstæðum"
+
+#: ./browser/forms.py:26
+msgid "Address"
+msgstr "Heimilisfang"
+
+#: ./browser/forms.py:28
+msgid "City"
+msgstr "Borg"
+
+#: ./browser/forms.py:25
+msgid "Company/Organisation"
+msgstr "Fyrirtæki/Samtök"
+
+#: ./profiles/default/types/Scenario.xml
+msgid "Content Type used to reflect the Before After Maintenance Scenarios"
+msgstr "Tegund efnis notað til að skoða Fyrir Eftir Viðhald Aðstæður"
+
+#: ./browser/forms.py:29
+msgid "Country"
+msgstr "Land"
+
+#: ./content/scenario.py:102 ./interfaces/scenario.py:39
+msgid "Description of the right scenario"
+msgstr "Lýsing á réttum aðstæðum"
+
+#: ./content/scenario.py:76 ./interfaces/scenario.py:45
+msgid "Description of the wrong scenario"
+msgstr "Lýsing á röngum aðstæðum"
+
+#: ./content/scenario.py:110 ./interfaces/scenario.py:13
+msgid "Download Material"
+msgstr "Efni til niðurhals"
+
+#: ./content/scenario.py:111 ./interfaces/scenario.py:15
+msgid "Download the scenarios in other formats for print and web"
+msgstr "Náðu í aðstæður á öðrum formum til útprentunar og á vef"
+
+#: ./browser/forms.py:33
+msgid "Email"
+msgstr "Tölvupóstur"
+
+#: ./content/scenario.py:40 ./interfaces/scenario.py:57
+msgid "Enter here the problem description and relevant factors"
+msgstr "Skráið hér lýsingu á vandamáli og viðeigandi þáttum"
+
+#: ./content/scenario.py:50 ./interfaces/scenario.py:51
+msgid "Enter here the solution to the problem and preventive information"
+msgstr "Skráið hér lausn á vandamáli og forvarnarupplýsingar"
+
+#: ./browser/forms.py:30
+msgid "Firstname"
+msgstr "Fornafn"
+
+#: ./content/scenario.py:31
+msgid "General"
+msgstr "Almennt"
+
+#: ./browser/forms.py:31
+msgid "Lastname"
+msgstr "Eftirnafn"
+
+#: ./content/scenario.py:121 ./interfaces/scenario.py:31
+msgid "Note"
+msgstr "Athugasemd"
+
+#: ./browser/forms.py:27
+msgid "Postal Code"
+msgstr "Póstnúmer"
+
+#: ./content/scenario.py:101 ./interfaces/scenario.py:37
+msgid "Right"
+msgstr "Rétt"
+
+#: ./content/scenario.py:93 ./interfaces/scenario.py:19
+msgid "Right Scenario Image"
+msgstr "Rétt mynd af aðstæðum"
+
+#: ./profiles/default/types/Scenario.xml
+msgid "Scenario"
+msgstr "Aðstæður"
+
+#: ./browser/forms.py:32
+msgid "Sector"
+msgstr "Atvinnugeiri"
+
+#: ./browser/forms.py:34
+msgid "Telephone"
+msgstr "Sími"
+
+#: ./content/scenario.py:39 ./interfaces/scenario.py:55
+msgid "The Problem"
+msgstr "Vandamálið"
+
+#: ./content/scenario.py:49 ./interfaces/scenario.py:49
+msgid "The Solution"
+msgstr "Lausnin"
+
+#: ./content/scenario.py:94 ./interfaces/scenario.py:21
+msgid "Upload the image of the right scenario here"
+msgstr "Hlaðið inn mynd af réttum aðstæðum hér"
+
+#: ./content/scenario.py:68 ./interfaces/scenario.py:27
+msgid "Upload the image of the wrong scenario here"
+msgstr " Hlaðið inn mynd af röngum aðstæðum hér "
+
+#: ./content/scenario.py:75 ./interfaces/scenario.py:43
+msgid "Wrong"
+msgstr "Rangt"
+
+#: ./content/scenario.py:67 ./interfaces/scenario.py:25
+msgid "Wrong Scenario Image"
+msgstr "Röng mynd af aðstæðum"
+
+#: ./browser/forms.py:50
+msgid "You entered an invalid email address."
+msgstr "Þú hefur skráð inn rangt tölvufang."
+
+#. Default: "Vottorð um þátttöku – umsóknareyðublað á netinu"
+#: ./browser/templates/partner-application.pt:16
+msgid "certificate_of_participation"
+msgstr "Vottorð um þátttöku – umsóknareyðublað á netinu"
+
+#. Default: "Þjálfunarviðburðir, námskeið og vinnustofur. Öryggissýningar,
+#. sýningargluggar og sýningarviðburðir"
+#: ./browser/templates/partner-application.pt:91
+msgid "checkboxlist1"
+msgstr "Þjálfunarviðburðir, námskeið og vinnustofur. Öryggissýningar, sýningargluggar og sýningarviðburðir"
+
+#. Default: "Plakatasamkeppnir og spurningaleikir"
+#: ./browser/templates/partner-application.pt:97
+msgid "checkboxlist2"
+msgstr "Plakatasamkeppnir og spurningaleikir"
+
+#. Default: "Myndir, myndbönd og margmiðlun"
+#: ./browser/templates/partner-application.pt:103
+msgid "checkboxlist3"
+msgstr "Myndir, myndbönd og margmiðlun"
+
+#. Default: "Auglýsingar og kynningarherferðir"
+#: ./browser/templates/partner-application.pt:109
+msgid "checkboxlist4"
+msgstr "Auglýsingar og kynningarherferðir"
+
+#. Default: "Samvinnuverkefni milli fyrirtækja og
+#. skóla/háskóla/þjálfunarstöðva"
+#: ./browser/templates/partner-application.pt:115
+msgid "checkboxlist5"
+msgstr "Samvinnuverkefni milli fyrirtækja og skóla/háskóla/þjálfunarstöðva"
+
+#. Default: "\"Áætlanir um góða nágranna\“milli stórra og lítilla fyrirtækja“
+#: ./browser/templates/partner-application.pt:121
+msgid "checkboxlist6"
+msgstr "\\\"Áætlanir um góða nágranna\\“milli stórra og lítilla fyrirtækja“"
+
+#. Default: "Að koma auga á hættur"
+#: ./browser/templates/partner-application.pt:127
+msgid "checkboxlist7"
+msgstr "Að koma auga á hættur"
+
+#. Default: "Skoðunardagar"
+#: ./browser/templates/partner-application.pt:133
+msgid "checkboxlist8"
+msgstr "Skoðunardagar"
+
+#. Default: "Ný stefnumótun eða forvarnarfrumkvæði"
+#: ./browser/templates/partner-application.pt:139
+msgid "checkboxlist9"
+msgstr "Ný stefnumótun eða forvarnarfrumkvæði"
+
+#. Default: "Evrópuherferðin 2010-2011 miðar að viðhaldsmálum. Í þessu
+#. samhengi veitir stofnunin myndir af hættulegum aðstæðum í tengslum við
+#. viðhald í flokkunum \"
+#: ./browser/templates/scenario-overview.pt:15
+msgid "description_scenario_overview"
+msgstr "Evrópuherferðin 2010-2011 miðar að viðhaldsmálum. Í þessu samhengi veitir stofnunin myndir af hættulegum aðstæðum í tengslum við viðhald í flokkunum \"<a  href=\"#categoryAgriculture\">Landbúnaður</a>\", \"<a href=\"#categoryCateringCare\">Veitingar/Umönnun</a>\", \"<a href=\"#categoryConstruction\">Byggingariðnaður</a>\", \"<a href=\"#categoryGeneral\">Almennt</a>\", \"<a href=\"#categoryManufacturing\">Framleiðsla</a>\" and \"<a href=\"#categoryTransport\">Samgöngur</a>\"."
+
+#. Default: "${nafn} er skilyrði, vinsamlegast leiðréttið."
+#: ./browser/forms.py:43
+msgid "error_required"
+msgstr "${nafn} er skilyrði, vinsamlegast leiðréttið."
+
+#. Default: "Heimilisfang"
+#: ./browser/templates/partner-application.pt:41
+msgid "field_address"
+msgstr "Heimilisfang"
+
+#. Default: "Borg"
+#: ./browser/templates/partner-application.pt:51
+msgid "field_city"
+msgstr "Borg"
+
+#. Default: " Fyrirtæki/Samtök "
+#: ./browser/templates/partner-application.pt:36
+msgid "field_company"
+msgstr " Fyrirtæki/Samtök "
+
+#. Default: "Ég/við tókum þátt í Heilbrigði á vinnustað herferðinni og
+#. skipulögðum eftirfarandi viðburði"
+#: ./browser/templates/partner-application.pt:86
+msgid "field_comprehensive_checklis"
+msgstr "Ég/við tókum þátt í Heilbrigði á vinnustað herferðinni og skipulögðum eftirfarandi viðburði"
+
+#. Default: "Land"
+#: ./browser/templates/partner-application.pt:56
+msgid "field_country"
+msgstr "Land"
+
+#. Default: "Tölvupóstfang"
+#: ./browser/templates/partner-application.pt:76
+msgid "field_email"
+msgstr "Tölvupóstfang"
+
+#. Default: "Fornafn tengiliðs"
+#: ./browser/templates/partner-application.pt:61
+msgid "field_firstname"
+msgstr "Fornafn tengiliðs"
+
+#. Default: "Eftirnafn"
+#: ./browser/templates/partner-application.pt:66
+msgid "field_lastname"
+msgstr "Eftirnafn"
+
+#. Default: "Póstnúmer"
+#: ./browser/templates/partner-application.pt:46
+msgid "field_postalcode"
+msgstr "Póstnúmer"
+
+#. Default: "Atvinnugrein/geiri"
+#: ./browser/templates/partner-application.pt:71
+msgid "field_sector"
+msgstr "Atvinnugrein/geiri"
+
+#. Default: "Símanúmer"
+#: ./browser/templates/partner-application.pt:81
+msgid "field_telephone"
+msgstr "Símanúmer"
+
+#. Default: " Evrópuherferðin Heilbrigði á vinnustað 2010-2011 mun stuðla að
+#. slysalausu viðhaldi."
+msgid "hw2010_carousel_about"
+msgstr " Evrópuherferðin Heilbrigði á vinnustað 2010-2011 mun stuðla að slysalausu viðhaldi."
+
+#. Default: " Herferðin um Heilbrigði á vinnustað er opin öllum fyrirtækjum og
+#. einstaklingum til þátttöku. Takið þátt!"
+msgid "hw2010_carousel_getinvolved"
+msgstr " Herferðin um Heilbrigði á vinnustað er opin öllum fyrirtækjum og einstaklingum til þátttöku. Takið þátt!"
+
+#. Default: " Grunnatriði og bestu vinnubrögð um hvernig á að fara að öruggu
+#. viðhaldi."
+msgid "hw2010_carousel_getitright"
+msgstr "Grunnatriði og bestu vinnubrögð um hvernig á að fara að öruggu viðhaldi."
+
+#. Default: "Án rétts viðhalds geta hlutir farið alvarlega úrskeiðis á
+#. vinnustaðnum."
+msgid "hw2010_carousel_maintenance"
+msgstr "Án rétts viðhalds geta hlutir farið alvarlega úrskeiðis á vinnustaðnum."
+
+#. Default: " Margvíslegir mismunandi þátttakendur eiga þátt í Heilbrigði á
+#. vinnustað herferðinni um öruggt viðhald. Kynnið ykkur þá!"
+msgid "hw2010_carousel_partners"
+msgstr "Margvíslegir mismunandi þátttakendur eiga þátt í Heilbrigði á vinnustað herferðinni um öruggt viðhald. Kynnið ykkur þá!"
+
+#. Default: "Náðu nýjustu fréttatilkynningum okkar og ráðfærðu þig við
+#. margmiðlunarúrræði okkar!"
+msgid "hw2010_carousel_press"
+msgstr "Náðu nýjustu fréttatilkynningum okkar og ráðfærðu þig við margmiðlunarúrræði okkar!"
+
+#. Default: "Mikið úrval efnis um herferðina er tiltækt til niðurhals frá
+#. þessum hluta."
+msgid "hw2010_carousel_resources"
+msgstr "Mikið úrval efnis um herferðina er tiltækt til niðurhals frá þessum hluta."
+
+#. Default: "Sækja"
+#: ./browser/templates/scenario-detailsview.pt:36
+msgid "label_download"
+msgstr "Sækja"
+
+#. Default: "Leyfi"
+#: ./browser/templates/scenario-detailsview.pt:39
+msgid "label_license"
+msgstr "Leyfi"
+
+#. Default: "Meira…"
+#: ./browser/templates/scenario-overview.pt:27
+msgid "label_more"
+msgstr "Meira…"
+
+#. Default: "Rétt"
+#: ./browser/templates/scenario-detailsview.pt:21
+msgid "label_right"
+msgstr "Rétt"
+
+#. Default: "Vandamálið"
+#: ./browser/templates/scenario-detailsview.pt:30
+msgid "label_the_problem"
+msgstr "Vandamálið"
+
+#. Default: "Lausnin"
+#: ./browser/templates/scenario-detailsview.pt:33
+msgid "label_the_solution"
+msgstr "Lausnin"
+
+#. Default: "Rangt"
+#: ./browser/templates/scenario-detailsview.pt:19
+msgid "label_wrong"
+msgstr "Rangt"
+
+#. Default: "Annað"
+#: ./browser/templates/partner-application.pt:145
+msgid "other"
+msgstr "Annað"
+
+#. Default: "Vinsamlegast athugið að stofnuni gæti haft samband við þig til að
+#. fá meiri upplýsingar um virkni þína í herferðinni."
+#: ./browser/templates/partner-application.pt:159
+msgid "partner_form_description_contacted"
+msgstr "Vinsamlegast athugið að stofnuni gæti haft samband við þig til að fá meiri upplýsingar um virkni þína í herferðinni."
+
+#. Default: "Við munum gefa út einstaklingsbundið tölvupóstsvottorð á
+#. grundvelli þeirra upplýsinga sem þið gefið, á því tungumáli sem umsóknin er
+#. gerð á."
+#: ./browser/templates/partner-application.pt:155
+msgid "partner_form_description_email_certificate"
+msgstr "Við munum gefa út einstaklingsbundið tölvupóstsvottorð á grundvelli þeirra upplýsinga sem þið gefið, á því tungumáli sem umsóknin er gerð á."
+
+#. Default: "Þetta er auðvelt! Fyllið bara út rafræna eyðublaðið og stofnunin
+#. mun senda þér í tölvupósti <strong>persónulegt vottorð um þátttöku
+#. </strong> til viðurkenningar um þátttöku þína í Heilbrigði á vinnustað
+#. herferðinni."
+#: ./browser/templates/partner-application.pt:19
+msgid "partner_form_instructions"
+msgstr "Þetta er auðvelt! Fyllið bara út rafræna eyðublaðið og stofnunin mun senda þér í tölvupósti <strong>persónulegt vottorð um þátttöku </strong> til viðurkenningar um þátttöku þína í Heilbrigði á vinnustað herferðinni."
+
+#. Default: "Ef þú vilt taka meiri þátt í herferðinni og vera <strong>opinber
+#. landsbundinn meðlimur herferðarinnar </strong> , skalti koma þér í samband
+#. við réttan <a href=\"/en/campaigns/hw2010/partners/focal-
+#. points\">landsbundinn stjórnanda</a>."
+#: ./browser/templates/partner-application.pt:24
+msgid "partner_form_instructions_official_partner"
+msgstr "Ef þú vilt taka meiri þátt í herferðinni og vera <strong>opinber landsbundinn meðlimur herferðarinnar </strong> , skalti koma þér í samband við réttan <a href=\"/is/campaigns/hw2010/partners/focal-points\">landsbundinn stjórnanda</a>."
+
+#. Default: "Svæði sem fylla þarf út eru merkt *)"
+#: ./browser/templates/partner-application.pt:33
+msgid "partner_form_required_fields_are_marked"
+msgstr "Svæði sem fylla þarf út eru merkt *)"
+
+#. Default: "Landsbundinn meðlimur herferðarinnar, umsóknareyðublað"
+#: ./browser/templates/partner-application.pt:9
+msgid "partner_form_title"
+msgstr "Landsbundinn meðlimur herferðarinnar, umsóknareyðublað"
+
+#. Default: "Evrópuherferð um öruggt viðhald"
+msgid "slogan_statment_hw2010_campaign"
+msgstr "Evrópuherferð um öruggt viðhald"
+
+#. Default: Healthy Workplaces Campaign
+msgid "title_hw_campaign_portlet"
+msgstr "Vinnuverndarherferð"

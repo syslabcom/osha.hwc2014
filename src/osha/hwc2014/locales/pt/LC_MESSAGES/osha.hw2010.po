@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osha.hw2010\n"
+"POT-Creation-Date: 2010-04-06 15:40+0000\n"
+"PO-Revision-Date: 2010-03-30 20:00+0000\n"
+"Last-Translator: Alexander Pilz <pilz@syslab.com>\n"
+"Language-Team: Alexander Pilz <pilz@syslab.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: pt\n"
+"Language-Name: Portuguese\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: osha.hw2010\n"
+
+
+msgid "A descriptor for the category of the accident"
+msgstr "Um descritor da categoria do acidente"
+
+msgid "Accident Category"
+msgstr "Categoria do acidente"
+
+msgid "Additional notes on how to handle this scenario"
+msgstr "Notas adicionais sobre como lidar com esta situação"
+
+msgid "Address"
+msgstr "Endereço"
+
+msgid "City"
+msgstr "Localidade"
+
+msgid "Company/Organisation"
+msgstr "Empresa/Organização"
+
+msgid "Content Type used to reflect the Before After Maintenance Scenarios"
+msgstr "Tipo de conteúdo utilizado para ilustrar as situações de manutenção Antes e Depois"
+
+msgid "Country"
+msgstr "País"
+
+msgid "Description of the right scenario"
+msgstr "Descrição da situação correcta"
+
+msgid "Description of the wrong scenario"
+msgstr "Descrição da situação incorrecta"
+
+msgid "Download Material"
+msgstr "Descarregar o material"
+
+msgid "Download the scenarios in other formats for print and web"
+msgstr "Descarregar as situações noutros formatos, para impressão e para utilização na web"
+
+msgid "Email"
+msgstr "Endereço de correio electrónico"
+
+msgid "Enter here the problem description and relevant factors"
+msgstr "Insira aqui a descrição do problema e os factores relevantes"
+
+msgid "Enter here the solution to the problem and preventive information"
+msgstr "Insira aqui a solução para o problema e a informação de prevenção"
+
+msgid "Firstname"
+msgstr "Nome próprio"
+
+msgid "General"
+msgstr "Geral"
+
+msgid "Lastname"
+msgstr "Apelido"
+
+msgid "Note"
+msgstr "Nota"
+
+msgid "Postal Code"
+msgstr "Código postal"
+
+msgid "Right"
+msgstr "Correcta"
+
+msgid "Right Scenario Image"
+msgstr "Imagem de uma situação correcta"
+
+msgid "Scenario"
+msgstr "Situação"
+
+msgid "Sector"
+msgstr "Sector"
+
+msgid "Telephone"
+msgstr "Telefone"
+
+msgid "The Problem"
+msgstr "O problema"
+
+msgid "The Solution"
+msgstr "A solução"
+
+msgid "Upload the image of the wright scenario here"
+msgstr "Carregue aqui a imagem da situação correcta"
+
+msgid "Upload the image of the wrong scenario here"
+msgstr "Carregue aqui a imagem da situação incorrecta"
+
+msgid "Wrong"
+msgstr "Incorrecta"
+
+msgid "Wrong Scenario Image"
+msgstr "Imagem de uma situação incorrecta"
+
+msgid "You entered an invalid email address."
+msgstr "O endereço de correio electrónico que inseriu não é válido."
+
+msgid "certificate_of_participation"
+msgstr "Certificado de participação – Formulário de inscrição em linha"
+
+msgid "checkboxlist1"
+msgstr "Acções de formação, seminários e oficinas de trabalho Demonstrações de segurança, mostras e exposições"
+
+msgid "checkboxlist2"
+msgstr "Concursos de cartazes e de pergunta-resposta"
+
+msgid "checkboxlist3"
+msgstr "Filme, vídeo e multimédia"
+
+msgid "checkboxlist4"
+msgstr "Campanhas de publicidade e de promoção"
+
+msgid "checkboxlist5"
+msgstr "Parcerias entre empresas e escolas/estabelecimentos de ensino superior/centros de formação"
+
+msgid "checkboxlist6"
+msgstr "\"Programas de boa vizinhança\" entre grandes e pequenas empresas"
+
+msgid "checkboxlist7"
+msgstr "Detecção de riscos"
+
+msgid "checkboxlist8"
+msgstr "Dias de inspecção"
+
+msgid "checkboxlist9"
+msgstr "Novas políticas ou iniciativas de prevenção"
+
+msgid "description_scenario_overview"
+msgstr "A Campanha Europeia 2010-2011 centra-se nas questões da Manutenção. Neste âmbito, a Agência disponibiliza ilustrações de situações de risco, no que concerne à Manutenção, nas seguintes categorias: \"<a href=\"#categoryAgriculture\">Agricultura</a>\", \"<a href=\"#categoryCateringCare\">Catering/Prestação de cuidados</a>\", \"<a href=\"#categoryConstruction\">Construção</a>\", \"<a href=\"#categoryGeneral\">Geral</a>\", <a href=\"#categoryManufacturing\">Indústria</a>\" and \"<a href=\"#categoryTransport\">Transportes</a>\"."
+
+msgid "error_required"
+msgstr "${name} obrigatório, efectuar as correcções necessárias."
+
+msgid "field_address"
+msgstr "Endereço"
+
+msgid "field_city"
+msgstr "Localidade"
+
+msgid "field_company"
+msgstr "Empresa/Organização"
+
+msgid "field_comprehensive_checklis"
+msgstr "Participei/participámos na Campanha Locais de Trabalho Seguros e Saudáveis e organizámos as seguintes actividades"
+
+msgid "field_country"
+msgstr "País"
+
+msgid "field_email"
+msgstr "Endereço de correio electrónico"
+
+msgid "field_firstname"
+msgstr "Nome próprio da pessoa de contacto"
+
+msgid "field_lastname"
+msgstr "Apelido"
+
+msgid "field_postalcode"
+msgstr "Código postal"
+
+msgid "field_sector"
+msgstr "Empresa/sector"
+
+msgid "field_telephone"
+msgstr "Número de telefone"
+
+msgid "hw2010_carousel_about"
+msgstr "A Campanha Europeia Locais de Trabalho Seguros e Saudáveis 2010-11 promove os trabalhos de reparação e manutenção seguros e sem acidentes."
+
+msgid "hw2010_carousel_getinvolved"
+msgstr "A Campanha Europeia Locais de Trabalho Seguros e Saudáveis está aberta à participação de organizações e particulares. Entre em acção!"
+
+msgid "hw2010_carousel_getitright"
+msgstr "Factos básicos e boas práticas no que concerne à realização de trabalhos de reparação e manutenção seguros."
+
+msgid "hw2010_carousel_maintenance"
+msgstr "Na ausência de reparação e manutenção adequadas, as coisas podem correr muito mal no local de trabalho."
+
+msgid "hw2010_carousel_partners"
+msgstr "A Campanha Locais de Trabalho Seguros e Saudáveis conta com a contribuição de um leque alargado de diferentes parceiros. Conheça os!"
+
+msgid "hw2010_carousel_press"
+msgstr "Mantenha se a par dos nossos comunicados de imprensa mais recentes e consulte os nossos recursos multimédia!"
+
+msgid "hw2010_carousel_resources"
+msgstr "Nesta secção pode descarregar uma grande variedade de materiais relativos à Campanha."
+
+msgid "label_download"
+msgstr "Descarregar"
+
+msgid "label_license"
+msgstr "Licença"
+
+msgid "label_more"
+msgstr "Mais…"
+
+msgid "label_right"
+msgstr "Correcta"
+
+msgid "label_the_problem"
+msgstr "O problema"
+
+msgid "label_the_solution"
+msgstr "A solução"
+
+msgid "label_wrong"
+msgstr "Incorrecta"
+
+msgid "other"
+msgstr "Outros"
+
+msgid "partner_form_description_contacted"
+msgstr "Tenha em consideração a possibilidade de ser contactado pela Agência para apresentar informação mais detalhada sobre as suas actividades no âmbito da Campanha"
+
+msgid "partner_form_description_email_certificate"
+msgstr "Emitiremos um certificado personalizado, por correio electrónico, com base na informação que nos forneceu e na língua em que preencheu o formulário de inscrição."
+
+msgid "partner_form_instructions"
+msgstr "É fácil! Simplesmente preencha o formulário electrónico e a Agência enviar lhe á, por correio electrónico, um <strong>certificado de participação personalizado</strong>, como reconhecimento pelo seu empenho na Campanha Locais de Trabalho Seguros e Saudáveis."
+
+msgid "partner_form_instructions_official_partner"
+msgstr "Se desejar envolver se mais directamente na Campanha e ser um <strong>parceiro oficial da Campanha no seu país</strong>, entre em contacto com o <a href=\"/en/campaigns/hw2010/partners/focal-points\">respectivo ponto focal nacional</a>."
+
+msgid "partner_form_required_fields_are_marked"
+msgstr "Os campos obrigatórios encontram se assinalados com *)"
+
+msgid "partner_form_title"
+msgstr "Formulário de inscrição de parceiro nacional na campanha"
+
+msgid "slogan_statment_hw2010_campaign"
+msgstr "Uma Campanha Europeia sobre trabalhos de reparação e manutenção seguros"
+
+#. Default: "Healthy Workplaces Campaign"
+msgid "title_hw_campaign_portlet"
+msgstr "Campanha Locais de Trabalho Seguros e Saudáveis"

@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osha.hw2010\n"
+"POT-Creation-Date: 2010-04-06 15:40+0000\n"
+"PO-Revision-Date: 2010-03-30 20:00+0000\n"
+"Last-Translator: Alexander Pilz <pilz@syslab.com>\n"
+"Language-Team: Alexander Pilz <pilz@syslab.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: nl\n"
+"Language-Name: Dutch\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: osha.hw2010\n"
+
+
+msgid "A descriptor for the category of the accident"
+msgstr "Een beschrijving van de ongevalscategorie"
+
+msgid "Accident Category"
+msgstr "Ongevalscategorie"
+
+msgid "Additional notes on how to handle this scenario"
+msgstr "Aanvullende opmerkingen over hoe te handelen in dit scenario"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "City"
+msgstr "Plaats"
+
+msgid "Company/Organisation"
+msgstr "Bedrijf/organisatie"
+
+msgid "Content Type used to reflect the Before After Maintenance Scenarios"
+msgstr "Inhoudstype om de onderhoudsscenario’s voor en na aan te geven"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Description of the right scenario"
+msgstr "Beschrijving van het correcte scenario"
+
+msgid "Description of the wrong scenario"
+msgstr "Beschrijving van het verkeerde scenario"
+
+msgid "Download Material"
+msgstr "Materiaal downloaden"
+
+msgid "Download the scenarios in other formats for print and web"
+msgstr "De scenario’s in andere, voor het web en afdrukken geschikte formats downloaden"
+
+msgid "Email"
+msgstr "E-mailadres"
+
+msgid "Enter here the problem description and relevant factors"
+msgstr "Geef hier de probleembeschrijving en relevante factoren op"
+
+msgid "Enter here the solution to the problem and preventive information"
+msgstr "Geef hier de oplossing voor het probleem aan en informatie over hoe het probleem te voorkomen"
+
+msgid "Firstname"
+msgstr "Voornaam"
+
+msgid "General"
+msgstr "Algemeen"
+
+msgid "Lastname"
+msgstr "Achternaam"
+
+msgid "Note"
+msgstr "Opmerking"
+
+msgid "Postal Code"
+msgstr "Postcode"
+
+msgid "Right"
+msgstr "Correct"
+
+msgid "Right Scenario Image"
+msgstr "Afbeelding bij het correcte scenario"
+
+msgid "Scenario"
+msgstr "Scenario"
+
+msgid "Sector"
+msgstr "Sector"
+
+msgid "Telephone"
+msgstr "Telefoon"
+
+msgid "The Problem"
+msgstr "Het probleem"
+
+msgid "The Solution"
+msgstr "De oplossing"
+
+msgid "Upload the image of the wright scenario here"
+msgstr "Upload hier de afbeelding bij het correcte scenario"
+
+msgid "Upload the image of the wrong scenario here"
+msgstr "Upload hier de afbeelding bij het verkeerde scenario"
+
+msgid "Wrong"
+msgstr "Verkeerd"
+
+msgid "Wrong Scenario Image"
+msgstr "Afbeelding bij het verkeerde scenario"
+
+msgid "You entered an invalid email address."
+msgstr "U hebt een ongeldig e-mailadres opgegeven"
+
+msgid "certificate_of_participation"
+msgstr "Deelnamecertificaat – onlineaanvraagformulier"
+
+msgid "checkboxlist1"
+msgstr "Cursussen, seminars en workshops "
+
+msgid "checkboxlist2"
+msgstr "Posterwedstrijden en quizzen"
+
+msgid "checkboxlist3"
+msgstr "Film, video en multimedia"
+
+msgid "checkboxlist4"
+msgstr "Advertentie- en promotiecampagnes"
+
+msgid "checkboxlist5"
+msgstr "Partnerschappen tussen bedrijven en scholen/universiteiten/opleidingscentra"
+
+msgid "checkboxlist6"
+msgstr "Programma's voor \"goed nabuurschap\" tussen grote en kleine bedrijven"
+
+msgid "checkboxlist7"
+msgstr "Spotten van gevaren"
+
+msgid "checkboxlist8"
+msgstr "Inspectiedagen"
+
+msgid "checkboxlist9"
+msgstr "Nieuwe beleids- of preventie-initiatieven"
+
+msgid "description_scenario_overview"
+msgstr "De Europese campagne 2010-2011 gaat over onderhoudswerk. In dit kader biedt het Agentschap illustraties van gevaarlijke situaties rondom onderhoud in de sectoren \"<a href=\"#categoryAgriculture\">Landbouw</a>\", \"<a href=\"#categoryCateringCare\">Catering/zorg</a>\", \"<a href=\"#categoryConstruction\">Bouwnijverheid</a>\", \"<a href=\"#categoryGeneral\">Algemeen</a>\", <a href=\"#categoryManufacturing\">Productie</a>\" and \"<a href=\"#categoryTransport\">Transport</a>\"."
+
+msgid "error_required"
+msgstr "${name} is een verplicht veld. Vul dit alstublieft in."
+
+msgid "field_address"
+msgstr "Adres"
+
+msgid "field_city"
+msgstr "Plaats"
+
+msgid "field_company"
+msgstr "Bedrijf/organisatie"
+
+msgid "field_comprehensive_checklis"
+msgstr "Ik heb/wij hebben deelgenomen aan de campagne voor veiligheid en gezondheid op de werkplek met de volgende activiteiten"
+
+msgid "field_country"
+msgstr "Land"
+
+msgid "field_email"
+msgstr "E-mailadres"
+
+msgid "field_firstname"
+msgstr "Voornaam contactpersoon"
+
+msgid "field_lastname"
+msgstr "Achternaam"
+
+msgid "field_postalcode"
+msgstr "Postcode"
+
+msgid "field_sector"
+msgstr "Bedrijfssector/branche"
+
+msgid "field_telephone"
+msgstr "Telefoonnummer"
+
+msgid "hw2010_carousel_about"
+msgstr "De Europawijde campagne ‘Een gezonde werkplek’ 2010-2011 bevordert het veilig uitvoeren van onderhoudswerk zonder ongevallen."
+
+msgid "hw2010_carousel_getinvolved"
+msgstr "De campagne ‘Een gezonde werkplek’ staat open voor alle organisaties en individuele personen. Doe mee!"
+
+msgid "hw2010_carousel_getitright"
+msgstr "Het veilig uitvoeren van onderhoudswerk: elementaire informatie en beste praktijken."
+
+msgid "hw2010_carousel_maintenance"
+msgstr "Zonder goed onderhoud kunnen op het werk dramatische dingen gebeuren."
+
+msgid "hw2010_carousel_partners"
+msgstr "Diverse partners dragen bij aan de campagne ‘Een gezonde werkplek’ over het veilig uitvoeren van onderhoudswerk. Maak kennis met hen!"
+
+msgid "hw2010_carousel_press"
+msgstr "Lees onze recente persberichten en bekijk ons multimediamateriaal!"
+
+msgid "hw2010_carousel_resources"
+msgstr "Vanaf deze pagina kunt u een grote verscheidenheid aan campagnemateriaal downloaden."
+
+msgid "label_download"
+msgstr "Downloaden"
+
+msgid "label_license"
+msgstr "Licentie"
+
+msgid "label_more"
+msgstr "Meer…"
+
+msgid "label_right"
+msgstr "Correct"
+
+msgid "label_the_problem"
+msgstr "Het probleem"
+
+msgid "label_the_solution"
+msgstr "De oplossing"
+
+msgid "label_wrong"
+msgstr "Verkeerd"
+
+msgid "other"
+msgstr "Overig"
+
+msgid "partner_form_description_contacted"
+msgstr " Het is mogelijk dat het Agentschap contact met u zal opnemen voor meer informatie over uw campagneactiviteiten."
+
+msgid "partner_form_description_email_certificate"
+msgstr "Op basis van de informatie die u ons stuurt, maakt het Agentschap voor u een persoonlijk certificaat in de taal waarin u het deelnameformulier hebt ingevuld."
+
+msgid "partner_form_instructions"
+msgstr "Het is heel eenvoudig! Vul het elektronische formulier in en het Agentschap stuurt u per e-mail een <strong>persoonlijk deelnamecertificaat</strong> als dank voor uw medewerking aan de campagne ‘Een gezonde werkplek’."
+
+msgid "partner_form_instructions_official_partner"
+msgstr "Als u een grotere rol in de campagne wilt spelen, dan kan dat door <strong>officiële nationale campagnepartner</strong> te worden. Neem daarvoor contact op met uw eigen <a href=\"/en/campaigns/hw2010/partners/focal-points\">nationale focal point</a>."
+
+msgid "partner_form_required_fields_are_marked"
+msgstr " Verplichte velden zijn aangegeven met *)"
+
+msgid "partner_form_title"
+msgstr " Aanvraagformulier nationale campagnepartner"
+
+msgid "slogan_statment_hw2010_campaign"
+msgstr "Een Europese campagne over het veilig uitvoeren van onderhoudswerk"
+
+#. Default: "Healthy Workplaces Campaign"
+msgid "title_hw_campaign_portlet"
+msgstr "Campagne 'een gezonde werkplek'"

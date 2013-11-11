@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osha.hw2010\n"
+"POT-Creation-Date: 2010-04-06 15:40+0000\n"
+"PO-Revision-Date: 2010-03-30 20:00+0000\n"
+"Last-Translator: Alexander Pilz <pilz@syslab.com>\n"
+"Language-Team: Alexander Pilz <pilz@syslab.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: osha.hw2010\n"
+
+msgid "A descriptor for the category of the accident"
+msgstr "A descriptor for the category of the accident"
+
+msgid "Accident Category"
+msgstr "Accident Category"
+
+msgid "Additional notes on how to handle this scenario"
+msgstr "Additional notes on how to handle this scenario"
+
+msgid "Address"
+msgstr "Address"
+
+msgid "City"
+msgstr "City"
+
+msgid "Company/Organisation"
+msgstr "Company/Organisation"
+
+msgid "Content Type used to reflect the Before After Maintenance Scenarios"
+msgstr "Content Type used to reflect the Before After Maintenance Scenarios"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Description of the right scenario"
+msgstr "Description of the right scenario"
+
+msgid "Description of the wrong scenario"
+msgstr "Description of the wrong scenario"
+
+msgid "Download Material"
+msgstr "Download Material"
+
+msgid "Download the scenarios in other formats for print and web"
+msgstr "Download the scenarios in other formats for print and web"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Enter here the problem description and relevant factors"
+msgstr "Enter here the problem description and relevant factors"
+
+msgid "Enter here the solution to the problem and preventive information"
+msgstr "Enter here the solution to the problem and preventive information"
+
+msgid "Firstname"
+msgstr "Firstname"
+
+msgid "General"
+msgstr "General"
+
+msgid "Lastname"
+msgstr "Lastname"
+
+msgid "Note"
+msgstr "Note"
+
+msgid "Postal Code"
+msgstr "Postal Code"
+
+msgid "Right"
+msgstr "Right"
+
+msgid "Right Scenario Image"
+msgstr "Right Scenario Image"
+
+msgid "Scenario"
+msgstr "Scenario"
+
+msgid "Sector"
+msgstr "Sector"
+
+msgid "Telephone"
+msgstr "Telephone"
+
+msgid "The Problem"
+msgstr "The Problem"
+
+msgid "The Solution"
+msgstr "The Solution"
+
+msgid "Upload the image of the wright scenario here"
+msgstr "Upload the image of the right scenario here"
+
+msgid "Upload the image of the wrong scenario here"
+msgstr "Upload the image of the wrong scenario here"
+
+msgid "Wrong"
+msgstr "Wrong"
+
+msgid "Wrong Scenario Image"
+msgstr "Wrong Scenario Image"
+
+msgid "You entered an invalid email address."
+msgstr "You entered an invalid email address."
+
+msgid "certificate_of_participation"
+msgstr "Certificate of Participation - Online Application Form"
+
+msgid "checkboxlist1"
+msgstr "Training events, seminars and workshops Safety demonstrations, displays and exhibitions"
+
+msgid "checkboxlist2"
+msgstr "Poster competitions and quizzes"
+
+msgid "checkboxlist3"
+msgstr "Film, video and multimedia"
+
+msgid "checkboxlist4"
+msgstr "Advertising and promotion campaigns"
+
+msgid "checkboxlist5"
+msgstr "Partnerships between enterprises and schools/colleges/training centres"
+
+msgid "checkboxlist6"
+msgstr "\"Good neighbour schemes\" between large and small enterprises"
+
+msgid "checkboxlist7"
+msgstr "Hazard spotting"
+
+msgid "checkboxlist8"
+msgstr "Inspection days"
+
+msgid "checkboxlist9"
+msgstr "New policy or prevention initiatives"
+
+msgid "description_scenario_overview"
+msgstr "See examples of hazardous situations related to maintenance illustrating the wrong and the right solutions relating to maintenance in the categories \"<a href=\"#categoryAgriculture\">Agriculture</a>\", \"<a href=\"#categoryCateringCare\">Catering/Care</a>\", \"<a href=\"#categoryConstruction\">Construction</a>\", \"<a href=\"#categoryGeneral\">General</a>\", <a href=\"#categoryManufacturing\">Manufacturing</a>\" and \"<a href=\"#categoryTransport\">Transport</a>\"."
+
+msgid "error_required"
+msgstr "${name} is required, please correct."
+
+msgid "field_address"
+msgstr "Address"
+
+msgid "field_city"
+msgstr "City"
+
+msgid "field_company"
+msgstr "Company/Organisation"
+
+msgid "field_comprehensive_checklis"
+msgstr "I/we participated in the Healthy Workplace Campaign and organised the following activities"
+
+msgid "field_country"
+msgstr "Country"
+
+msgid "field_email"
+msgstr "E-mail address"
+
+msgid "field_firstname"
+msgstr "First name of contact person"
+
+msgid "field_lastname"
+msgstr "Last name"
+
+msgid "field_postalcode"
+msgstr "Postal code"
+
+msgid "field_sector"
+msgstr "Business/sector"
+
+msgid "field_telephone"
+msgstr "Telephone number"
+
+msgid "hw2010_carousel_about"
+msgstr "The Europe-wide Healthy Workplaces Campaign 2010-11 will promote accident-free safe maintenance. "
+
+msgid "hw2010_carousel_getinvolved"
+msgstr "The Healthy Workplaces Campaign is open for participation to all organisations and individuals. Get active!"
+
+msgid "hw2010_carousel_getitright"
+msgstr "Basics and best practices on how to do safe maintenance."
+
+msgid "hw2010_carousel_maintenance"
+msgstr "Without proper maintenance things can go dramatically wrong in the workplace."
+
+msgid "hw2010_carousel_partners"
+msgstr "A wide range of different partners contribute to the Healthy Workplaces Campaign on safe maintenance. Get to know them!"
+
+msgid "hw2010_carousel_press"
+msgstr "Catch up with our latest press releases and consult our multimedia resources!"
+
+msgid "hw2010_carousel_resources"
+msgstr "A wide variety of Campaign material is available for download from this section."
+
+msgid "label_download"
+msgstr "Download"
+
+msgid "label_license"
+msgstr "License"
+
+msgid "label_more"
+msgstr "More…"
+
+msgid "label_right"
+msgstr "Right"
+
+msgid "label_the_problem"
+msgstr "The Problem"
+
+msgid "label_the_solution"
+msgstr "The Solution"
+
+msgid "label_wrong"
+msgstr "Wrong"
+
+msgid "other"
+msgstr "Other"
+
+msgid "partner_form_description_contacted"
+msgstr "Please note that you may be contacted by the Agency to provide more details on your Campaign activities."
+
+msgid "partner_form_description_email_certificate"
+msgstr "We will issue a personalised email certificate based on the information that you provided us with, in the language in which you completed the application form."
+
+msgid "partner_form_instructions"
+msgstr "It’s easy! Just fill in the electronic form and the Agency will send you by email a <strong>personalised certificate of participation</strong> in recognition of your commitment to the Healthy Workplaces Campaign."
+
+msgid "partner_form_instructions_official_partner"
+msgstr "If you want to get involved in the Campaign more substantially and become an <strong>official national Campaign partner</strong>, get in touch with your corresponding <a href=\"/en/campaigns/hw2010/partners/focal-points\">national focal point</a>."
+
+msgid "partner_form_required_fields_are_marked"
+msgstr "Required fields are marked *)"
+
+msgid "partner_form_title"
+msgstr "National campaign partner, application form"
+
+msgid "slogan_statment_hw2010_campaign"
+msgstr "A European campaign on Safe Maintenance"
+
+msgid "title_hw_campaign_portlet"
+msgstr "Healthy Workplaces Campaign"
+

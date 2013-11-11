@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osha.hw2010\n"
+"POT-Creation-Date: 2010-04-06 15:40+0000\n"
+"PO-Revision-Date: 2010-03-30 20:00+0000\n"
+"Last-Translator: Alexander Pilz <pilz@syslab.com>\n"
+"Language-Team: Alexander Pilz <pilz@syslab.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: hu\n"
+"Language-Name: Hungarian\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: osha.hw2010\n"
+
+
+msgid "A descriptor for the category of the accident"
+msgstr "Baleseti kategória leírása"
+
+msgid "Accident Category"
+msgstr "Baleseti kategória"
+
+msgid "Additional notes on how to handle this scenario"
+msgstr "További megjegyzések az ilyen helyzet kezelési módjára"
+
+msgid "Address"
+msgstr "Cím"
+
+msgid "City"
+msgstr "Város"
+
+msgid "Company/Organisation"
+msgstr "Vállalat/Szervezet"
+
+msgid "Content Type used to reflect the Before After Maintenance Scenarios"
+msgstr "A „karbantartás előtt és után” típusú forgatókönyvekre jellemző tartalomtípus"
+
+msgid "Country"
+msgstr "Ország"
+
+msgid "Description of the right scenario"
+msgstr "A helyes forgatókönyv leírása"
+
+msgid "Description of the wrong scenario"
+msgstr "A nem megfelelő forgatókönyv leírása"
+
+msgid "Download Material"
+msgstr "Anyagok letöltése"
+
+msgid "Download the scenarios in other formats for print and web"
+msgstr "A forgatókönyvek letöltése más, nyomtatásra szánt vagy webes formátumban"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Enter here the problem description and relevant factors"
+msgstr "Itt írja le a problémát és a kapcsolódó tényezőket"
+
+msgid "Enter here the solution to the problem and preventive information"
+msgstr "Itt írja le a probléma megoldását és a megelőzést szolgáló információkat"
+
+msgid "Firstname"
+msgstr "Keresztnév"
+
+msgid "General"
+msgstr "Általános"
+
+msgid "Lastname"
+msgstr "Vezetéknév"
+
+msgid "Note"
+msgstr "Megjegyzés"
+
+msgid "Postal Code"
+msgstr "Irányítószám"
+
+msgid "Right"
+msgstr "Helyes"
+
+msgid "Right Scenario Image"
+msgstr "Helyes forgatókönyvhöz tartozó kép"
+
+msgid "Scenario"
+msgstr "Forgatókönyv"
+
+msgid "Sector"
+msgstr "Ágazat"
+
+msgid "Telephone"
+msgstr "Telefon"
+
+msgid "The Problem"
+msgstr "A probléma"
+
+msgid "The Solution"
+msgstr "A megoldás"
+
+msgid "Upload the image of the wright scenario here"
+msgstr "Itt töltse fel a helyes forgatókönyvhöz tartozó képet"
+
+msgid "Upload the image of the wrong scenario here"
+msgstr "Itt töltse fel a nem megfelelő forgatókönyvhöz tartozó képet"
+
+msgid "Wrong"
+msgstr "Nem megfelelő"
+
+msgid "Wrong Scenario Image"
+msgstr "Nem megfelelő forgatókönyvhöz tartozó kép"
+
+msgid "You entered an invalid email address."
+msgstr "Érvénytelen e-mail címet adott meg."
+
+msgid "certificate_of_participation"
+msgstr "Részvételi oklevél – Online jelentkezési lap"
+
+msgid "checkboxlist1"
+msgstr "Képzések, szemináriumok és műhelyfoglalkozások – Biztonsági bemutatók, tárlatok és kiállítások"
+
+msgid "checkboxlist2"
+msgstr "Poszterversenyek és kvízjátékok"
+
+msgid "checkboxlist3"
+msgstr "Filmek, videók és multimédia"
+
+msgid "checkboxlist4"
+msgstr "Reklám- és népszerűsítő kampányok"
+
+msgid "checkboxlist5"
+msgstr "Vállalatok és iskolák/szakközépiskolák/képzési központok közötti partnerségek"
+
+msgid "checkboxlist6"
+msgstr "„Jószomszédi programok” a nagy- és kisvállalkozások között"
+
+msgid "checkboxlist7"
+msgstr "Veszélyfelismerés"
+
+msgid "checkboxlist8"
+msgstr "Felülvizsgálati napok"
+
+msgid "checkboxlist9"
+msgstr "Új politikai vagy megelőzési kezdeményezések"
+
+msgid "description_scenario_overview"
+msgstr "A 2010–2011-es európai kampány témája a karbantartás. Ennek keretében az Ügynökség az alábbi kategóriákban végzett karbantartáshoz kapcsolódó veszélyes helyzeteket szemléltet\"<a href=\"#categoryAgriculture\">Mezőgazdaság</a>\", \"<a href=\"#categoryCateringCare\">Vendéglátás/Gondozás</a>\", \"<a href=\"#categoryConstruction\">Építőipar</a>\", \"<a href=\"#categoryGeneral\">Általános</a>\", <a href=\"#categoryManufacturing\">Gyáripar</a>\" and \"<a href=\"#categoryTransport\">Közlekedés</a>\"."
+
+msgid "error_required"
+msgstr "${name} megadása kötelező, kérjük, javítsa ki az adatokat."
+
+msgid "field_address"
+msgstr "Cím"
+
+msgid "field_city"
+msgstr "Város"
+
+msgid "field_company"
+msgstr "Társaság/Szervezet"
+
+msgid "field_comprehensive_checklis"
+msgstr "Részt vettem/vettünk az „Egészséges munkahelyek” kampányban, és az alábbi tevékenységeket szerveztem/szerveztük"
+
+msgid "field_country"
+msgstr "Ország"
+
+msgid "field_email"
+msgstr "E-mail cím"
+
+msgid "field_firstname"
+msgstr "A kapcsolattartó keresztneve"
+
+msgid "field_lastname"
+msgstr "Vezetéknév"
+
+msgid "field_postalcode"
+msgstr "Irányítószám"
+
+msgid "field_sector"
+msgstr "Üzletág/ágazat"
+
+msgid "field_telephone"
+msgstr "Telefonszám"
+
+msgid "hw2010_carousel_about"
+msgstr "Az európai szintű 2010–2011-es „Egészséges munkahelyek” kampány a balesetmentes biztonságos karbantartást támogatja."
+
+msgid "hw2010_carousel_getinvolved"
+msgstr "Az „Egészséges munkahelyek” kampányban való részvétel minden szervezet és egyén számára nyitott. Cselekedjen!"
+
+msgid "hw2010_carousel_getitright"
+msgstr "A biztonságos karbantartás alapjai és legjobb gyakorlatai."
+
+msgid "hw2010_carousel_maintenance"
+msgstr "Megfelelő karbantartás nélkül a dolgok rendkívül rosszra fordulhatnak a munkahelyen."
+
+msgid "hw2010_carousel_partners"
+msgstr "Számos különböző partner támogatja a biztonságos karbantartással foglalkozó „Egészséges munkahelyek” kampányt. Ismerje meg őket!"
+
+msgid "hw2010_carousel_press"
+msgstr "Kövesse figyelemmel legújabb sajtóközleményeinket és multimédiás forrásainkat!"
+
+msgid "hw2010_carousel_resources"
+msgstr "Számos kampányanyag tölthető le ebben a menüben."
+
+msgid "label_download"
+msgstr "Letöltés"
+
+msgid "label_license"
+msgstr "Engedély"
+
+msgid "label_more"
+msgstr "Több…"
+
+msgid "label_right"
+msgstr "Helyes"
+
+msgid "label_the_problem"
+msgstr "A probléma"
+
+msgid "label_the_solution"
+msgstr "A megoldás"
+
+msgid "label_wrong"
+msgstr "Nem megfelelő"
+
+msgid "other"
+msgstr "Egyéb"
+
+msgid "partner_form_description_contacted"
+msgstr "Felhívjuk szíves figyelmét, hogy a kampánytevékenységek további részleteiért felvehetjük Önnel a kapcsolatot. "
+
+msgid "partner_form_description_email_certificate"
+msgstr "Az Ön által megadott információk alapján személyre szabott e-mailes oklevelet állítunk ki azon a nyelven, amelyen a jelentkezési lapot kitöltötte."
+
+msgid "partner_form_instructions"
+msgstr "Ilyen egyszerű! Csak töltse ki az elektronikus adatlapot, és az Ügynökség <strong>személyre szabott részvételi oklevelet</strong> küld Önnek e-mailben az „Egészséges munkahelyek” kampánnyal kapcsolatos elkötelezettségének elismeréseként."
+
+msgid "partner_form_instructions_official_partner"
+msgstr "Ha még aktívabban kíván részt venni a kampányban és szeretne <strong>a kampány hivatalos nemzeti partnerévé válni</strong>, vegye fel a kapcsolatot az Ön megfelelő <a href=\"/en/campaigns/hw2010/partners/focal-points\">nemzeti fókuszpontjával </a>."
+
+msgid "partner_form_required_fields_are_marked"
+msgstr "A csillaggal (*) jelölt mezők kitöltése kötelező.)"
+
+msgid "partner_form_title"
+msgstr "A kampány nemzeti partnere, jelentkezési lap"
+
+msgid "slogan_statment_hw2010_campaign"
+msgstr "Európai kampány a biztonságos karbantartásról"
+
+#. Default: "Healthy Workplaces Campaign"
+msgid "title_hw_campaign_portlet"
+msgstr "Egészséges munkahelyek kampány"

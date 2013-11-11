@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osha.hw2010\n"
+"POT-Creation-Date: 2010-04-06 15:40+0000\n"
+"PO-Revision-Date: 2010-03-30 20:00+0000\n"
+"Last-Translator: Alexander Pilz <pilz@syslab.com>\n"
+"Language-Team: Alexander Pilz <pilz@syslab.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: sk\n"
+"Language-Name: Slovak\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: osha.hw2010\n"
+
+
+msgid "A descriptor for the category of the accident"
+msgstr "Deskriptor pre kategóriu nehody"
+
+msgid "Accident Category"
+msgstr "Kategória nehody"
+
+msgid "Additional notes on how to handle this scenario"
+msgstr "Doplňujúce poznámky k tomu, ako riešiť tento scenár"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "City"
+msgstr "Mesto"
+
+msgid "Company/Organisation"
+msgstr "Spoločnosť/organizácia"
+
+msgid "Content Type used to reflect the Before After Maintenance Scenarios"
+msgstr "Druh obsahu používaný v prípade scenárov pred údržbou a scenárov po údržbe"
+
+msgid "Country"
+msgstr "Krajina"
+
+msgid "Description of the right scenario"
+msgstr "Opis správneho scenára"
+
+msgid "Description of the wrong scenario"
+msgstr "Opis nesprávneho scenára"
+
+msgid "Download Material"
+msgstr "Prevziať materiál"
+
+msgid "Download the scenarios in other formats for print and web"
+msgstr "Prevziať scenáre v iných formátoch pre tlač a web"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Enter here the problem description and relevant factors"
+msgstr "Sem zadajte opis problému a relevantné faktory"
+
+msgid "Enter here the solution to the problem and preventive information"
+msgstr "Sem zadajte riešenie problému a informácie o prevencii"
+
+msgid "Firstname"
+msgstr "Meno"
+
+msgid "General"
+msgstr "Všeobecné"
+
+msgid "Lastname"
+msgstr "Priezvisko"
+
+msgid "Note"
+msgstr "Poznámka"
+
+msgid "Postal Code"
+msgstr "PSČ"
+
+msgid "Right"
+msgstr "Správne"
+
+msgid "Right Scenario Image"
+msgstr "Obrázok so správnym scenárom"
+
+msgid "Scenario"
+msgstr "Scenár"
+
+msgid "Sector"
+msgstr "Sektor"
+
+msgid "Telephone"
+msgstr "Telefón"
+
+msgid "The Problem"
+msgstr "Problém"
+
+msgid "The Solution"
+msgstr "Riešenie"
+
+msgid "Upload the image of the wright scenario here"
+msgstr "Sem vložte obrázok so správnym scenárom"
+
+msgid "Upload the image of the wrong scenario here"
+msgstr "Sem vložte obrázok s nesprávnym scenárom"
+
+msgid "Wrong"
+msgstr "Nesprávne"
+
+msgid "Wrong Scenario Image"
+msgstr "Obrázok s nesprávnym scenárom"
+
+msgid "You entered an invalid email address."
+msgstr "Zadali ste neplatnú e-mailovú adresu."
+
+msgid "certificate_of_participation"
+msgstr "Osvedčenie o účasti – formulár prihlášky on-line"
+
+msgid "checkboxlist1"
+msgstr "Školenia, semináre a workshopy Názorné ukážky, výstavy a expozície na tému bezpečnosti"
+
+msgid "checkboxlist2"
+msgstr "Súťaže o najlepší plagát a kvízy"
+
+msgid "checkboxlist3"
+msgstr "Film, video a multimédiá"
+
+msgid "checkboxlist4"
+msgstr "Reklamné a propagačné kampane"
+
+msgid "checkboxlist5"
+msgstr "Partnerstvo medzi podnikmi a školami/univerzitami/školiacimi strediskami"
+
+msgid "checkboxlist6"
+msgstr "\"Programy pre dobré vzťahy\" medzi veľkými a malými podnikmi"
+
+msgid "checkboxlist7"
+msgstr "Rozpoznanie nebezpečenstva"
+
+msgid "checkboxlist8"
+msgstr "Inšpekčné dni"
+
+msgid "checkboxlist9"
+msgstr "Nové iniciatívy politík alebo prevencie"
+
+msgid "description_scenario_overview"
+msgstr "Európska kampaň 2010 – 2011 sa zaoberá otázkami súvisiacimi s údržbou. V tejto súvislosti agentúra poskytuje príklady nebezpečných situácií týkajúcich sa údržby v týchto oblastiach \"<a href=\"#categoryAgriculture\">Poľnohospodárstvo</a>\", \"<a href=\"#categoryCateringCare\">Stravovanie/služby starostlivosti</a>\", \"<a href=\"#categoryConstruction\">Stavebníctvo</a>\", \"<a href=\"#categoryGeneral\">Všeobecné</a>\", <a href=\"#categoryManufacturing\">Výroba</a>\" and \"<a href=\"#categoryTransport\">Doprava</a>\"."
+
+msgid "error_required"
+msgstr "${name} je povinný údaj, opravte."
+
+msgid "field_address"
+msgstr "Adresa"
+
+msgid "field_city"
+msgstr "Mesto"
+
+msgid "field_company"
+msgstr "Spoločnosť/organizácia"
+
+msgid "field_comprehensive_checklis"
+msgstr "Zúčastnil(-a)/Zúčastnili som/sme sa na kampani Zdravé pracoviská a usporiadal(-a)/usporiadali som/sme tieto aktivity"
+
+msgid "field_country"
+msgstr "Krajina"
+
+msgid "field_email"
+msgstr "E-mailová adresa"
+
+msgid "field_firstname"
+msgstr "Meno kontaktnej osoby"
+
+msgid "field_lastname"
+msgstr "Priezvisko"
+
+msgid "field_postalcode"
+msgstr "PSČ"
+
+msgid "field_sector"
+msgstr "Oblasť podnikania/odvetvie"
+
+msgid "field_telephone"
+msgstr "Telefónne číslo"
+
+msgid "hw2010_carousel_about"
+msgstr "V celoeurópskej kampani Zdravé pracoviská 2010 – 2011 sa bude presadzovať bezpečnosť práce pri údržbe bez úrazov."
+
+msgid "hw2010_carousel_getinvolved"
+msgstr "Na kampani Zdravé pracoviská sa môžu zúčastniť všetky organizácie aj jednotlivci. Zapojte sa!"
+
+msgid "hw2010_carousel_getitright"
+msgstr "Základné a osvedčené postupy týkajúce sa bezpečnosti v údržbe."
+
+msgid "hw2010_carousel_maintenance"
+msgstr "Bez primeranej údržby sa môže situácia na pracovisku zle vyvinúť."
+
+msgid "hw2010_carousel_partners"
+msgstr "V kampani zdravé pracoviská za bezpečnosť v údržbe prispievajú rozliční partneri. Zoznámte sa s nimi!"
+
+msgid "hw2010_carousel_press"
+msgstr "Pozrite si naše najnovšie tlačové správy a využite naše multimediálne zdroje!"
+
+msgid "hw2010_carousel_resources"
+msgstr "V tejto časti si môžete prevziať rozmanité materiály týkajúce sa kampane."
+
+msgid "label_download"
+msgstr "Prevziať"
+
+msgid "label_license"
+msgstr "Licencia"
+
+msgid "label_more"
+msgstr "Viac…"
+
+msgid "label_right"
+msgstr "Správne"
+
+msgid "label_the_problem"
+msgstr "Problém"
+
+msgid "label_the_solution"
+msgstr "Riešenie"
+
+msgid "label_wrong"
+msgstr "Nesprávne"
+
+msgid "other"
+msgstr "Iné"
+
+msgid "partner_form_description_contacted"
+msgstr "Vezmite, prosím na vedomie, že vás môžu kontaktovať zamestnanci agentúry s cieľom získať viac podrobností o vašich činnostiach v rámci kampane"
+
+msgid "partner_form_description_email_certificate"
+msgstr "Vystavíme vám osobné osvedčenie prostredníctvom e-mailu na základe informácií, ktoré ste nám poskytli, a to v jazyku, v ktorom ste vyplnili formulár prihlášky."
+
+msgid "partner_form_instructions"
+msgstr "Je to jednoduché! Stačí vyplniť elektronický formulár a agentúra vám e-mailom zašle <strong>osobné osvedčenie o účasti</strong>, ktorým uzná vaše zapojenie do kampane Zdravé pracoviská."
+
+msgid "partner_form_instructions_official_partner"
+msgstr "Ak máte záujem o väčšie zapojenie to kampane a stať sa <strong>oficiálnym národným partnerom kampane</strong>, spojte sa s vaším príslušným <a href=\"/en/campaigns/hw2010/partners/focal-points\">národným kontaktným strediskom</a>."
+
+msgid "partner_form_required_fields_are_marked"
+msgstr "Povinné polia sú označené hviezdičkou*)"
+
+msgid "partner_form_title"
+msgstr "Národný partner kampane, formulár prihlášky"
+
+msgid "slogan_statment_hw2010_campaign"
+msgstr "Európska kampaň: Bezpečnosť v údržbe"
+
+#. Default: "Healthy Workplaces Campaign"
+msgid "title_hw_campaign_portlet"
+msgstr "Kampaň za zdravé pracoviská"

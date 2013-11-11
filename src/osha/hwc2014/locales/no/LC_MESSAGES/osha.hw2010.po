@@ -1,0 +1,384 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osha.hw2010\n"
+"POT-Creation-Date: 2010-04-06 15:40+0000\n"
+"PO-Revision-Date: 2010-03-30 20:00+0000\n"
+"Last-Translator: EU-OSHA <webmaster@osha.europa.eu>\n"
+"Language-Team: EU-OSHA <webmaster@osha.europa.eu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Code: no\n"
+"Domain: osha.hw2010\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Language-Name: Norsk\n"
+
+#: ./content/scenario.py:29 ./interfaces/scenario.py:63
+msgid "A descriptor for the category of the accident"
+msgstr "Et beskrivelseselement for ulykkeskategorien"
+
+#: ./content/scenario.py:28 ./interfaces/scenario.py:61
+msgid "Accident Category"
+msgstr "Ulykkeskategori"
+
+#: ./content/scenario.py:122 ./interfaces/scenario.py:33
+msgid "Additional notes on how to handle this scenario"
+msgstr "Flere merknader om hvordan dette scenariet skal håndteres"
+
+#: ./browser/forms.py:26
+msgid "Address"
+msgstr "Adresse"
+
+#: ./browser/forms.py:28
+msgid "City"
+msgstr "Sted"
+
+#: ./browser/forms.py:25
+msgid "Company/Organisation"
+msgstr "Selskap/organisasjon"
+
+#: ./profiles/default/types/Scenario.xml
+msgid "Content Type used to reflect the Before After Maintenance Scenarios"
+msgstr "Innholdstype som brukes for å gjenspeile før og etter vedlikehold-scenariene "
+
+#: ./browser/forms.py:29
+msgid "Country"
+msgstr "Land"
+
+#: ./content/scenario.py:102 ./interfaces/scenario.py:39
+msgid "Description of the right scenario"
+msgstr "Beskrivelse av riktig scenario"
+
+#: ./content/scenario.py:76 ./interfaces/scenario.py:45
+msgid "Description of the wrong scenario"
+msgstr "Beskrivelse av galt scenario"
+
+#: ./content/scenario.py:110 ./interfaces/scenario.py:13
+msgid "Download Material"
+msgstr "Last ned materiell"
+
+#: ./content/scenario.py:111 ./interfaces/scenario.py:15
+msgid "Download the scenarios in other formats for print and web"
+msgstr "Last ned scenariene i andre formater for utskrift og nett"
+
+#: ./browser/forms.py:33
+msgid "Email"
+msgstr "E-post"
+
+#: ./content/scenario.py:40 ./interfaces/scenario.py:57
+msgid "Enter here the problem description and relevant factors"
+msgstr "Legg inn beskrivelsen av problemet og relevante faktorer her"
+
+#: ./content/scenario.py:50 ./interfaces/scenario.py:51
+msgid "Enter here the solution to the problem and preventive information"
+msgstr "Legg inn løsningen på problem og forebyggende informasjon her"
+
+#: ./browser/forms.py:30
+msgid "Firstname"
+msgstr "Fornavn"
+
+#: ./content/scenario.py:31
+msgid "General"
+msgstr "Generelt"
+
+#: ./browser/forms.py:31
+msgid "Lastname"
+msgstr "Etternavn"
+
+#: ./content/scenario.py:121 ./interfaces/scenario.py:31
+msgid "Note"
+msgstr "Merknad"
+
+#: ./browser/forms.py:27
+msgid "Postal Code"
+msgstr "Postnummer"
+
+#: ./content/scenario.py:101 ./interfaces/scenario.py:37
+msgid "Right"
+msgstr "Riktig"
+
+#: ./content/scenario.py:93 ./interfaces/scenario.py:19
+msgid "Right Scenario Image"
+msgstr "Bilde til riktig scenario"
+
+#: ./profiles/default/types/Scenario.xml
+msgid "Scenario"
+msgstr "Scenario"
+
+#: ./browser/forms.py:32
+msgid "Sector"
+msgstr "Sektor"
+
+#: ./browser/forms.py:34
+msgid "Telephone"
+msgstr "Telefon"
+
+#: ./content/scenario.py:39 ./interfaces/scenario.py:55
+msgid "The Problem"
+msgstr "Problemet"
+
+#: ./content/scenario.py:49 ./interfaces/scenario.py:49
+msgid "The Solution"
+msgstr "Løsningen"
+
+#: ./content/scenario.py:94 ./interfaces/scenario.py:21
+msgid "Upload the image of the wright scenario here"
+msgstr "Last opp bilde til riktig scenario her"
+
+#: ./content/scenario.py:68 ./interfaces/scenario.py:27
+msgid "Upload the image of the wrong scenario here"
+msgstr "Last opp bilde til galt scenario her"
+
+#: ./content/scenario.py:75 ./interfaces/scenario.py:43
+msgid "Wrong"
+msgstr "Galt"
+
+#: ./content/scenario.py:67 ./interfaces/scenario.py:25
+msgid "Wrong Scenario Image"
+msgstr "Bilde av galt scenario"
+
+#: ./browser/forms.py:50
+msgid "You entered an invalid email address."
+msgstr "Du har lagt inn en ugyldig e-postadresse."
+
+#. Default: "Deltakerbevis – elektronisk søknadsskjema"
+#: ./browser/templates/partner-application.pt:16
+msgid "certificate_of_participation"
+msgstr "Deltakerbevis – elektronisk søknadsskjema"
+
+#. Default: "Opplæringstiltak, seminarer og workshops
+#. Sikkerhetsdemonstrasjoner, visninger og utstillinger"
+#: ./browser/templates/partner-application.pt:91
+msgid "checkboxlist1"
+msgstr "Opplæringstiltak, seminarer og workshops Sikkerhetsdemonstrasjoner, visninger og utstillinger"
+
+#. Default: "Plakatkonkurranser og spørrekonkurranser"
+#: ./browser/templates/partner-application.pt:97
+msgid "checkboxlist2"
+msgstr "Plakatkonkurranser og spørrekonkurranser"
+
+#. Default: "Film, video og multimedia"
+#: ./browser/templates/partner-application.pt:103
+msgid "checkboxlist3"
+msgstr "Film, video og multimedia"
+
+#. Default: "Reklame- og markedsføringskampanjer"
+#: ./browser/templates/partner-application.pt:109
+msgid "checkboxlist4"
+msgstr "Reklame- og markedsføringskampanjer"
+
+#. Default: "Partnerskap mellom næringsliv og
+#. skoler/høyskoler/universiteter/opplæringssentre"
+#: ./browser/templates/partner-application.pt:115
+msgid "checkboxlist5"
+msgstr "Partnerskap mellom næringsliv og skoler/høyskoler/universiteter/opplæringssentre"
+
+#. Default: "\"Godt naboskap\"-ordninger mellom store og små bedrifter"
+#: ./browser/templates/partner-application.pt:121
+msgid "checkboxlist6"
+msgstr "\"Godt naboskap\"-ordninger mellom store og små bedrifter"
+
+#. Default: "Fareidentifisering"
+#: ./browser/templates/partner-application.pt:127
+msgid "checkboxlist7"
+msgstr "Fareidentifisering"
+
+#. Default: "Inspeksjonsdager"
+#: ./browser/templates/partner-application.pt:133
+msgid "checkboxlist8"
+msgstr "Inspeksjonsdager"
+
+#. Default: "Nye retningslinjer eller forebyggende tiltak"
+#: ./browser/templates/partner-application.pt:139
+msgid "checkboxlist9"
+msgstr "Nye retningslinjer eller forebyggende tiltak"
+
+#. Default: "Den europeiske kampanjen 2010-2011 fokuserer på vedlikehold.
+#. Innenfor denne rammen bidrar Byrået med illustrasjoner av farlige
+#. situasjoner relatert til vedlikehold i kategoriene \"<a
+#: ./browser/templates/scenario-overview.pt:15
+msgid "description_scenario_overview"
+msgstr "Den europeiske kampanjen 2010-2011 fokuserer på vedlikehold.  Innenfor denne rammen bidrar Byrået med illustrasjoner av farlige situasjoner relatert til vedlikehold i kategoriene \"<a href=\"#categoryAgriculture\">Landbruk</a>\", \"<a href=\"#categoryCateringCare\">Restaurant/Pleie og omsorg</a>\", \"<a href=\"#categoryConstruction\">Bygg og anlegg</a>\", \"<a href=\"#categoryGeneral\">Generelt</a>\", \"<a href=\"#categoryManufacturing\">Produksjon</a>\" and \"<a href=\"#categoryTransport\">Transport</a>\"."
+
+#. Default: "${navn} er obligatorisk, vennligst korriger."
+#: ./browser/forms.py:43
+msgid "error_required"
+msgstr "${navn} er obligatorisk, vennligst korriger."
+
+#. Default: "Adresse"
+#: ./browser/templates/partner-application.pt:41
+msgid "field_address"
+msgstr "Adresse"
+
+#. Default: "Sted"
+#: ./browser/templates/partner-application.pt:51
+msgid "field_city"
+msgstr "Sted"
+
+#. Default: "Selskap/organisasjon"
+#: ./browser/templates/partner-application.pt:36
+msgid "field_company"
+msgstr "Selskap/organisasjon"
+
+#. Default: "Jeg/vi har deltatt i Et sikkert og godt arbeidsmiljø-kampanjen og
+#. har organisert følgende aktiviteter"
+#: ./browser/templates/partner-application.pt:86
+msgid "field_comprehensive_checklis"
+msgstr "Jeg/vi har deltatt i Et sikkert og godt arbeidsmiljø-kampanjen og har organisert følgende aktiviteter"
+
+#. Default: "Land"
+#: ./browser/templates/partner-application.pt:56
+msgid "field_country"
+msgstr "Land"
+
+#. Default: "E-postadresse"
+#: ./browser/templates/partner-application.pt:76
+msgid "field_email"
+msgstr "E-postadresse"
+
+#. Default: "Kontaktpersonens fornavn"
+#: ./browser/templates/partner-application.pt:61
+msgid "field_firstname"
+msgstr "Kontaktpersonens fornavn"
+
+#. Default: "Etternavn"
+#: ./browser/templates/partner-application.pt:66
+msgid "field_lastname"
+msgstr "Etternavn"
+
+#. Default: "Postnummer"
+#: ./browser/templates/partner-application.pt:46
+msgid "field_postalcode"
+msgstr "Postnummer"
+
+#. Default: "Bransje/sektor"
+#: ./browser/templates/partner-application.pt:71
+msgid "field_sector"
+msgstr "Bransje/sektor"
+
+#. Default: "Telefonnummer"
+#: ./browser/templates/partner-application.pt:81
+msgid "field_telephone"
+msgstr "Telefonnummer"
+
+#. Default: "Den europeiske kampanjen Et sikkert og godt arbeidsmiljø
+#. 2010-2011 skal fremme ulykkesfritt og sikkert vedlikehold."
+msgid "hw2010_carousel_about"
+msgstr "Den europeiske kampanjen Et sikkert og godt arbeidsmiljø 2010-2011 skal fremme ulykkesfritt og sikkert vedlikehold."
+
+#. Default: "Et sikkert og godt arbeidsmiljø-kampanjen er åpen for alle
+#. organisasjoner og enkeltpersoner som ønsker å delta. Bli med!"
+msgid "hw2010_carousel_getinvolved"
+msgstr "Et sikkert og godt arbeidsmiljø-kampanjen er åpen for alle organisasjoner og enkeltpersoner som ønsker å delta. Bli med!"
+
+#. Default: "Grunnleggende informasjon om og beste praksis for hvordan sikkert
+#. vedlikehold skal utføres."
+msgid "hw2010_carousel_getitright"
+msgstr "Grunnleggende informasjon om og beste praksis for hvordan sikkert vedlikehold skal utføres."
+
+#. Default: "Uten korrekt vedlikehold kan ting gå virkelig galt på
+#. arbeidsplassen."
+msgid "hw2010_carousel_maintenance"
+msgstr "Uten korrekt vedlikehold kan ting gå virkelig galt på arbeidsplassen."
+
+#. Default: "En lang rekke forskjellige partnere bidrar til Et sikkert og godt
+#. arbeidsmiljø-kampanjen for sikkert vedlikehold. Bli kjent med dem!"
+msgid "hw2010_carousel_partners"
+msgstr "En lang rekke forskjellige partnere bidrar til Et sikkert og godt arbeidsmiljø-kampanjen for sikkert vedlikehold. Bli kjent med dem!"
+
+#. Default: "Hold deg oppdatert med våre siste pressemeldinger og sjekk ut
+#. våre multimediaressurser!"
+msgid "hw2010_carousel_press"
+msgstr "Hold deg oppdatert med våre siste pressemeldinger og sjekk ut våre multimediaressurser!"
+
+#. Default: "Her kan du laste ned mye forskjellig kampanjemateriell."
+msgid "hw2010_carousel_resources"
+msgstr "Her kan du laste ned mye forskjellig kampanjemateriell."
+
+#. Default: "Last ned"
+#: ./browser/templates/scenario-detailsview.pt:36
+msgid "label_download"
+msgstr "Last ned"
+
+#. Default: "Lisens"
+#: ./browser/templates/scenario-detailsview.pt:39
+msgid "label_license"
+msgstr "Lisens"
+
+#. Default: "Mer…"
+#: ./browser/templates/scenario-overview.pt:27
+msgid "label_more"
+msgstr "Mer…"
+
+#. Default: "Riktig"
+#: ./browser/templates/scenario-detailsview.pt:21
+msgid "label_right"
+msgstr "Riktig"
+
+#. Default: "Problemet"
+#: ./browser/templates/scenario-detailsview.pt:30
+msgid "label_the_problem"
+msgstr "Problemet"
+
+#. Default: "Løsningen"
+#: ./browser/templates/scenario-detailsview.pt:33
+msgid "label_the_solution"
+msgstr "Løsningen"
+
+#. Default: "Galt"
+#: ./browser/templates/scenario-detailsview.pt:19
+msgid "label_wrong"
+msgstr "Galt"
+
+#. Default: "Annet"
+#: ./browser/templates/partner-application.pt:145
+msgid "other"
+msgstr "Annet"
+
+#. Default: "Vær oppmerksom på at du kan bli kontaktet av Det europeiske
+#. arbeidsmiljøorganet for ytterlige opplysninger om dine
+#. kampanjeaktiviteter."
+#: ./browser/templates/partner-application.pt:159
+msgid "partner_form_description_contacted"
+msgstr "Vær oppmerksom på at du kan bli kontaktet av Det europeiske arbeidsmiljøorganet for ytterlige opplysninger om dine kampanjeaktiviteter."
+
+#. Default: "Du vil få tilsendt et personlig deltakerbevis per e-post, på
+#. bakgrunn av den informasjonen du har gitt, på det språket du benytter i
+#. søknadsskjemaet."
+#: ./browser/templates/partner-application.pt:155
+msgid "partner_form_description_email_certificate"
+msgstr "Du vil få tilsendt et personlig deltakerbevis per e-post, på bakgrunn av den informasjonen du har gitt, på det språket du benytter i søknadsskjemaet."
+
+#. Default: "Det er enkelt! Fyll ut det elektroniske skjemaet, så vil vi sende
+#. deg et  <strong>personlig deltakerbevis </strong> per e-post som
+#. dokumentasjon på din innsats i Et sikkert og godt arbeidsmiljø-kampanjen."
+#: ./browser/templates/partner-application.pt:19
+msgid "partner_form_instructions"
+msgstr "Det er enkelt! Fyll ut det elektroniske skjemaet, så vil vi sende deg et  <strong>personlig deltakerbevis </strong> per e-post som dokumentasjon på din innsats i Et sikkert og godt arbeidsmiljø-kampanjen."
+
+#. Default: "Hvis du ønsker å involvere deg sterkere i kampanjen og bli en
+#. <strong>offisiell nasjonal kampanjepartner </strong>, ta kontakt med ditt
+#. <a href=\"/en/campaigns/hw2010/partners/focal-points\">nasjonale
+#. kontaktpunkt</a>."
+#: ./browser/templates/partner-application.pt:24
+msgid "partner_form_instructions_official_partner"
+msgstr "Hvis du ønsker å involvere deg sterkere i kampanjen og bli en <strong>offisiell nasjonal kampanjepartner </strong>, ta kontakt med ditt <a href=\"/en/campaigns/hw2010/partners/focal-points\">nasjonale kontaktpunkt</a>."
+
+#. Default: "Obligatoriske felt er merket med en asterisk (*)"
+#: ./browser/templates/partner-application.pt:33
+msgid "partner_form_required_fields_are_marked"
+msgstr "Obligatoriske felt er merket med en asterisk (*)"
+
+#. Default: "Nasjonal kampanjepartner, søknadsskjema"
+#: ./browser/templates/partner-application.pt:9
+msgid "partner_form_title"
+msgstr "Nasjonal kampanjepartner, søknadsskjema"
+
+#. Default: "Europeisk kampanje for sikkert vedlikehold"
+msgid "slogan_statment_hw2010_campaign"
+msgstr "Europeisk kampanje for sikkert vedlikehold"
+
+#. Default: Healthy Workplaces Campaign
+msgid "title_hw_campaign_portlet"
+msgstr "Et sikkert og godt arbeidsmiljø-kampanjen"

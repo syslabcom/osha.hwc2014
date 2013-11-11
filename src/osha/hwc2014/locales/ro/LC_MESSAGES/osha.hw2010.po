@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osha.hw2010\n"
+"POT-Creation-Date: 2010-04-06 15:40+0000\n"
+"PO-Revision-Date: 2010-03-30 20:00+0000\n"
+"Last-Translator: Alexander Pilz <pilz@syslab.com>\n"
+"Language-Team: Alexander Pilz <pilz@syslab.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language-Code: ro\n"
+"Language-Name: Romanian\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: osha.hw2010\n"
+
+
+msgid "A descriptor for the category of the accident"
+msgstr "Un descriptor pentru categoria accidentului"
+
+msgid "Accident Category"
+msgstr "Categorie de accident"
+
+msgid "Additional notes on how to handle this scenario"
+msgstr "Note suplimentare privind modul de gestionare a acestui scenariu"
+
+msgid "Address"
+msgstr "Adresa"
+
+msgid "City"
+msgstr "Oraşul"
+
+msgid "Company/Organisation"
+msgstr "Compania/Organizaţia"
+
+msgid "Content Type used to reflect the Before After Maintenance Scenarios"
+msgstr "Tipul de conţinut utilizat pentru a reflecta scenariile de mentenanţă „înainte şi după”"
+
+msgid "Country"
+msgstr "Ţara"
+
+msgid "Description of the right scenario"
+msgstr "Descrierea scenariului corect"
+
+msgid "Description of the wrong scenario"
+msgstr "Descrierea scenariului greşit"
+
+msgid "Download Material"
+msgstr "Descărcaţi materialul"
+
+msgid "Download the scenarios in other formats for print and web"
+msgstr "Descărcaţi scenariile în alte formate pentru tipărire şi web"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Enter here the problem description and relevant factors"
+msgstr "Introduceţi aici descrierea problemei şi factorii relevanţi"
+
+msgid "Enter here the solution to the problem and preventive information"
+msgstr "Introduceţi aici soluţia la problemă şi informaţiile de prevenire"
+
+msgid "Firstname"
+msgstr "Prenume"
+
+msgid "General"
+msgstr "Generalităţi"
+
+msgid "Lastname"
+msgstr "Nume"
+
+msgid "Note"
+msgstr "Notă"
+
+msgid "Postal Code"
+msgstr "Cod poştal"
+
+msgid "Right"
+msgstr "Corect"
+
+msgid "Right Scenario Image"
+msgstr "Imaginea scenariului corect"
+
+msgid "Scenario"
+msgstr "Scenariu"
+
+msgid "Sector"
+msgstr "Sector"
+
+msgid "Telephone"
+msgstr "Telefon"
+
+msgid "The Problem"
+msgstr "Problema"
+
+msgid "The Solution"
+msgstr "Soluţia"
+
+msgid "Upload the image of the wright scenario here"
+msgstr "Încărcaţi aici imaginea scenariului corect"
+
+msgid "Upload the image of the wrong scenario here"
+msgstr "Încărcaţi aici imaginea scenariului greşit"
+
+msgid "Wrong"
+msgstr "Greşit"
+
+msgid "Wrong Scenario Image"
+msgstr "Imaginea scenariului greşit"
+
+msgid "You entered an invalid email address."
+msgstr "Aţi introdus o adresă de e-mail nevalabilă."
+
+msgid "certificate_of_participation"
+msgstr "Certificat de participare – Formular de înscriere on-line"
+
+msgid "checkboxlist1"
+msgstr " Acţiuni de formare, seminarii şi ateliere de lucru, demonstraţii, prezentări şi expoziţii pe tema securităţii"
+
+msgid "checkboxlist2"
+msgstr "Concursuri de afişe şi concursuri de întrebări şi răspunsuri"
+
+msgid "checkboxlist3"
+msgstr "Filme, materiale video şi multimedia"
+
+msgid "checkboxlist4"
+msgstr "Campanii de publicitate şi promovare"
+
+msgid "checkboxlist5"
+msgstr "Parteneriate între întreprinderi şi şcoli/colegii/centre de formare"
+
+msgid "checkboxlist6"
+msgstr "„Programe de bună vecinătate” între întreprinderile mari şi mici"
+
+msgid "checkboxlist7"
+msgstr "Depistarea pericolelor"
+
+msgid "checkboxlist8"
+msgstr "Zile de inspecţie"
+
+msgid "checkboxlist9"
+msgstr "Noi iniţiative politice sau de prevenire"
+
+msgid "description_scenario_overview"
+msgstr "Campania europeană 2010-2011 se ocupă de aspectele de mentenanţă. În acest context, agenţia prezintă exemple de situaţii periculoase legate de mentenanţă în categoriile \"<a href=\"#categoryAgriculture\">Agricultură</a>\", \"<a href=\"#categoryCateringCare\">Catering/asistenţă</a>\", \"<a href=\"#categoryConstruction\">Construcţii</a>\", \"<a href=\"#categoryGeneral\">Generalităţi</a>\", <a href=\"#categoryManufacturing\">Producţie</a>\" and \"<a href=\"#categoryTransport\">Transport</a>\"."
+
+msgid "error_required"
+msgstr "${name} este obligatoriu, vă rugăm corectaţi."
+
+msgid "field_address"
+msgstr "Adresa"
+
+msgid "field_city"
+msgstr "Oraşul"
+
+msgid "field_company"
+msgstr "Compania/Organizaţia"
+
+msgid "field_comprehensive_checklis"
+msgstr "Eu/noi am participat la campania „Locuri de muncă sigure şi sănătoase” şi am organizat următoarele activităţi"
+
+msgid "field_country"
+msgstr "Ţara"
+
+msgid "field_email"
+msgstr "Adresa de e-mail"
+
+msgid "field_firstname"
+msgstr "Prenumele persoanei de contact"
+
+msgid "field_lastname"
+msgstr "Nume"
+
+msgid "field_postalcode"
+msgstr "Cod poştal"
+
+msgid "field_sector"
+msgstr "Domeniu/sector de activitate"
+
+msgid "field_telephone"
+msgstr "Număr de telefon"
+
+msgid "hw2010_carousel_about"
+msgstr "Campania „Locuri de muncă sigure şi sănătoase” 2010-2011 care se va desfăşura în întreaga Europă va promova securitatea lucrărilor de mentenanţă fără accidente."
+
+msgid "hw2010_carousel_getinvolved"
+msgstr "Campania „Locuri de muncă sigure şi sănătoase” este deschisă participării tuturor organizaţiilor şi persoanelor fizice. Implicaţi-vă!"
+
+msgid "hw2010_carousel_getitright"
+msgstr "Principii de bază şi bune practici privind modul de asigurare a securităţii lucrărilor de mentenanţă."
+
+msgid "hw2010_carousel_maintenance"
+msgstr "În lipsa unei mentenanţe corespunzătoare, se pot produce incidente grave la locul de muncă."
+
+msgid "hw2010_carousel_partners"
+msgstr "O mare varietate de parteneri contribuie la campania „Locuri de muncă sigure şi sănătoase” privind securitatea lucrărilor de mentenanţă. Faceţi cunoştinţă cu aceştia!"
+
+msgid "hw2010_carousel_press"
+msgstr "Citiţi ultimele noastre comunicate de presă şi consultaţi resursele noastre multimedia!"
+
+msgid "hw2010_carousel_resources"
+msgstr "Numeroase materiale de campanie sunt disponibile pentru descărcare în cadrul acestei secţiuni."
+
+msgid "label_download"
+msgstr "Descărcare"
+
+msgid "label_license"
+msgstr "Licenţă"
+
+msgid "label_more"
+msgstr "Mai multe detalii…"
+
+msgid "label_right"
+msgstr "Corect"
+
+msgid "label_the_problem"
+msgstr "Problema"
+
+msgid "label_the_solution"
+msgstr "Soluţia"
+
+msgid "label_wrong"
+msgstr "Greşit"
+
+msgid "other"
+msgstr " Altele"
+
+msgid "partner_form_description_contacted"
+msgstr " Vă rugăm să reţineţi că aţi putea fi contactat(ă) de agenţie pentru a furniza mai multe detalii legate de activităţile dumneavoastră de campanie "
+
+msgid "partner_form_description_email_certificate"
+msgstr "Vom emite un certificat personalizat prin e-mail pe baza informaţiilor pe care ni le-aţi furnizat, în limba în care aţi completat formularul de înscriere."
+
+msgid "partner_form_instructions"
+msgstr "Este foarte uşor! Trebuie doar să completaţi formularul electronic, iar agenţia vă va trimite prin e-mail un <strong>certificat personalizat de participare</strong> drept recunoaştere a angajamentului dumneavoastră faţă de campania „Locuri de muncă sigure şi sănătoase”."
+
+msgid "partner_form_instructions_official_partner"
+msgstr "Dacă doriţi să vă implicaţi mai mult în cadrul campaniei şi să deveniţi un <strong>partener naţional oficial de campanie </strong>, contactaţi punctul focal <a href=\"/en/campaigns/hw2010/partners/focal-points\">naţional aferent</a>."
+
+msgid "partner_form_required_fields_are_marked"
+msgstr " Câmpurile obligatorii sunt marcate cu *)"
+
+msgid "partner_form_title"
+msgstr " Partener naţional de campanie, formular de înscriere"
+
+msgid "slogan_statment_hw2010_campaign"
+msgstr "O campanie europeană privind securitatea lucrărilor de mentenanţă"
+
+#. Default: "Healthy Workplaces Campaign"
+msgid "title_hw_campaign_portlet"
+msgstr "Campania pentru locuri de muncă sănătoase"
