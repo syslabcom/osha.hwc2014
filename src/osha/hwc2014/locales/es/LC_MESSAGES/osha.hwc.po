@@ -1,28 +1,28 @@
 # ############################################################################
-#
+# 
 # Copyright (c) 2003-2004 Zope Foundation and Contributors.
 # All Rights Reserved.
-#
+# 
 # This software is subject to the provisions of the Zope Public License,
 # Version 2.1 (ZPL).  A copy of the ZPL should accompany this distribution.
 # THIS SOFTWARE IS PROVIDED "AS IS" AND ANY AND ALL EXPRESS OR IMPLIED
 # WARRANTIES ARE DISCLAIMED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
 # WARRANTIES OF TITLE, MERCHANTABILITY, AGAINST INFRINGEMENT, AND FITNESS
 # FOR A PARTICULAR PURPOSE.
-#
+# 
 # ############################################################################
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: Fri Nov 22 17:07:35 2013\n"
+"POT-Creation-Date: Mon Nov 25 17:41:18 2013\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: zope/app/locales/extract.py\n"
+"Language: \n"
 
 #: osha.hwccontent:/__init__.py:6
 msgid "folder_materials_view"
@@ -86,11 +86,11 @@ msgstr ""
 #. Default: "${name} is required, please correct."
 #: osha.hwccontent:/browser/charter.py:103
 msgid "error_required"
-msgstr "${name} es necesario, corríjalo."
+msgstr ""
 
 #: osha.hwccontent:/browser/charter.py:110
 msgid "You entered an invalid email address."
-msgstr "La dirección de correo electrónico que ha introducido no es válida."
+msgstr ""
 
 #: osha.hwccontent:/browser/charter.py:26
 msgid ""
@@ -105,50 +105,51 @@ msgstr ""
 
 #: osha.hwccontent:/browser/charter.py:86
 msgid "Company/Organisation"
-msgstr "Empresa/organización"
+msgstr ""
 
 #: osha.hwccontent:/browser/charter.py:87 osha.hwccontent:/organisation.py:91
 msgid "Address"
-msgstr "Dirección"
+msgstr ""
 
 #: osha.hwccontent:/browser/charter.py:88
 msgid "Postal Code"
-msgstr "Código postal"
+msgstr ""
 
 #: osha.hwccontent:/browser/charter.py:89 osha.hwccontent:/organisation.py:103
 msgid "City"
-msgstr "Ciudad"
+msgstr ""
 
 #: osha.hwccontent:/browser/charter.py:90 osha.hwccontent:/organisation.py:113
 msgid "Country"
-msgstr "País"
+msgstr ""
 
 #: osha.hwccontent:/browser/charter.py:91
 msgid "Firstname"
-msgstr "Nombre"
+msgstr ""
 
 #: osha.hwccontent:/browser/charter.py:92
 msgid "Lastname"
-msgstr "Apellidos"
+msgstr ""
 
 #: osha.hwccontent:/browser/charter.py:93
 msgid "Sector"
-msgstr "Sector"
+msgstr ""
 
 #: osha.hwccontent:/browser/charter.py:94
 msgid "Email"
-msgstr "Correo electrónico"
+msgstr ""
 
 #: osha.hwccontent:/browser/charter.py:95
 msgid "Telephone"
-msgstr "Teléfono"
+msgstr ""
 
 #. Default: "Certificate of Participation"
 #: osha.hwccontent:/browser/generate_pdf.py:104
 msgid "certificate_title"
 msgstr ""
 
-#. Default: "in the Healthy Workplaces Campaign 2014-15 on \342\200\230Healthy workplaces manage stress\342\200\231."
+#. Default: "in the Healthy Workplaces Campaign 2014-15 on \342\200\230Healthy
+#. workplaces manage stress\342\200\231."
 #: osha.hwccontent:/browser/generate_pdf.py:161
 msgid "contribution_headline"
 msgstr ""
@@ -160,6 +161,7 @@ msgstr ""
 
 #. Default: "Good for you. Good for business."
 #: osha.hwccontent:/browser/generate_pdf.py:88
+#: osha.hwctheme:/viewlets/hwcheader.pt:21
 msgid "campaign_slogan"
 msgstr ""
 
@@ -177,14 +179,15 @@ msgstr ""
 msgid "title_focal_points"
 msgstr ""
 
-#. Default: "Tips and tools to manage stress and psychosocial risks in your workplace"
+#. Default: "Tips and tools to manage stress and psychosocial risks in your
+#. workplace"
 #: osha.hwccontent:/browser/templates/front_page.pt:17
 msgid "banner_text_1"
 msgstr ""
 
 #: osha.hwccontent:/browser/templates/front_page.pt:27
 msgid "News"
-msgstr ""
+msgstr "Noticias"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:46
 msgid "see all news"
@@ -192,6 +195,12 @@ msgstr ""
 
 #: osha.hwccontent:/browser/templates/front_page.pt:50
 msgid "Events"
+msgstr "Eventos"
+
+#: osha.hwccontent:/browser/templates/front_page.pt:62
+#: osha.hwccontent:/browser/templates/front_page.pt:84
+#: osha.hwccontent:/browser/templates/document_organisations.pt:24
+msgid "${DYNAMIC_CONTENT}"
 msgstr ""
 
 #: osha.hwccontent:/browser/templates/front_page.pt:73
@@ -203,17 +212,13 @@ msgstr ""
 msgid "Partners"
 msgstr ""
 
-#: osha.hwccontent:/browser/templates/front_page.pt:84
-#: osha.hwccontent:/browser/templates/document_organisations.pt:24
-msgid "${DYNAMIC_CONTENT}"
-msgstr ""
-
 #. Default: "Certificate of Participation - Online Application Form"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:10
 msgid "certificate_of_participation"
 msgstr "Certificado de participación - Formulario de solicitud en línea"
 
-#. Default: "Training events, seminars and workshops Safety demonstrations, displays and exhibitions"
+#. Default: "Training events, seminars and workshops Safety demonstrations,
+#. displays and exhibitions"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:100
 msgid "checkboxlist1"
 msgstr ""
@@ -235,7 +240,8 @@ msgstr "Película, vídeo y multimedia"
 msgid "checkboxlist4"
 msgstr "Campañas publicitarias y de promoción"
 
-#. Default: "Partnerships between enterprises and schools/colleges/training centres"
+#. Default: "Partnerships between enterprises and schools/colleges/training
+#. centres"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:130
 msgid "checkboxlist5"
 msgstr ""
@@ -267,7 +273,10 @@ msgstr "Nuevas políticas o iniciativas de prevención"
 msgid "other"
 msgstr "Otros"
 
-#. Default: "It\342\200\231s easy! Just fill in the electronic form and the Agency will send you by email a <strong>personalised certificate of participation</strong> in recognition of your commitment to the Healthy Workplaces Campaign."
+#. Default: "It\342\200\231s easy! Just fill in the electronic form and the
+#. Agency will send you by email a <strong>personalised certificate of
+#. participation</strong> in recognition of your commitment to the Healthy
+#. Workplaces Campaign."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:18
 msgid "partner_form_instructions"
 msgstr ""
@@ -276,7 +285,9 @@ msgstr ""
 "personalizado de participación</strong> en reconocimiento a su compromiso "
 "con la campaña ‘Trabajos saludables’."
 
-#. Default: "We will issue a personalised email certificate based on the information that you provided us with, in the language in which you completed the application form."
+#. Default: "We will issue a personalised email certificate based on the
+#. information that you provided us with, in the language in which you
+#. completed the application form."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:180
 msgid "partner_form_description_email_certificate"
 msgstr ""
@@ -284,12 +295,14 @@ msgstr ""
 "la información que nos ha facilitado y en la lengua en la que haya "
 "cumplimentado el formulario de solicitud en línea."
 
-#. Default: "Please note that you may be contacted by the Agency to provide more details on your Campaign activities."
+#. Default: "Please note that you may be contacted by the Agency to provide
+#. more details on your Campaign activities."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:184
 msgid "partner_form_description_contacted"
 msgstr ""
-"Recuerde que la Agencia puede ponerse en contacto con usted para recabar más "
-"información sobre las actividades que haya llevado a cabo durante la campaña "
+"Recuerde que la Agencia puede ponerse en contacto con usted para recabar más"
+" información sobre las actividades que haya llevado a cabo durante la "
+"campaña "
 
 #. Default: "Company/Organisation"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:32
@@ -341,7 +354,8 @@ msgstr "Dirección de correo electrónico"
 msgid "field_telephone"
 msgstr "Número de teléfono"
 
-#. Default: "I/we participated in the Healthy Workplace Campaign and organised the following activities"
+#. Default: "I/we participated in the Healthy Workplace Campaign and organised
+#. the following activities"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:93
 msgid "field_comprehensive_checklist"
 msgstr ""
@@ -379,7 +393,8 @@ msgstr ""
 
 #: osha.hwccontent:/focalpoint.py:50
 msgid ""
-"Please summarise briefly the support that you will provide for this campaign."
+"Please summarise briefly the support that you will provide for this "
+"campaign."
 msgstr ""
 
 #: osha.hwccontent:/focalpoint.py:53
@@ -402,6 +417,94 @@ msgstr ""
 #: osha.hwccontent:/focalpoint.py:59
 msgid "Mandate"
 msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:10
+msgid "March"
+msgstr "Marzo"
+
+#: osha.hwccontent:/manual_translations.py:11
+msgid "April"
+msgstr "Abril"
+
+#: osha.hwccontent:/manual_translations.py:12
+msgid "May"
+msgstr "Mayo"
+
+#: osha.hwccontent:/manual_translations.py:13
+msgid "June"
+msgstr "Junio"
+
+#: osha.hwccontent:/manual_translations.py:14
+msgid "July"
+msgstr "Julio"
+
+#: osha.hwccontent:/manual_translations.py:15
+msgid "August"
+msgstr "Agosto"
+
+#: osha.hwccontent:/manual_translations.py:16
+msgid "September"
+msgstr "Septiembre"
+
+#: osha.hwccontent:/manual_translations.py:17
+msgid "October"
+msgstr "Octubre"
+
+#: osha.hwccontent:/manual_translations.py:18
+msgid "November"
+msgstr "Noviembre"
+
+#: osha.hwccontent:/manual_translations.py:19
+msgid "December"
+msgstr "Diciembre"
+
+#: osha.hwccontent:/manual_translations.py:22
+msgid "Enterprise"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:23
+msgid "Trade union"
+msgstr "Sindicato"
+
+#: osha.hwccontent:/manual_translations.py:24
+msgid "Employer organisation"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:25
+msgid "OSH professionals"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:26
+msgid "Research"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:27
+msgid "Other"
+msgstr "Otros"
+
+#: osha.hwccontent:/manual_translations.py:30
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+#: osha.hwccontent:/manual_translations.py:31
+msgid "Disclaimer"
+msgstr "Descargo de responsabilidad "
+
+#: osha.hwccontent:/manual_translations.py:32
+msgid "Copyright"
+msgstr "Copyright"
+
+#: osha.hwccontent:/manual_translations.py:33
+msgid "European Agency for Safety and Health at Work"
+msgstr "Agencia Europea para la Seguridad y la Salud en el Trabajo"
+
+#: osha.hwccontent:/manual_translations.py:8
+msgid "January"
+msgstr "Enero"
+
+#: osha.hwccontent:/manual_translations.py:9
+msgid "February"
+msgstr "Febrero"
 
 #: osha.hwccontent:/organisation.py:108
 msgid "Zip code"
@@ -562,8 +665,9 @@ msgid ""
 "workplaces manage stress’. (Learn about the current campaign partnership "
 "offer.)</p><p>Required fields are marked with a red dot.</p><p>You might "
 "want to take a look at the OCP of the 2012-13 Healthy workplaces campaign: "
-"<a href='http://www.healthy-workplaces.eu/en/about/campaign-partners'>http://"
-"www.healthy-workplaces.eu/en/about/campaign-partners</a></p><p>"
+"<a href='http://www.healthy-workplaces.eu/en/about/campaign-"
+"partners'>http://www.healthy-workplaces.eu/en/about/campaign-"
+"partners</a></p><p>"
 msgstr ""
 
 #: osha.hwccontent:/organisation.py:287 osha.hwccontent:/organisation.py:302
@@ -620,20 +724,20 @@ msgstr ""
 
 #: osha.hwccontent:/organisation.py:398
 msgid ""
-"His / her quote on the Healthy Workplaces Campaign on \"Working together for "
-"risk prevention\""
+"His / her quote on the Healthy Workplaces Campaign on \"Working together for"
+" risk prevention\""
 msgstr ""
 
 #: osha.hwccontent:/organisation.py:41
 msgid ""
 "<p><em>Your application as campaign partner of the Healthy Workplaces "
-"Campaign 2014-15 on ‘Healthy workplaces manage stress’ has been accepted!</"
-"em></p><p><em>Please complete now your online profile with some additional "
-"information. Your online profile will be published on the Healthy Workplaces "
-"Campaign website (see the partners’ profiles of the Healthy Workplaces "
-"Campaign 2012-13 <a href='http://www.healthy-workplaces.eu/en/about/campaign-"
-"partners'>http://www.healthy-workplaces.eu/en/about/campaign-partners</a></"
-"em></p>"
+"Campaign 2014-15 on ‘Healthy workplaces manage stress’ has been "
+"accepted!</em></p><p><em>Please complete now your online profile with some "
+"additional information. Your online profile will be published on the Healthy"
+" Workplaces Campaign website (see the partners’ profiles of the Healthy "
+"Workplaces Campaign 2012-13 <a href='http://www.healthy-"
+"workplaces.eu/en/about/campaign-partners'>http://www.healthy-"
+"workplaces.eu/en/about/campaign-partners</a></em></p>"
 msgstr ""
 
 #: osha.hwccontent:/organisation.py:414
@@ -680,12 +784,18 @@ msgstr ""
 #. Default: "You are now logged in"
 #: osha.hwctheme:/templates/Products.CMFPlone.skins.plone_login.login_success.pt:32
 msgid "heading_you_are_now_logged_in"
-msgstr ""
+msgstr "Se ha conectado"
 
-#. Default: "Notice that the top right bar has changed. It now contains several personalized items. Use these items to control your settings and your personal area. They will remain as long as you are logged in."
+#. Default: "Notice that the top right bar has changed. It now contains
+#. several personalized items. Use these items to control your settings and
+#. your personal area. They will remain as long as you are logged in."
 #: osha.hwctheme:/templates/Products.CMFPlone.skins.plone_login.login_success.pt:35
 msgid "description_logged_in_explain"
 msgstr ""
+"La barra superior derecha se ha modificado. Ahora contiene varios artículos "
+"personalizados. Empléelos para controlar su configuración y su zona "
+"personal.  Dichos artículos permanecerán en la barra mientras esté "
+"conectado."
 
 #: osha.hwctheme:/templates/Products.CMFPlone.skins.plone_login.login_success.pt:46
 msgid "Access the private area of the official campaign partners"
@@ -697,7 +807,8 @@ msgstr ""
 
 #: osha.hwctheme:/templates/Products.CMFPlone.skins.plone_login.login_success.pt:53
 msgid ""
-"Click here to complete or submit your profile application \"${profile_name}\""
+"Click here to complete or submit your profile application "
+"\"${profile_name}\""
 msgstr ""
 
 #: osha.hwctheme:/templates/Products.CMFPlone.skins.plone_login.login_success.pt:56
@@ -717,7 +828,19 @@ msgstr ""
 msgid "label_login_continue_to_home_page"
 msgstr ""
 
-#. Default: "Note: If you do not remain logged in after leaving this page, it is because you need to enable cookies in your browser."
+#. Default: "Note: If you do not remain logged in after leaving this page, it
+#. is because you need to enable cookies in your browser."
 #: osha.hwctheme:/templates/Products.CMFPlone.skins.plone_login.login_success.pt:88
 msgid "description_enable_cookies_to_stay_logged_in"
 msgstr ""
+
+#. Default: "Safety and health at work is everyone's concern. It's good for
+#. you. It's good for business."
+#: osha.hwctheme:/viewlets/hwcheader.pt:22
+msgid "campaign_tagline"
+msgstr ""
+
+#. Default: "Select your language"
+#: osha.hwctheme:/viewlets/hwcheader.pt:25
+msgid "label_select_language"
+msgstr "Seleccionar idioma"

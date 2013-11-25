@@ -14,7 +14,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: Fri Nov 22 17:07:35 2013\n"
+"POT-Creation-Date: Mon Nov 25 17:41:18 2013\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
@@ -160,6 +160,7 @@ msgstr ""
 
 #. Default: "Good for you. Good for business."
 #: osha.hwccontent:/browser/generate_pdf.py:88
+#: osha.hwctheme:/viewlets/hwcheader.pt:21
 msgid "campaign_slogan"
 msgstr ""
 
@@ -194,6 +195,12 @@ msgstr ""
 msgid "Events"
 msgstr ""
 
+#: osha.hwccontent:/browser/templates/front_page.pt:62
+#: osha.hwccontent:/browser/templates/front_page.pt:84
+#: osha.hwccontent:/browser/templates/document_organisations.pt:24
+msgid "${DYNAMIC_CONTENT}"
+msgstr ""
+
 #: osha.hwccontent:/browser/templates/front_page.pt:73
 msgid "see all events"
 msgstr ""
@@ -201,11 +208,6 @@ msgstr ""
 #: osha.hwccontent:/browser/templates/front_page.pt:80
 #: osha.hwccontent:/browser/templates/document_organisations.pt:20
 msgid "Partners"
-msgstr ""
-
-#: osha.hwccontent:/browser/templates/front_page.pt:84
-#: osha.hwccontent:/browser/templates/document_organisations.pt:24
-msgid "${DYNAMIC_CONTENT}"
 msgstr ""
 
 #. Default: "Certificate of Participation - Online Application Form"
@@ -399,6 +401,94 @@ msgstr ""
 
 #: osha.hwccontent:/focalpoint.py:59
 msgid "Mandate"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:10
+msgid "March"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:11
+msgid "April"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:12
+msgid "May"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:13
+msgid "June"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:14
+msgid "July"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:15
+msgid "August"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:16
+msgid "September"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:17
+msgid "October"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:18
+msgid "November"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:19
+msgid "December"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:22
+msgid "Enterprise"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:23
+msgid "Trade union"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:24
+msgid "Employer organisation"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:25
+msgid "OSH professionals"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:26
+msgid "Research"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:27
+msgid "Other"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:30
+msgid "Privacy Policy"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:31
+msgid "Disclaimer"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:32
+msgid "Copyright"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:33
+msgid "European Agency for Safety and Health at Work"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:8
+msgid "January"
+msgstr ""
+
+#: osha.hwccontent:/manual_translations.py:9
+msgid "February"
 msgstr ""
 
 #: osha.hwccontent:/organisation.py:108
@@ -718,4 +808,14 @@ msgstr ""
 #. Default: "Note: If you do not remain logged in after leaving this page, it is because you need to enable cookies in your browser."
 #: osha.hwctheme:/templates/Products.CMFPlone.skins.plone_login.login_success.pt:88
 msgid "description_enable_cookies_to_stay_logged_in"
+msgstr ""
+
+#. Default: "Safety and health at work is everyone's concern. It's good for you. It's good for business."
+#: osha.hwctheme:/viewlets/hwcheader.pt:22
+msgid "campaign_tagline"
+msgstr ""
+
+#. Default: "Select your language"
+#: osha.hwctheme:/viewlets/hwcheader.pt:25
+msgid "label_select_language"
 msgstr ""
