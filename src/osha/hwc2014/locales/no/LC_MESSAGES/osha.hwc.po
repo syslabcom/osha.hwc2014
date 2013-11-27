@@ -14,7 +14,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: Mon Nov 25 17:41:18 2013\n"
+"POT-Creation-Date: Wed Nov 27 11:26:56 2013\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
@@ -158,7 +158,7 @@ msgstr ""
 msgid "campaign_name"
 msgstr ""
 
-#. Default: "Good for you. Good for business."
+#. Default: "Healthy Workplaces Manage Stress."
 #: osha.hwccontent:/browser/generate_pdf.py:88
 #: osha.hwctheme:/viewlets/hwcheader.pt:21
 msgid "campaign_slogan"
@@ -480,6 +480,7 @@ msgid "Copyright"
 msgstr ""
 
 #: osha.hwccontent:/manual_translations.py:33
+#: osha.hwctheme:/viewlets/hwcheader.pt:27
 msgid "European Agency for Safety and Health at Work"
 msgstr ""
 
@@ -818,4 +819,9 @@ msgstr ""
 #. Default: "Select your language"
 #: osha.hwctheme:/viewlets/hwcheader.pt:25
 msgid "label_select_language"
+msgstr ""
+
+#. Default: "Supported by"
+#: osha.hwctheme:/viewlets/hwcheader.pt:27
+msgid "supported_by"
 msgstr ""
