@@ -14,7 +14,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: Wed Nov 27 11:26:56 2013\n"
+"POT-Creation-Date: Mon Dec  2 11:37:47 2013\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
@@ -24,10 +24,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: zope/app/locales/extract.py\n"
 
-#: osha.hwccontent:/__init__.py:6
-msgid "folder_materials_view"
-msgstr ""
-
 #: osha.hwccontent:/behaviors/event.py:14
 msgid "Organiser"
 msgstr ""
@@ -35,26 +31,6 @@ msgstr ""
 #. Default: "The organiser of this meeting"
 #: osha.hwccontent:/behaviors/event.py:15
 msgid "help_event_organiser"
-msgstr ""
-
-#: osha.hwccontent:/behaviors/moreabout.py:121
-msgid "Section images"
-msgstr ""
-
-#: osha.hwccontent:/behaviors/moreabout.py:122
-msgid "Pick one or more existing images"
-msgstr ""
-
-#: osha.hwccontent:/behaviors/moreabout.py:125
-msgid "Browse for images in the site"
-msgstr ""
-
-#: osha.hwccontent:/behaviors/moreabout.py:48
-msgid "Title"
-msgstr ""
-
-#: osha.hwccontent:/behaviors/moreabout.py:52
-msgid "URL"
 msgstr ""
 
 #: osha.hwccontent:/behaviors/moreabout.py:61
@@ -67,20 +43,8 @@ msgstr ""
 msgid "Related sites"
 msgstr ""
 
-#: osha.hwccontent:/behaviors/moreabout.py:68
-msgid "tablerow"
-msgstr ""
-
 #: osha.hwccontent:/behaviors/moreabout.py:91
 msgid "See also"
-msgstr ""
-
-#: osha.hwccontent:/behaviors/moreabout.py:92
-msgid "Pick existing items"
-msgstr ""
-
-#: osha.hwccontent:/behaviors/moreabout.py:95
-msgid "Select an existing item"
 msgstr ""
 
 #. Default: "${name} is required, please correct."
@@ -107,7 +71,7 @@ msgstr ""
 msgid "Company/Organisation"
 msgstr ""
 
-#: osha.hwccontent:/browser/charter.py:87 osha.hwccontent:/organisation.py:91
+#: osha.hwccontent:/browser/charter.py:87
 msgid "Address"
 msgstr ""
 
@@ -115,11 +79,11 @@ msgstr ""
 msgid "Postal Code"
 msgstr ""
 
-#: osha.hwccontent:/browser/charter.py:89 osha.hwccontent:/organisation.py:103
+#: osha.hwccontent:/browser/charter.py:89
 msgid "City"
 msgstr ""
 
-#: osha.hwccontent:/browser/charter.py:90 osha.hwccontent:/organisation.py:113
+#: osha.hwccontent:/browser/charter.py:90
 msgid "Country"
 msgstr ""
 
@@ -365,48 +329,6 @@ msgstr ""
 msgid "read_more"
 msgstr ""
 
-#: osha.hwccontent:/focalpoint.py:18
-msgid "About your Focal Point"
-msgstr ""
-
-#: osha.hwccontent:/focalpoint.py:34
-msgid "Description"
-msgstr ""
-
-#: osha.hwccontent:/focalpoint.py:39 osha.hwccontent:/organisation.py:407
-msgid "Organisation type"
-msgstr ""
-
-#: osha.hwccontent:/focalpoint.py:48
-msgid "Campaign pledge"
-msgstr ""
-
-#: osha.hwccontent:/focalpoint.py:50
-msgid ""
-"Please summarise briefly the support that you will provide for this campaign."
-msgstr ""
-
-#: osha.hwccontent:/focalpoint.py:53
-msgid "Organisation name"
-msgstr ""
-
-#: osha.hwccontent:/focalpoint.py:54
-msgid "Flag image"
-msgstr ""
-
-#: osha.hwccontent:/focalpoint.py:55
-msgid ""
-"Please use a format suited for web display if possible (JPEG, PNG or GIF)."
-msgstr ""
-
-#: osha.hwccontent:/focalpoint.py:58
-msgid "Organisation logo"
-msgstr ""
-
-#: osha.hwccontent:/focalpoint.py:59
-msgid "Mandate"
-msgstr ""
-
 #: osha.hwccontent:/manual_translations.py:10
 msgid "March"
 msgstr "März"
@@ -448,15 +370,15 @@ msgid "December"
 msgstr "Dezember"
 
 #: osha.hwccontent:/manual_translations.py:22
-msgid "Enterprise"
+msgid "Enterprises"
 msgstr ""
 
 #: osha.hwccontent:/manual_translations.py:23
-msgid "Trade union"
-msgstr "Gewerkschaft"
+msgid "Trade unions"
+msgstr ""
 
 #: osha.hwccontent:/manual_translations.py:24
-msgid "Employer organisation"
+msgid "Employer organisations"
 msgstr ""
 
 #: osha.hwccontent:/manual_translations.py:25
@@ -497,280 +419,6 @@ msgstr "Januar"
 msgid "February"
 msgstr "Februar"
 
-#: osha.hwccontent:/organisation.py:108
-msgid "Zip code"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:119
-msgid "General email address"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:125
-msgid "General telephone number"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:131
-msgid "General fax number"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:138
-msgid "Name/Surname of main contact person for the Campaign"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:139
-msgid "Contact person"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:144
-msgid "Email address of main contact person."
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:150
-msgid "Telephone number of main contact person."
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:158
-msgid "Home page"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:159
-msgid "Organisation's website"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:164
-msgid "Dedicated Campaign Website"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:165
-msgid ""
-"Special web section dealing with issues related to occupational health and "
-"safety"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:173
-msgid ""
-"How does your organisation plan to contribute to making this Campaign a "
-"joint success? (your Campaign pledge)"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:176
-msgid ""
-"Please summarise briefly the support that you will provide described under "
-"STEP 2 of this application form (max. 150 words)."
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:186
-msgid "Your mission statement"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:187
-msgid "Briefly outline the mission of your company"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:194
-msgid "Company / Organisation logo"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:195
-msgid ""
-"Please add an image with the company / organisation logo. Please use a "
-"format suited for web display if possible (JPEG, PNG or GIF)."
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:205
-msgid "Photo of your CEO, President, General Director or other"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:222
-msgid "Countries of activity"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:223
-msgid ""
-"Only Pan-European or international organisations / companies are eligible "
-"for the European Campaign Partnership; please indicate the countries your "
-"company is represented through branches / representative offices / network "
-"members"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:236
-msgid "Other countries"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:237
-msgid "Other countries in which you organisation is represented (enter names)"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:245
-msgid "Business sector"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:246
-msgid "Business sector in which you operate"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:251
-msgid "Social Dialogue Partner?"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:252
-msgid ""
-"Are you a Social Partner within the framework of the European Social "
-"Dialogue?"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:259
-msgid ""
-"1. Why do you want to be an official partner of the Healthy Workplaces "
-"Campaign 2014-15 on ‘Healthy workplaces manage stress’?"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:263
-msgid "Please explain briefly"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:268
-msgid ""
-"2. How do you plan to promote and support the Campaign via your corporate "
-"website and in any other electronic means (intranet, newsletter, social "
-"media, etc.)?"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:272 osha.hwccontent:/organisation.py:286
-#: osha.hwccontent:/organisation.py:301 osha.hwccontent:/organisation.py:318
-#: osha.hwccontent:/organisation.py:334 osha.hwccontent:/organisation.py:348
-#: osha.hwccontent:/organisation.py:362
-msgid "Please describe"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:278
-msgid ""
-"Conferences, seminars or workshops exclusively or partly dedicated to the "
-"topic of the Campaign"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:28
-msgid ""
-"<p>Please fill in the 2-pages form to apply to become an Official Campaign "
-"Partner (OCP) of the Healthy Workplaces Campaign 2014-15 on ‘Healthy "
-"workplaces manage stress’. (Learn about the current campaign partnership "
-"offer.)</p><p>Required fields are marked with a red dot.</p><p>You might "
-"want to take a look at the OCP of the 2012-13 Healthy workplaces campaign: "
-"<a href='http://www.healthy-workplaces.eu/en/about/campaign-partners'>http://"
-"www.healthy-workplaces.eu/en/about/campaign-partners</a></p><p>"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:287 osha.hwccontent:/organisation.py:302
-msgid ""
-"Please provide some information on topic, main objectives, profile of "
-"participants, etc."
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:295
-msgid "Training sessions"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:310
-msgid ""
-"Partnerships with other organisations and schools / colleges / training "
-"centres"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:319 osha.hwccontent:/organisation.py:335
-#: osha.hwccontent:/organisation.py:349 osha.hwccontent:/organisation.py:363
-msgid "Please provide some information on planned activities"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:326
-msgid ""
-"Promotion in the media (press release, press conference, advertorials, etc )"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:342
-msgid "Best Practice competition / activities"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:356
-msgid "Other activities"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:377
-msgid "CEO"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:378
-msgid "Name / surname of your CEO, President, General Director or other"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:387
-msgid "Position identifier"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:388
-msgid ""
-"Please indicate the actual position, such as President, General Director, "
-"CEO, Chairman, etc"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:398
-msgid ""
-"His / her quote on the Healthy Workplaces Campaign on \"Working together for "
-"risk prevention\""
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:41
-msgid ""
-"<p><em>Your application as campaign partner of the Healthy Workplaces "
-"Campaign 2014-15 on ‘Healthy workplaces manage stress’ has been accepted!</"
-"em></p><p><em>Please complete now your online profile with some additional "
-"information. Your online profile will be published on the Healthy Workplaces "
-"Campaign website (see the partners’ profiles of the Healthy Workplaces "
-"Campaign 2012-13 <a href='http://www.healthy-workplaces.eu/en/about/campaign-"
-"partners'>http://www.healthy-workplaces.eu/en/about/campaign-partners</a></"
-"em></p>"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:414
-msgid "Position of the main contact person."
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:420
-msgid "Name of your organisation's health and safety representative"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:429
-msgid "Email address of your organisation's health and safety representative"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:440
-msgid ""
-"Telephone number of your organisation's health and safety representative"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:453
-msgid "About your organisation"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:465
-msgid "About your involvement in the campaign"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:479
-msgid "Additional information"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:87
-msgid "Company / Organisation name"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:92
-msgid "Street or PO-box"
-msgstr ""
-
-#: osha.hwccontent:/organisation.py:97
-msgid "Address extra"
-msgstr ""
-
 #. Default: "You are now logged in"
 #: osha.hwctheme:/templates/Products.CMFPlone.skins.plone_login.login_success.pt:32
 msgid "heading_you_are_now_logged_in"
@@ -810,23 +458,13 @@ msgstr ""
 msgid "Click here to manage the organisation profiles"
 msgstr ""
 
-#. Default: "Continue to the ${portal_title} home page"
-#: osha.hwctheme:/templates/Products.CMFPlone.skins.plone_login.login_success.pt:78
-msgid "label_login_continue_to_home_page"
-msgstr ""
-
 #. Default: "Note: If you do not remain logged in after leaving this page, it is because you need to enable cookies in your browser."
 #: osha.hwctheme:/templates/Products.CMFPlone.skins.plone_login.login_success.pt:88
 msgid "description_enable_cookies_to_stay_logged_in"
 msgstr ""
 
-#. Default: "Safety and health at work is everyone's concern. It's good for you. It's good for business."
-#: osha.hwctheme:/viewlets/hwcheader.pt:22
-msgid "campaign_tagline"
-msgstr ""
-
 #. Default: "Select your language"
-#: osha.hwctheme:/viewlets/hwcheader.pt:25
+#: osha.hwctheme:/viewlets/hwcheader.pt:24
 msgid "label_select_language"
 msgstr "Sprache auswählen"
 
@@ -834,3 +472,11 @@ msgstr "Sprache auswählen"
 #: osha.hwctheme:/viewlets/hwcheader.pt:27
 msgid "supported_by"
 msgstr ""
+
+#. Default: "Safety and health at work is everyone's concern. It's good for you. It's good for business."
+#: osha.hwctheme:/viewlets/hwcheader.pt:30
+msgid "campaign_tagline"
+msgstr ""
+
+#~ msgid "Trade union"
+#~ msgstr "Gewerkschaft"
