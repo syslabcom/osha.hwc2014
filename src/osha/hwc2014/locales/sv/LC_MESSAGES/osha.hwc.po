@@ -120,13 +120,13 @@ msgstr ""
 #. Default: "Healthy Workplaces"
 #: osha.hwccontent:/browser/generate_pdf.py:77
 msgid "campaign_name"
-msgstr ""
+msgstr "Ett hälsosamt arbetsliv"
 
 #. Default: "Healthy Workplaces Manage Stress."
 #: osha.hwccontent:/browser/generate_pdf.py:88
 #: osha.hwctheme:/viewlets/hwcheader.pt:21
 msgid "campaign_slogan"
-msgstr ""
+msgstr "Friska arbetsplatser förebygger stress"
 
 #. Default: "This certificate acknowledges the participation of"
 #: osha.hwccontent:/browser/generate_pdf.py:99
@@ -410,7 +410,7 @@ msgstr ""
 #. Default: "Safety and health at work is everyone's concern. It's good for you. It's good for business."
 #: osha.hwctheme:/viewlets/hwcheader.pt:30
 msgid "campaign_tagline"
-msgstr ""
+msgstr "Arbetsmiljö angår alla. Bra för både dig och din verksamhet."
 
 #~ msgid "heading_you_are_now_logged_in"
 #~ msgstr "Du är nu inloggad"

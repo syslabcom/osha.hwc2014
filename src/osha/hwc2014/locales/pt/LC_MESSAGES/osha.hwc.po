@@ -120,13 +120,13 @@ msgstr ""
 #. Default: "Healthy Workplaces"
 #: osha.hwccontent:/browser/generate_pdf.py:77
 msgid "campaign_name"
-msgstr ""
+msgstr "Locais de trabalho seguros e saudáveis"
 
 #. Default: "Healthy Workplaces Manage Stress."
 #: osha.hwccontent:/browser/generate_pdf.py:88
 #: osha.hwctheme:/viewlets/hwcheader.pt:21
 msgid "campaign_slogan"
-msgstr ""
+msgstr "Locais de trabalho saudáveis contribuem para a gestão do stresse"
 
 #. Default: "This certificate acknowledges the participation of"
 #: osha.hwccontent:/browser/generate_pdf.py:99
@@ -424,7 +424,7 @@ msgstr ""
 #. Default: "Safety and health at work is everyone's concern. It's good for you. It's good for business."
 #: osha.hwctheme:/viewlets/hwcheader.pt:30
 msgid "campaign_tagline"
-msgstr ""
+msgstr "Segurança e saúde no trabalho diz respeito a todos. Bom para si. Bom para as empresas."
 
 #~ msgid "heading_you_are_now_logged_in"
 #~ msgstr "Você está agora identificado"

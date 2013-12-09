@@ -120,13 +120,13 @@ msgstr ""
 #. Default: "Healthy Workplaces"
 #: osha.hwccontent:/browser/generate_pdf.py:77
 msgid "campaign_name"
-msgstr ""
+msgstr "Zdravo delovno okolje"
 
 #. Default: "Healthy Workplaces Manage Stress."
 #: osha.hwccontent:/browser/generate_pdf.py:88
 #: osha.hwctheme:/viewlets/hwcheader.pt:21
 msgid "campaign_slogan"
-msgstr ""
+msgstr "Obvladajmo stres za zdrava delovna mesta!"
 
 #. Default: "This certificate acknowledges the participation of"
 #: osha.hwccontent:/browser/generate_pdf.py:99
@@ -418,7 +418,7 @@ msgstr ""
 #. Default: "Safety and health at work is everyone's concern. It's good for you. It's good for business."
 #: osha.hwctheme:/viewlets/hwcheader.pt:30
 msgid "campaign_tagline"
-msgstr ""
+msgstr "Varnost in zdravje pri delu - skrb vsakogar. Dobro za vas. Dobro za posel."
 
 #~ msgid "heading_you_are_now_logged_in"
 #~ msgstr "Sedaj ste prijavljeni"

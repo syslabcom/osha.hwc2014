@@ -120,13 +120,13 @@ msgstr ""
 #. Default: "Healthy Workplaces"
 #: osha.hwccontent:/browser/generate_pdf.py:77
 msgid "campaign_name"
-msgstr ""
+msgstr "Egészséges munkahelyek"
 
 #. Default: "Healthy Workplaces Manage Stress."
 #: osha.hwccontent:/browser/generate_pdf.py:88
 #: osha.hwctheme:/viewlets/hwcheader.pt:21
 msgid "campaign_slogan"
-msgstr ""
+msgstr "Elég a stresszből – munkahelyi stressz kezelés"
 
 #. Default: "This certificate acknowledges the participation of"
 #: osha.hwccontent:/browser/generate_pdf.py:99
@@ -422,7 +422,7 @@ msgstr ""
 #. Default: "Safety and health at work is everyone's concern. It's good for you. It's good for business."
 #: osha.hwctheme:/viewlets/hwcheader.pt:30
 msgid "campaign_tagline"
-msgstr ""
+msgstr "A munkahelyi biztonság és egészségvédelem mindenkit érint. Jó Önnek. Jó a vállalkozásoknak."
 
 #~ msgid "heading_you_are_now_logged_in"
 #~ msgstr "Ön bejelentkezett"
