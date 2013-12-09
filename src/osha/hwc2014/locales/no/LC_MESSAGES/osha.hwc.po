@@ -14,7 +14,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: Mon Dec  9 15:26:32 2013\n"
+"POT-Creation-Date: Mon Dec  9 17:35:30 2013\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
@@ -106,32 +106,6 @@ msgstr "E-post"
 #: osha.hwccontent:/browser/charter.py:95
 msgid "Telephone"
 msgstr "Telefon"
-
-#. Default: "Certificate of Participation"
-#: osha.hwccontent:/browser/generate_pdf.py:104
-msgid "certificate_title"
-msgstr ""
-
-#. Default: "in the Healthy Workplaces Campaign 2014-15 on \342\200\230Healthy workplaces manage stress\342\200\231."
-#: osha.hwccontent:/browser/generate_pdf.py:161
-msgid "contribution_headline"
-msgstr ""
-
-#. Default: "Healthy Workplaces"
-#: osha.hwccontent:/browser/generate_pdf.py:77
-msgid "campaign_name"
-msgstr "Et sikkert og godt arbeidsmiljø"
-
-#. Default: "Healthy Workplaces Manage Stress."
-#: osha.hwccontent:/browser/generate_pdf.py:88
-#: osha.hwctheme:/viewlets/hwcheader.pt:21
-msgid "campaign_slogan"
-msgstr "Gode arbeidsplasser forebygger stress"
-
-#. Default: "This certificate acknowledges the participation of"
-#: osha.hwccontent:/browser/generate_pdf.py:99
-msgid "certificate_for"
-msgstr ""
 
 #: osha.hwccontent:/browser/templates/document_files.pt:41
 msgid "Downloads"
@@ -400,6 +374,11 @@ msgstr ""
 msgid "European Agency for Safety and Health at Work"
 msgstr ""
 
+#. Default: "Healthy Workplaces"
+#: osha.hwccontent:/manual_translations.py:35
+msgid "campaign_name"
+msgstr "Et sikkert og godt arbeidsmiljø"
+
 #: osha.hwccontent:/manual_translations.py:8
 msgid "January"
 msgstr ""
@@ -407,6 +386,11 @@ msgstr ""
 #: osha.hwccontent:/manual_translations.py:9
 msgid "February"
 msgstr ""
+
+#. Default: "Healthy Workplaces Manage Stress."
+#: osha.hwctheme:/viewlets/hwcheader.pt:21
+msgid "campaign_slogan"
+msgstr "Gode arbeidsplasser forebygger stress"
 
 #. Default: "Select your language"
 #: osha.hwctheme:/viewlets/hwcheader.pt:24
