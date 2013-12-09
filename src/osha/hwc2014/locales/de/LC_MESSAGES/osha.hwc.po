@@ -14,7 +14,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: Mon Dec  9 15:07:14 2013\n"
+"POT-Creation-Date: Mon Dec  9 15:26:32 2013\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
@@ -137,10 +137,10 @@ msgstr ""
 msgid "Downloads"
 msgstr ""
 
-#. Default: "Focal points"
+#. Default: "National Focal Points"
 #: osha.hwccontent:/browser/templates/document_focalpoints.pt:25
 msgid "title_focal_points"
-msgstr ""
+msgstr "Nationale Focal Points"
 
 #. Default: "Tips and tools to manage stress and psychosocial risks in your workplace"
 #: osha.hwccontent:/browser/templates/front_page.pt:17
@@ -318,7 +318,7 @@ msgstr "Telefonnummer"
 msgid "field_comprehensive_checklist"
 msgstr ""
 
-#. Default: "More..."
+#. Default: "More"
 #: osha.hwccontent:/browser/templates/pressrelease_listing.pt:27
 msgid "alert_label_more"
 msgstr "Mehr"
