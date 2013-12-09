@@ -14,7 +14,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: Mon Dec  2 11:37:47 2013\n"
+"POT-Creation-Date: Mon Dec  9 12:58:29 2013\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
@@ -60,7 +60,7 @@ msgstr "Du har lagt inn en ugyldig e-postadresse."
 msgid ""
 "<p>Thank you for signing the Healthy Workplaces Campaign certificate.</p>\n"
 "\n"
-"<p>Please find a PDF version of the charter attached to this email,\n"
+"<p>Please find a PDF version of the certificate attached to this email,\n"
 "which you may print.</p>\n"
 "\n"
 "<p>For more information on the Healthy Workplaces Campaign, please\n"
@@ -152,6 +152,8 @@ msgid "News"
 msgstr ""
 
 #: osha.hwccontent:/browser/templates/front_page.pt:46
+#: osha.hwccontent:/browser/templates/organisation.pt:135
+#: osha.hwccontent:/browser/templates/focalpoint.pt:112
 msgid "see all news"
 msgstr ""
 
@@ -166,6 +168,8 @@ msgid "${DYNAMIC_CONTENT}"
 msgstr ""
 
 #: osha.hwccontent:/browser/templates/front_page.pt:73
+#: osha.hwccontent:/browser/templates/organisation.pt:121
+#: osha.hwccontent:/browser/templates/focalpoint.pt:98
 msgid "see all events"
 msgstr ""
 
@@ -310,19 +314,9 @@ msgstr "Telefonnummer"
 msgid "field_comprehensive_checklist"
 msgstr ""
 
-#: osha.hwccontent:/browser/templates/organisation.pt:121
-#: osha.hwccontent:/browser/templates/focalpoint.pt:98
-msgid "See all events"
-msgstr ""
-
-#: osha.hwccontent:/browser/templates/organisation.pt:135
-#: osha.hwccontent:/browser/templates/focalpoint.pt:112
-msgid "See all news"
-msgstr ""
-
-#. Default: "Read more"
+#. Default: "More..."
 #: osha.hwccontent:/browser/templates/pressrelease_listing.pt:27
-msgid "read_more"
+msgid "alert_label_more"
 msgstr ""
 
 #: osha.hwccontent:/manual_translations.py:10
@@ -412,46 +406,6 @@ msgstr ""
 
 #: osha.hwccontent:/manual_translations.py:9
 msgid "February"
-msgstr ""
-
-#. Default: "You are now logged in"
-#: osha.hwctheme:/templates/Products.CMFPlone.skins.plone_login.login_success.pt:32
-msgid "heading_you_are_now_logged_in"
-msgstr ""
-
-#. Default: "Notice that the top right bar has changed. It now contains several personalized items. Use these items to control your settings and your personal area. They will remain as long as you are logged in."
-#: osha.hwctheme:/templates/Products.CMFPlone.skins.plone_login.login_success.pt:35
-msgid "description_logged_in_explain"
-msgstr ""
-
-#: osha.hwctheme:/templates/Products.CMFPlone.skins.plone_login.login_success.pt:46
-msgid "Access the private area of the official campaign partners"
-msgstr ""
-
-#: osha.hwctheme:/templates/Products.CMFPlone.skins.plone_login.login_success.pt:50
-msgid "Click here to view your profile application \"${profile_name}\""
-msgstr ""
-
-#: osha.hwctheme:/templates/Products.CMFPlone.skins.plone_login.login_success.pt:53
-msgid ""
-"Click here to complete or submit your profile application \"${profile_name}\""
-msgstr ""
-
-#: osha.hwctheme:/templates/Products.CMFPlone.skins.plone_login.login_success.pt:56
-msgid "Click here to manage your profile \"${profile_name}\""
-msgstr ""
-
-#: osha.hwctheme:/templates/Products.CMFPlone.skins.plone_login.login_success.pt:61
-msgid "Click here to see items that need reviewing"
-msgstr ""
-
-#: osha.hwctheme:/templates/Products.CMFPlone.skins.plone_login.login_success.pt:64
-msgid "Click here to manage the organisation profiles"
-msgstr ""
-
-#. Default: "Note: If you do not remain logged in after leaving this page, it is because you need to enable cookies in your browser."
-#: osha.hwctheme:/templates/Products.CMFPlone.skins.plone_login.login_success.pt:88
-msgid "description_enable_cookies_to_stay_logged_in"
 msgstr ""
 
 #. Default: "Select your language"
