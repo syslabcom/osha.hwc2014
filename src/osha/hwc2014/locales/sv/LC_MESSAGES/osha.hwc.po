@@ -50,11 +50,11 @@ msgstr ""
 #. Default: "${name} is required, please correct."
 #: osha.hwccontent:/browser/charter.py:103
 msgid "error_required"
-msgstr ""
+msgstr "${name} krävs, var vänlig ändra."
 
 #: osha.hwccontent:/browser/charter.py:110
 msgid "You entered an invalid email address."
-msgstr ""
+msgstr "Du matade in en ogiltig e-postadress."
 
 #: osha.hwccontent:/browser/charter.py:26
 msgid ""
@@ -69,43 +69,43 @@ msgstr ""
 
 #: osha.hwccontent:/browser/charter.py:86
 msgid "Company/Organisation"
-msgstr ""
+msgstr "FöretagOrganisation"
 
 #: osha.hwccontent:/browser/charter.py:87
 msgid "Address"
-msgstr ""
+msgstr "Adress"
 
 #: osha.hwccontent:/browser/charter.py:88
 msgid "Postal Code"
-msgstr ""
+msgstr "Postnummer"
 
 #: osha.hwccontent:/browser/charter.py:89
 msgid "City"
-msgstr ""
+msgstr "Stad"
 
 #: osha.hwccontent:/browser/charter.py:90
 msgid "Country"
-msgstr ""
+msgstr "Land"
 
 #: osha.hwccontent:/browser/charter.py:91
 msgid "Firstname"
-msgstr ""
+msgstr "Förnamn"
 
 #: osha.hwccontent:/browser/charter.py:92
 msgid "Lastname"
-msgstr ""
+msgstr "Efternamn"
 
 #: osha.hwccontent:/browser/charter.py:93
 msgid "Sector"
-msgstr ""
+msgstr "Sektor"
 
 #: osha.hwccontent:/browser/charter.py:94
 msgid "Email"
-msgstr ""
+msgstr "E-post"
 
 #: osha.hwccontent:/browser/charter.py:95
 msgid "Telephone"
-msgstr ""
+msgstr "Telefon"
 
 #. Default: "Certificate of Participation"
 #: osha.hwccontent:/browser/generate_pdf.py:104
@@ -181,122 +181,132 @@ msgstr ""
 #. Default: "Certificate of Participation - Online Application Form"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:10
 msgid "certificate_of_participation"
-msgstr ""
+msgstr "Deltagarbevis – Elektroniskt formulär"
 
 #. Default: "Training events, seminars and workshops Safety demonstrations, displays and exhibitions"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:100
 msgid "checkboxlist1"
 msgstr ""
+"Utbildningsevenemang, seminarier och workshops Säkerhetsdemonstrationer, "
+"förevisningar och utställningar"
 
 #. Default: "Poster competitions and quizzes"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:107
 msgid "checkboxlist2"
-msgstr ""
+msgstr "Affischtävlingar och frågesporter"
 
 #. Default: "Film, video and multimedia"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:115
 msgid "checkboxlist3"
-msgstr ""
+msgstr "Film, video och multimedia"
 
 #. Default: "Advertising and promotion campaigns"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:122
 msgid "checkboxlist4"
-msgstr ""
+msgstr "Reklam- och marknadsföringskampanjer"
 
 #. Default: "Partnerships between enterprises and schools/colleges/training centres"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:130
 msgid "checkboxlist5"
-msgstr ""
+msgstr "Partnerskap mellan företag och skolorhögskolorutbildningscentrum"
 
 #. Default: "\"Good neighbour schemes\" between large and small enterprises"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:137
 msgid "checkboxlist6"
-msgstr ""
+msgstr "System för Goda grannar mellan stora och små företag"
 
 #. Default: "Hazard spotting"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:144
 msgid "checkboxlist7"
-msgstr ""
+msgstr "Upptäckt av faror"
 
 #. Default: "Inspection days"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:152
 msgid "checkboxlist8"
-msgstr ""
+msgstr "Inspektionsdagar"
 
 #. Default: "New policy or prevention initiatives"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:160
 msgid "checkboxlist9"
-msgstr ""
+msgstr "Ny policy eller initiativ för förebyggande"
 
 #. Default: "Other"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:165
 msgid "other"
-msgstr ""
+msgstr "Övrigt"
 
 #. Default: "It\342\200\231s easy! Just fill in the electronic form and the Agency will send you by email a <strong>personalised certificate of participation</strong> in recognition of your commitment to the Healthy Workplaces Campaign."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:18
 msgid "partner_form_instructions"
 msgstr ""
+"Det är enkelt! Fyll bara i det elektroniska formuläret och byrån kommer att "
+"via e-post skicka dig ett strongpersonligt deltagarbevisstrong som ett tack "
+"för din insats i kampanjen Ett hälsosamt arbetsliv."
 
 #. Default: "We will issue a personalised email certificate based on the information that you provided us with, in the language in which you completed the application form."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:180
 msgid "partner_form_description_email_certificate"
 msgstr ""
+"Vi utfärdar ett personligt deltagarbevis per e-post baserat på den "
+"information du lämnat och på det språk som användes för att fylla i "
+"formuläret."
 
 #. Default: "Please note that you may be contacted by the Agency to provide more details on your Campaign activities."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:184
 msgid "partner_form_description_contacted"
 msgstr ""
+"Observera att byrån kan kontakta dig för att få mer information om dina "
+"kampanjaktiviteter "
 
 #. Default: "Company/Organisation"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:32
 msgid "field_company"
-msgstr ""
+msgstr "FöretagOrganisation"
 
 #. Default: "Address"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:38
 msgid "field_address"
-msgstr ""
+msgstr "Adress"
 
 #. Default: "Postal code"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:44
 msgid "field_postalcode"
-msgstr ""
+msgstr "Postnummer"
 
 #. Default: "City"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:50
 msgid "field_city"
-msgstr ""
+msgstr "Stad"
 
 #. Default: "Country"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:56
 msgid "field_country"
-msgstr ""
+msgstr "Land"
 
 #. Default: "First name of contact person"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:62
 msgid "field_firstname"
-msgstr ""
+msgstr "Kontaktpersonens förnamn"
 
 #. Default: "Last name"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:68
 msgid "field_lastname"
-msgstr ""
+msgstr "Efternamn"
 
 #. Default: "Business/sector"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:74
 msgid "field_sector"
-msgstr ""
+msgstr "Branschsektor"
 
 #. Default: "E-mail address"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:80
 msgid "field_email"
-msgstr ""
+msgstr "E-postadress"
 
 #. Default: "Telephone number"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:86
 msgid "field_telephone"
-msgstr ""
+msgstr "Telefonnummer"
 
 #. Default: "I/we participated in the Healthy Workplace Campaign and organised the following activities"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:93

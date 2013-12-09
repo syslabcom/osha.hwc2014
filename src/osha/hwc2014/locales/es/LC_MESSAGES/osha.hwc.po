@@ -50,11 +50,11 @@ msgstr ""
 #. Default: "${name} is required, please correct."
 #: osha.hwccontent:/browser/charter.py:103
 msgid "error_required"
-msgstr ""
+msgstr "${name} es necesario, corríjalo."
 
 #: osha.hwccontent:/browser/charter.py:110
 msgid "You entered an invalid email address."
-msgstr ""
+msgstr "La dirección de correo electrónico que ha introducido no es válida."
 
 #: osha.hwccontent:/browser/charter.py:26
 msgid ""
@@ -69,43 +69,43 @@ msgstr ""
 
 #: osha.hwccontent:/browser/charter.py:86
 msgid "Company/Organisation"
-msgstr ""
+msgstr "Empresa/organización"
 
 #: osha.hwccontent:/browser/charter.py:87
 msgid "Address"
-msgstr ""
+msgstr "Dirección"
 
 #: osha.hwccontent:/browser/charter.py:88
 msgid "Postal Code"
-msgstr ""
+msgstr "Código postal"
 
 #: osha.hwccontent:/browser/charter.py:89
 msgid "City"
-msgstr ""
+msgstr "Ciudad"
 
 #: osha.hwccontent:/browser/charter.py:90
 msgid "Country"
-msgstr ""
+msgstr "País"
 
 #: osha.hwccontent:/browser/charter.py:91
 msgid "Firstname"
-msgstr ""
+msgstr "Nombre"
 
 #: osha.hwccontent:/browser/charter.py:92
 msgid "Lastname"
-msgstr ""
+msgstr "Apellidos"
 
 #: osha.hwccontent:/browser/charter.py:93
 msgid "Sector"
-msgstr ""
+msgstr "Sector"
 
 #: osha.hwccontent:/browser/charter.py:94
 msgid "Email"
-msgstr ""
+msgstr "Correo electrónico"
 
 #: osha.hwccontent:/browser/charter.py:95
 msgid "Telephone"
-msgstr ""
+msgstr "Teléfono"
 
 #. Default: "Certificate of Participation"
 #: osha.hwccontent:/browser/generate_pdf.py:104
@@ -423,7 +423,9 @@ msgstr ""
 #. Default: "Safety and health at work is everyone's concern. It's good for you. It's good for business."
 #: osha.hwctheme:/viewlets/hwcheader.pt:30
 msgid "campaign_tagline"
-msgstr "La seguridad y la salud en el trabajo concierne a todos. Es bueno para ti. Es buen negocio para todos."
+msgstr ""
+"La seguridad y la salud en el trabajo concierne a todos. Es bueno para ti. "
+"Es buen negocio para todos."
 
 #~ msgid "heading_you_are_now_logged_in"
 #~ msgstr "Se ha conectado"
