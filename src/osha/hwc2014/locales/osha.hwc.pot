@@ -14,7 +14,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: Mon Dec  9 17:35:30 2013\n"
+"POT-Creation-Date: Mon Dec  9 17:57:38 2013\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
@@ -22,21 +22,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: zope/app/locales/extract.py\n"
-
-#: osha.hwccontent:/behaviors/event.py:14
-msgid "Organiser"
-msgstr ""
-
-#: osha.hwccontent:/behaviors/event.py:15
-#. Default: "The organiser of this meeting"
-msgid "help_event_organiser"
-msgstr ""
-
-#: osha.hwccontent:/behaviors/moreabout.py:61
-#: osha.hwccontent:/behaviors/moreabout.py:87
-#: osha.hwccontent:/behaviors/moreabout.py:117
-msgid "Settings"
-msgstr ""
 
 #: osha.hwccontent:/behaviors/moreabout.py:65
 msgid "Related sites"
@@ -138,6 +123,16 @@ msgstr ""
 #: osha.hwccontent:/browser/templates/front_page.pt:84
 #: osha.hwccontent:/browser/templates/document_organisations.pt:24
 msgid "${DYNAMIC_CONTENT}"
+msgstr ""
+
+#: osha.hwccontent:/browser/templates/front_page.pt:67
+#. Default: "Location"
+msgid "event_location"
+msgstr ""
+
+#: osha.hwccontent:/browser/templates/front_page.pt:68
+#. Default: "Organiser"
+msgid "event_organiser"
 msgstr ""
 
 #: osha.hwccontent:/browser/templates/front_page.pt:73
