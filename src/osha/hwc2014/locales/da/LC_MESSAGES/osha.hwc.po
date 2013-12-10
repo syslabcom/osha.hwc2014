@@ -118,7 +118,7 @@ msgstr ""
 
 #: osha.hwccontent:/browser/templates/front_page.pt:50
 msgid "Events"
-msgstr ""
+msgstr "Begivenheder"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:62
 #: osha.hwccontent:/browser/templates/front_page.pt:84
