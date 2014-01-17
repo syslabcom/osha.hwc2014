@@ -1,36 +1,36 @@
 # ############################################################################
-#
+# 
 # Copyright (c) 2003-2004 Zope Foundation and Contributors.
 # All Rights Reserved.
-#
+# 
 # This software is subject to the provisions of the Zope Public License,
 # Version 2.1 (ZPL).  A copy of the ZPL should accompany this distribution.
 # THIS SOFTWARE IS PROVIDED "AS IS" AND ANY AND ALL EXPRESS OR IMPLIED
 # WARRANTIES ARE DISCLAIMED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
 # WARRANTIES OF TITLE, MERCHANTABILITY, AGAINST INFRINGEMENT, AND FITNESS
 # FOR A PARTICULAR PURPOSE.
-#
+# 
 # ############################################################################
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "POT-Creation-Date: Mon Dec  9 17:57:38 2013\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2014-01-17 16:13+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: zope/app/locales/extract.py\n"
+"Language: \n"
 
 #: osha.hwccontent:/behaviors/moreabout.py:65
 msgid "Related sites"
-msgstr ""
+msgstr "Tengdar síður"
 
 #: osha.hwccontent:/behaviors/moreabout.py:91
 msgid "See also"
-msgstr ""
+msgstr "Sjá einnig"
 
 #. Default: "${name} is required, please correct."
 #: osha.hwccontent:/browser/charter.py:103
@@ -94,31 +94,34 @@ msgstr "Sími"
 
 #: osha.hwccontent:/browser/templates/document_files.pt:41
 msgid "Downloads"
-msgstr ""
+msgstr "Niðurhal"
 
 #. Default: "National Focal Points"
 #: osha.hwccontent:/browser/templates/document_focalpoints.pt:25
 msgid "title_focal_points"
 msgstr "Landsbundnir tengipunktar"
 
-#. Default: "Tips and tools to manage stress and psychosocial risks in your workplace"
+#. Default: "Tips and tools to manage stress and psychosocial risks in your
+#. workplace"
 #: osha.hwccontent:/browser/templates/front_page.pt:17
 msgid "banner_text_1"
 msgstr ""
+"Ráð og tól til þess að stjórna streitu og sálfélagslegum áhættum á "
+"vinnustaðnum þínum"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:27
 msgid "News"
-msgstr ""
+msgstr "Fréttir"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:46
 #: osha.hwccontent:/browser/templates/organisation.pt:135
 #: osha.hwccontent:/browser/templates/focalpoint.pt:112
 msgid "see all news"
-msgstr ""
+msgstr "sjá allar fréttir"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:50
 msgid "Events"
-msgstr ""
+msgstr "Viðburðir"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:62
 #: osha.hwccontent:/browser/templates/front_page.pt:84
@@ -129,30 +132,31 @@ msgstr ""
 #. Default: "Location"
 #: osha.hwccontent:/browser/templates/front_page.pt:67
 msgid "event_location"
-msgstr ""
+msgstr "Staðsetning"
 
 #. Default: "Organiser"
 #: osha.hwccontent:/browser/templates/front_page.pt:68
 msgid "event_organiser"
-msgstr ""
+msgstr "Skipuleggjandi"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:73
 #: osha.hwccontent:/browser/templates/organisation.pt:121
 #: osha.hwccontent:/browser/templates/focalpoint.pt:98
 msgid "see all events"
-msgstr ""
+msgstr "sjá alla viðburði"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:80
 #: osha.hwccontent:/browser/templates/document_organisations.pt:20
 msgid "Partners"
-msgstr ""
+msgstr "Samstarfsaðilar"
 
 #. Default: "Certificate of Participation - Online Application Form"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:10
 msgid "certificate_of_participation"
 msgstr "Vottorð um þátttöku – umsóknareyðublað á netinu"
 
-#. Default: "Training events, seminars and workshops Safety demonstrations, displays and exhibitions"
+#. Default: "Training events, seminars and workshops Safety demonstrations,
+#. displays and exhibitions"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:100
 msgid "checkboxlist1"
 msgstr ""
@@ -174,7 +178,8 @@ msgstr "Myndir, myndbönd og margmiðlun"
 msgid "checkboxlist4"
 msgstr "Auglýsingar og kynningarherferðir"
 
-#. Default: "Partnerships between enterprises and schools/colleges/training centres"
+#. Default: "Partnerships between enterprises and schools/colleges/training
+#. centres"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:130
 msgid "checkboxlist5"
 msgstr "Samvinnuverkefni milli fyrirtækja og skóla/háskóla/þjálfunarstöðva"
@@ -204,7 +209,10 @@ msgstr "Ný stefnumótun eða forvarnarfrumkvæði"
 msgid "other"
 msgstr "Annað"
 
-#. Default: "It\342\200\231s easy! Just fill in the electronic form and the Agency will send you by email a <strong>personalised certificate of participation</strong> in recognition of your commitment to the Healthy Workplaces Campaign."
+#. Default: "It\342\200\231s easy! Just fill in the electronic form and the
+#. Agency will send you by email a <strong>personalised certificate of
+#. participation</strong> in recognition of your commitment to the Healthy
+#. Workplaces Campaign."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:18
 msgid "partner_form_instructions"
 msgstr ""
@@ -212,14 +220,17 @@ msgstr ""
 "þér í tölvupósti <strong>persónulegt vottorð um þátttöku </strong> til "
 "viðurkenningar um þátttöku þína í Heilbrigði á vinnustað herferðinni."
 
-#. Default: "We will issue a personalised email certificate based on the information that you provided us with, in the language in which you completed the application form."
+#. Default: "We will issue a personalised email certificate based on the
+#. information that you provided us with, in the language in which you
+#. completed the application form."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:180
 msgid "partner_form_description_email_certificate"
 msgstr ""
 "Við munum gefa út einstaklingsbundið tölvupóstsvottorð á grundvelli þeirra "
 "upplýsinga sem þið gefið, á því tungumáli sem umsóknin er gerð á."
 
-#. Default: "Please note that you may be contacted by the Agency to provide more details on your Campaign activities."
+#. Default: "Please note that you may be contacted by the Agency to provide
+#. more details on your Campaign activities."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:184
 msgid "partner_form_description_contacted"
 msgstr ""
@@ -276,10 +287,13 @@ msgstr "Tölvupóstfang"
 msgid "field_telephone"
 msgstr "Símanúmer"
 
-#. Default: "I/we participated in the Healthy Workplace Campaign and organised the following activities"
+#. Default: "I/we participated in the Healthy Workplace Campaign and organised
+#. the following activities"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:93
 msgid "field_comprehensive_checklist"
 msgstr ""
+"Ég tók þátt í herferðinni Vinnuvernd er allra hagur og "
+"skipulagðieftirfarandi viðburði"
 
 #. Default: "More"
 #: osha.hwccontent:/browser/templates/pressrelease_listing.pt:27
@@ -328,27 +342,27 @@ msgstr "desember"
 
 #: osha.hwccontent:/manual_translations.py:22
 msgid "Enterprises"
-msgstr ""
+msgstr "Fyrirtæki"
 
 #: osha.hwccontent:/manual_translations.py:23
 msgid "Trade unions"
-msgstr ""
+msgstr "Stéttarfélög"
 
 #: osha.hwccontent:/manual_translations.py:24
 msgid "Employer organisations"
-msgstr ""
+msgstr "Samtök atvinnurekenda"
 
 #: osha.hwccontent:/manual_translations.py:25
 msgid "OSH professionals"
-msgstr ""
+msgstr "Vinnuverndarsérfræðingar"
 
 #: osha.hwccontent:/manual_translations.py:26
 msgid "Research"
-msgstr ""
+msgstr "Rannsóknir"
 
 #: osha.hwccontent:/manual_translations.py:27
 msgid "Other"
-msgstr ""
+msgstr "Annað"
 
 #: osha.hwccontent:/manual_translations.py:30
 msgid "Privacy Policy"
@@ -365,7 +379,7 @@ msgstr "Höfundaréttur"
 #: osha.hwccontent:/manual_translations.py:33
 #: osha.hwctheme:/viewlets/hwcheader.pt:27
 msgid "European Agency for Safety and Health at Work"
-msgstr ""
+msgstr "Vinnuverndarstofnun Evrópu"
 
 #. Default: "Healthy Workplaces"
 #: osha.hwccontent:/manual_translations.py:35
@@ -388,14 +402,15 @@ msgstr "Góð vinnuvernd vinnur á streitu"
 #. Default: "Select your language"
 #: osha.hwctheme:/viewlets/hwcheader.pt:24
 msgid "label_select_language"
-msgstr ""
+msgstr "Velja tungumál"
 
 #. Default: "Supported by"
 #: osha.hwctheme:/viewlets/hwcheader.pt:27
 msgid "supported_by"
-msgstr ""
+msgstr "Með stuðningi"
 
-#. Default: "Safety and health at work is everyone's concern. It's good for you. It's good for business."
+#. Default: "Safety and health at work is everyone's concern. It's good for
+#. you. It's good for business."
 #: osha.hwctheme:/viewlets/hwcheader.pt:30
 msgid "campaign_tagline"
 msgstr "Vinnuvernd er allra hagur. Fyrir þig og þinn vinnustað."

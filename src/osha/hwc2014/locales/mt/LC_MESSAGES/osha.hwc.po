@@ -1,36 +1,36 @@
 # ############################################################################
-#
+# 
 # Copyright (c) 2003-2004 Zope Foundation and Contributors.
 # All Rights Reserved.
-#
+# 
 # This software is subject to the provisions of the Zope Public License,
 # Version 2.1 (ZPL).  A copy of the ZPL should accompany this distribution.
 # THIS SOFTWARE IS PROVIDED "AS IS" AND ANY AND ALL EXPRESS OR IMPLIED
 # WARRANTIES ARE DISCLAIMED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
 # WARRANTIES OF TITLE, MERCHANTABILITY, AGAINST INFRINGEMENT, AND FITNESS
 # FOR A PARTICULAR PURPOSE.
-#
+# 
 # ############################################################################
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "POT-Creation-Date: Mon Dec  9 17:57:38 2013\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2014-01-17 16:13+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: zope/app/locales/extract.py\n"
+"Language: \n"
 
 #: osha.hwccontent:/behaviors/moreabout.py:65
 msgid "Related sites"
-msgstr ""
+msgstr "Siti relatati"
 
 #: osha.hwccontent:/behaviors/moreabout.py:91
 msgid "See also"
-msgstr ""
+msgstr "Ara wkoll"
 
 #. Default: "${name} is required, please correct."
 #: osha.hwccontent:/browser/charter.py:103
@@ -94,17 +94,20 @@ msgstr "Telefon"
 
 #: osha.hwccontent:/browser/templates/document_files.pt:41
 msgid "Downloads"
-msgstr ""
+msgstr "Tniżżil"
 
 #. Default: "National Focal Points"
 #: osha.hwccontent:/browser/templates/document_focalpoints.pt:25
 msgid "title_focal_points"
 msgstr "Punti Ċentrali Nazzjonali"
 
-#. Default: "Tips and tools to manage stress and psychosocial risks in your workplace"
+#. Default: "Tips and tools to manage stress and psychosocial risks in your
+#. workplace"
 #: osha.hwccontent:/browser/templates/front_page.pt:17
 msgid "banner_text_1"
 msgstr ""
+"Għajnuniet u għodod għall-ġestjoni tal-istress u r-riskji psikosoċjali fuq "
+"il-post tax-xogħol tiegħek"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:27
 msgid "News"
@@ -114,7 +117,7 @@ msgstr "Aħbarijiet"
 #: osha.hwccontent:/browser/templates/organisation.pt:135
 #: osha.hwccontent:/browser/templates/focalpoint.pt:112
 msgid "see all news"
-msgstr ""
+msgstr "ara l-aħbarijiet kollha"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:50
 msgid "Events"
@@ -129,30 +132,31 @@ msgstr ""
 #. Default: "Location"
 #: osha.hwccontent:/browser/templates/front_page.pt:67
 msgid "event_location"
-msgstr ""
+msgstr "Post"
 
 #. Default: "Organiser"
 #: osha.hwccontent:/browser/templates/front_page.pt:68
 msgid "event_organiser"
-msgstr ""
+msgstr "Organizzatur"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:73
 #: osha.hwccontent:/browser/templates/organisation.pt:121
 #: osha.hwccontent:/browser/templates/focalpoint.pt:98
 msgid "see all events"
-msgstr ""
+msgstr "ara l-avvenimenti kollha"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:80
 #: osha.hwccontent:/browser/templates/document_organisations.pt:20
 msgid "Partners"
-msgstr ""
+msgstr "Msieħba"
 
 #. Default: "Certificate of Participation - Online Application Form"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:10
 msgid "certificate_of_participation"
 msgstr "Ċertifikat ta’ Parteċipazzjoni – Formola ta’ Applikazzjoni Online"
 
-#. Default: "Training events, seminars and workshops Safety demonstrations, displays and exhibitions"
+#. Default: "Training events, seminars and workshops Safety demonstrations,
+#. displays and exhibitions"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:100
 msgid "checkboxlist1"
 msgstr ""
@@ -174,7 +178,8 @@ msgstr "Film, vidjo u multimedja"
 msgid "checkboxlist4"
 msgstr "Reklamar u kampanji ta’ promozzjoni"
 
-#. Default: "Partnerships between enterprises and schools/colleges/training centres"
+#. Default: "Partnerships between enterprises and schools/colleges/training
+#. centres"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:130
 msgid "checkboxlist5"
 msgstr "Sħubiji bejn intrapriżi u skejjelkulleġġiċentri ta’ taħriġ"
@@ -204,25 +209,31 @@ msgstr "Inizjattivi ta’ prevenzjoni jew linji politiċi ġodda"
 msgid "other"
 msgstr "Oħrajn"
 
-#. Default: "It\342\200\231s easy! Just fill in the electronic form and the Agency will send you by email a <strong>personalised certificate of participation</strong> in recognition of your commitment to the Healthy Workplaces Campaign."
+#. Default: "It\342\200\231s easy! Just fill in the electronic form and the
+#. Agency will send you by email a <strong>personalised certificate of
+#. participation</strong> in recognition of your commitment to the Healthy
+#. Workplaces Campaign."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:18
 msgid "partner_form_instructions"
 msgstr ""
-"Il-proċedura hija waħda faċli! Kulma għandek tagħmel huwa li timla l-formola "
-"elettronika u l-Aġenzija tibgħatlek strongċertifikat personalizzat tal-"
+"Il-proċedura hija waħda faċli! Kulma għandek tagħmel huwa li timla l-formola"
+" elettronika u l-Aġenzija tibgħatlek strongċertifikat personalizzat tal-"
 "parteċipazzjonistrong permezz ta’ e-mail bħala rikonoxximent tal-impenn "
 "tiegħek lejn il-Kampanja dwar il-Postijiet tax-Xogħol Mingħajr Periklu għas-"
 "Saħħa."
 
-#. Default: "We will issue a personalised email certificate based on the information that you provided us with, in the language in which you completed the application form."
+#. Default: "We will issue a personalised email certificate based on the
+#. information that you provided us with, in the language in which you
+#. completed the application form."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:180
 msgid "partner_form_description_email_certificate"
 msgstr ""
-"Aħna sejrin noħorġu ċertifikat tal-email personalizzat ibbażat fuq l-"
-"informazzjoni li pprovdejtilna, bil-lingwa li biha mlejt il-formola tal-"
+"Aħna sejrin noħorġu ċertifikat tal-email personalizzat ibbażat fuq "
+"l-informazzjoni li pprovdejtilna, bil-lingwa li biha mlejt il-formola tal-"
 "applikazzjoni."
 
-#. Default: "Please note that you may be contacted by the Agency to provide more details on your Campaign activities."
+#. Default: "Please note that you may be contacted by the Agency to provide
+#. more details on your Campaign activities."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:184
 msgid "partner_form_description_contacted"
 msgstr ""
@@ -279,10 +290,13 @@ msgstr "Indirizz tal-e-mail"
 msgid "field_telephone"
 msgstr "Numru tat-telefon"
 
-#. Default: "I/we participated in the Healthy Workplace Campaign and organised the following activities"
+#. Default: "I/we participated in the Healthy Workplace Campaign and organised
+#. the following activities"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:93
 msgid "field_comprehensive_checklist"
 msgstr ""
+"Jiena/aħna pparteċipajt/pparteċipajna fil-Kampanja Postijiet tax-Xogħol "
+"Ħielsa mill-Periklu u organizzajt/organizzajna l- attivitajiet li ġejjin"
 
 #. Default: "More"
 #: osha.hwccontent:/browser/templates/pressrelease_listing.pt:27
@@ -331,23 +345,23 @@ msgstr "diċembru"
 
 #: osha.hwccontent:/manual_translations.py:22
 msgid "Enterprises"
-msgstr ""
+msgstr "Intrapriżi"
 
 #: osha.hwccontent:/manual_translations.py:23
 msgid "Trade unions"
-msgstr ""
+msgstr "Trejdunjins"
 
 #: osha.hwccontent:/manual_translations.py:24
 msgid "Employer organisations"
-msgstr ""
+msgstr "Organizzazzjonijiet tal-impjegaturi"
 
 #: osha.hwccontent:/manual_translations.py:25
 msgid "OSH professionals"
-msgstr ""
+msgstr "Professjonisti tal-OSHA"
 
 #: osha.hwccontent:/manual_translations.py:26
 msgid "Research"
-msgstr ""
+msgstr "Riċerka"
 
 #: osha.hwccontent:/manual_translations.py:27
 msgid "Other"
@@ -396,9 +410,10 @@ msgstr "Agħżel Lingwa"
 #. Default: "Supported by"
 #: osha.hwctheme:/viewlets/hwcheader.pt:27
 msgid "supported_by"
-msgstr ""
+msgstr "Appoġġat minn"
 
-#. Default: "Safety and health at work is everyone's concern. It's good for you. It's good for business."
+#. Default: "Safety and health at work is everyone's concern. It's good for
+#. you. It's good for business."
 #: osha.hwctheme:/viewlets/hwcheader.pt:30
 msgid "campaign_tagline"
 msgstr ""
@@ -410,10 +425,9 @@ msgstr ""
 
 #~ msgid "description_logged_in_explain"
 #~ msgstr ""
-#~ "Innota li t-taqsima fuq fin-naħa tal-lemin inbidlet. Din issa fiha "
-#~ "diversi partiti personalizzati. Uża dawn il-partiti sabiex tikkontrolla s-"
-#~ "settings u l-qasam personali tiegħek. Dawn jibqgħu sakemm inti tibqa’ "
-#~ "lloggjat."
+#~ "Innota li t-taqsima fuq fin-naħa tal-lemin inbidlet. Din issa fiha diversi "
+#~ "partiti personalizzati. Uża dawn il-partiti sabiex tikkontrolla s-settings u"
+#~ " l-qasam personali tiegħek. Dawn jibqgħu sakemm inti tibqa’ lloggjat."
 
 #~ msgid "Trade union"
 #~ msgstr "Trejdunjin"

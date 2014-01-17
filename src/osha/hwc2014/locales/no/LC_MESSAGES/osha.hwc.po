@@ -1,36 +1,36 @@
 # ############################################################################
-#
+# 
 # Copyright (c) 2003-2004 Zope Foundation and Contributors.
 # All Rights Reserved.
-#
+# 
 # This software is subject to the provisions of the Zope Public License,
 # Version 2.1 (ZPL).  A copy of the ZPL should accompany this distribution.
 # THIS SOFTWARE IS PROVIDED "AS IS" AND ANY AND ALL EXPRESS OR IMPLIED
 # WARRANTIES ARE DISCLAIMED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
 # WARRANTIES OF TITLE, MERCHANTABILITY, AGAINST INFRINGEMENT, AND FITNESS
 # FOR A PARTICULAR PURPOSE.
-#
+# 
 # ############################################################################
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "POT-Creation-Date: Mon Dec  9 17:57:38 2013\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2014-01-17 16:14+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: zope/app/locales/extract.py\n"
+"Language: \n"
 
 #: osha.hwccontent:/behaviors/moreabout.py:65
 msgid "Related sites"
-msgstr ""
+msgstr "Relaterte nettsteder"
 
 #: osha.hwccontent:/behaviors/moreabout.py:91
 msgid "See also"
-msgstr ""
+msgstr "Se også"
 
 #. Default: "${name} is required, please correct."
 #: osha.hwccontent:/browser/charter.py:103
@@ -94,31 +94,34 @@ msgstr "Telefon"
 
 #: osha.hwccontent:/browser/templates/document_files.pt:41
 msgid "Downloads"
-msgstr ""
+msgstr "Nedlastinger"
 
 #. Default: "National Focal Points"
 #: osha.hwccontent:/browser/templates/document_focalpoints.pt:25
 msgid "title_focal_points"
 msgstr "Nasjonale knutepunkter"
 
-#. Default: "Tips and tools to manage stress and psychosocial risks in your workplace"
+#. Default: "Tips and tools to manage stress and psychosocial risks in your
+#. workplace"
 #: osha.hwccontent:/browser/templates/front_page.pt:17
 msgid "banner_text_1"
 msgstr ""
+"Tips og verktøy for forebygging av stress og psykososiale risikoer på "
+"arbeidsplassen"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:27
 msgid "News"
-msgstr ""
+msgstr "Nyheter"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:46
 #: osha.hwccontent:/browser/templates/organisation.pt:135
 #: osha.hwccontent:/browser/templates/focalpoint.pt:112
 msgid "see all news"
-msgstr ""
+msgstr "se alle nyheter"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:50
 msgid "Events"
-msgstr ""
+msgstr "Arrangementer"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:62
 #: osha.hwccontent:/browser/templates/front_page.pt:84
@@ -129,30 +132,31 @@ msgstr ""
 #. Default: "Location"
 #: osha.hwccontent:/browser/templates/front_page.pt:67
 msgid "event_location"
-msgstr ""
+msgstr "Sted"
 
 #. Default: "Organiser"
 #: osha.hwccontent:/browser/templates/front_page.pt:68
 msgid "event_organiser"
-msgstr ""
+msgstr "Arrangør"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:73
 #: osha.hwccontent:/browser/templates/organisation.pt:121
 #: osha.hwccontent:/browser/templates/focalpoint.pt:98
 msgid "see all events"
-msgstr ""
+msgstr "se alle arrangementer"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:80
 #: osha.hwccontent:/browser/templates/document_organisations.pt:20
 msgid "Partners"
-msgstr ""
+msgstr "Partnere"
 
 #. Default: "Certificate of Participation - Online Application Form"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:10
 msgid "certificate_of_participation"
 msgstr "Deltakerbevis – elektronisk søknadsskjema"
 
-#. Default: "Training events, seminars and workshops Safety demonstrations, displays and exhibitions"
+#. Default: "Training events, seminars and workshops Safety demonstrations,
+#. displays and exhibitions"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:100
 msgid "checkboxlist1"
 msgstr ""
@@ -174,12 +178,13 @@ msgstr "Film, video og multimedia"
 msgid "checkboxlist4"
 msgstr "Reklame- og markedsføringskampanjer"
 
-#. Default: "Partnerships between enterprises and schools/colleges/training centres"
+#. Default: "Partnerships between enterprises and schools/colleges/training
+#. centres"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:130
 msgid "checkboxlist5"
 msgstr ""
-"Partnerskap mellom næringsliv og skoler/høyskoler/universiteter/"
-"opplæringssentre"
+"Partnerskap mellom næringsliv og "
+"skoler/høyskoler/universiteter/opplæringssentre"
 
 #. Default: "\"Good neighbour schemes\" between large and small enterprises"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:137
@@ -206,7 +211,10 @@ msgstr "Nye retningslinjer eller forebyggende tiltak"
 msgid "other"
 msgstr "Annet"
 
-#. Default: "It\342\200\231s easy! Just fill in the electronic form and the Agency will send you by email a <strong>personalised certificate of participation</strong> in recognition of your commitment to the Healthy Workplaces Campaign."
+#. Default: "It\342\200\231s easy! Just fill in the electronic form and the
+#. Agency will send you by email a <strong>personalised certificate of
+#. participation</strong> in recognition of your commitment to the Healthy
+#. Workplaces Campaign."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:18
 msgid "partner_form_instructions"
 msgstr ""
@@ -214,14 +222,17 @@ msgstr ""
 "<strong>personlig deltakerbevis </strong> per e-post som dokumentasjon på "
 "din innsats i Et sikkert og godt arbeidsmiljø-kampanjen."
 
-#. Default: "We will issue a personalised email certificate based on the information that you provided us with, in the language in which you completed the application form."
+#. Default: "We will issue a personalised email certificate based on the
+#. information that you provided us with, in the language in which you
+#. completed the application form."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:180
 msgid "partner_form_description_email_certificate"
 msgstr ""
-"Du vil få tilsendt et personlig deltakerbevis per e-post, på bakgrunn av den "
-"informasjonen du har gitt, på det språket du benytter i søknadsskjemaet."
+"Du vil få tilsendt et personlig deltakerbevis per e-post, på bakgrunn av den"
+" informasjonen du har gitt, på det språket du benytter i søknadsskjemaet."
 
-#. Default: "Please note that you may be contacted by the Agency to provide more details on your Campaign activities."
+#. Default: "Please note that you may be contacted by the Agency to provide
+#. more details on your Campaign activities."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:184
 msgid "partner_form_description_contacted"
 msgstr ""
@@ -278,71 +289,74 @@ msgstr "E-postadresse"
 msgid "field_telephone"
 msgstr "Telefonnummer"
 
-#. Default: "I/we participated in the Healthy Workplace Campaign and organised the following activities"
+#. Default: "I/we participated in the Healthy Workplace Campaign and organised
+#. the following activities"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:93
 msgid "field_comprehensive_checklist"
 msgstr ""
+"Jeg/vi har deltatt i Et sikkert og godt arbeidsmiljø-kampanjen og har "
+"arrangert følgende aktiviteter"
 
 #. Default: "More"
 #: osha.hwccontent:/browser/templates/pressrelease_listing.pt:27
 msgid "alert_label_more"
-msgstr ""
+msgstr "Mer"
 
 #: osha.hwccontent:/manual_translations.py:10
 msgid "March"
-msgstr ""
+msgstr "Mars"
 
 #: osha.hwccontent:/manual_translations.py:11
 msgid "April"
-msgstr ""
+msgstr "April"
 
 #: osha.hwccontent:/manual_translations.py:12
 msgid "May"
-msgstr ""
+msgstr "Mai"
 
 #: osha.hwccontent:/manual_translations.py:13
 msgid "June"
-msgstr ""
+msgstr "Juni"
 
 #: osha.hwccontent:/manual_translations.py:14
 msgid "July"
-msgstr ""
+msgstr "Juli"
 
 #: osha.hwccontent:/manual_translations.py:15
 msgid "August"
-msgstr ""
+msgstr "August"
 
 #: osha.hwccontent:/manual_translations.py:16
 msgid "September"
-msgstr ""
+msgstr "September"
 
 #: osha.hwccontent:/manual_translations.py:17
 msgid "October"
-msgstr ""
+msgstr "Oktober"
 
 #: osha.hwccontent:/manual_translations.py:18
 msgid "November"
-msgstr ""
+msgstr "November"
 
 #: osha.hwccontent:/manual_translations.py:19
 msgid "December"
-msgstr ""
+msgstr "Desember"
 
 #: osha.hwccontent:/manual_translations.py:22
 msgid "Enterprises"
-msgstr ""
+msgstr "Bedrifter"
 
 #: osha.hwccontent:/manual_translations.py:23
 msgid "Trade unions"
-msgstr ""
+msgstr "Fagforeninger"
 
 #: osha.hwccontent:/manual_translations.py:24
 msgid "Employer organisations"
-msgstr ""
+msgstr "Arbeidsgiverorganisasjoner"
 
 #: osha.hwccontent:/manual_translations.py:25
 msgid "OSH professionals"
-msgstr ""
+msgstr "HMS-personell"
 
 #: osha.hwccontent:/manual_translations.py:26
 msgid "Research"
@@ -350,24 +364,24 @@ msgstr ""
 
 #: osha.hwccontent:/manual_translations.py:27
 msgid "Other"
-msgstr ""
+msgstr "Annet"
 
 #: osha.hwccontent:/manual_translations.py:30
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Personvernpolitikk"
 
 #: osha.hwccontent:/manual_translations.py:31
 msgid "Disclaimer"
-msgstr ""
+msgstr "Ansvarsfraskrivelse"
 
 #: osha.hwccontent:/manual_translations.py:32
 msgid "Copyright"
-msgstr ""
+msgstr "Opphavsrett"
 
 #: osha.hwccontent:/manual_translations.py:33
 #: osha.hwctheme:/viewlets/hwcheader.pt:27
 msgid "European Agency for Safety and Health at Work"
-msgstr ""
+msgstr "Det europeiske arbeidsmiljøorganet"
 
 #. Default: "Healthy Workplaces"
 #: osha.hwccontent:/manual_translations.py:35
@@ -376,11 +390,11 @@ msgstr "Et sikkert og godt arbeidsmiljø"
 
 #: osha.hwccontent:/manual_translations.py:8
 msgid "January"
-msgstr ""
+msgstr "Januar"
 
 #: osha.hwccontent:/manual_translations.py:9
 msgid "February"
-msgstr ""
+msgstr "Februar"
 
 #. Default: "Healthy Workplaces Manage Stress."
 #: osha.hwctheme:/viewlets/hwcheader.pt:21
@@ -390,14 +404,15 @@ msgstr "Gode arbeidsplasser forebygger stress"
 #. Default: "Select your language"
 #: osha.hwctheme:/viewlets/hwcheader.pt:24
 msgid "label_select_language"
-msgstr ""
+msgstr "Velg språk"
 
 #. Default: "Supported by"
 #: osha.hwctheme:/viewlets/hwcheader.pt:27
 msgid "supported_by"
-msgstr ""
+msgstr "Med støtte fra"
 
-#. Default: "Safety and health at work is everyone's concern. It's good for you. It's good for business."
+#. Default: "Safety and health at work is everyone's concern. It's good for
+#. you. It's good for business."
 #: osha.hwctheme:/viewlets/hwcheader.pt:30
 msgid "campaign_tagline"
 msgstr "Arbeidsmiljøet angår alle. Bra for både deg og din bedrift."

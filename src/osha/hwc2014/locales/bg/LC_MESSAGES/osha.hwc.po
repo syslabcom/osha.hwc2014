@@ -1,36 +1,36 @@
 # ############################################################################
-#
+# 
 # Copyright (c) 2003-2004 Zope Foundation and Contributors.
 # All Rights Reserved.
-#
+# 
 # This software is subject to the provisions of the Zope Public License,
 # Version 2.1 (ZPL).  A copy of the ZPL should accompany this distribution.
 # THIS SOFTWARE IS PROVIDED "AS IS" AND ANY AND ALL EXPRESS OR IMPLIED
 # WARRANTIES ARE DISCLAIMED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
 # WARRANTIES OF TITLE, MERCHANTABILITY, AGAINST INFRINGEMENT, AND FITNESS
 # FOR A PARTICULAR PURPOSE.
-#
+# 
 # ############################################################################
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "POT-Creation-Date: Mon Dec  9 17:57:38 2013\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2014-01-17 16:10+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: zope/app/locales/extract.py\n"
+"Language: \n"
 
 #: osha.hwccontent:/behaviors/moreabout.py:65
 msgid "Related sites"
-msgstr ""
+msgstr "Свързани сайтове"
 
 #: osha.hwccontent:/behaviors/moreabout.py:91
 msgid "See also"
-msgstr ""
+msgstr "Виж също"
 
 #. Default: "${name} is required, please correct."
 #: osha.hwccontent:/browser/charter.py:103
@@ -94,17 +94,20 @@ msgstr "Телефон"
 
 #: osha.hwccontent:/browser/templates/document_files.pt:41
 msgid "Downloads"
-msgstr ""
+msgstr "Downloads"
 
 #. Default: "National Focal Points"
 #: osha.hwccontent:/browser/templates/document_focalpoints.pt:25
 msgid "title_focal_points"
 msgstr "Национални фокусни точки"
 
-#. Default: "Tips and tools to manage stress and psychosocial risks in your workplace"
+#. Default: "Tips and tools to manage stress and psychosocial risks in your
+#. workplace"
 #: osha.hwccontent:/browser/templates/front_page.pt:17
 msgid "banner_text_1"
 msgstr ""
+"Съвети и инструменти за управление на стреса и психосоциалните рискове на "
+"работното място"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:27
 msgid "News"
@@ -114,7 +117,7 @@ msgstr "Новини"
 #: osha.hwccontent:/browser/templates/organisation.pt:135
 #: osha.hwccontent:/browser/templates/focalpoint.pt:112
 msgid "see all news"
-msgstr ""
+msgstr "виж всички новини"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:50
 msgid "Events"
@@ -129,30 +132,31 @@ msgstr ""
 #. Default: "Location"
 #: osha.hwccontent:/browser/templates/front_page.pt:67
 msgid "event_location"
-msgstr ""
+msgstr "Място"
 
 #. Default: "Organiser"
 #: osha.hwccontent:/browser/templates/front_page.pt:68
 msgid "event_organiser"
-msgstr ""
+msgstr "Организатор"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:73
 #: osha.hwccontent:/browser/templates/organisation.pt:121
 #: osha.hwccontent:/browser/templates/focalpoint.pt:98
 msgid "see all events"
-msgstr ""
+msgstr "виж всички събития"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:80
 #: osha.hwccontent:/browser/templates/document_organisations.pt:20
 msgid "Partners"
-msgstr ""
+msgstr "Партньори"
 
 #. Default: "Certificate of Participation - Online Application Form"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:10
 msgid "certificate_of_participation"
 msgstr "Удостоверение за участие — Формуляр за заявление онлайн"
 
-#. Default: "Training events, seminars and workshops Safety demonstrations, displays and exhibitions"
+#. Default: "Training events, seminars and workshops Safety demonstrations,
+#. displays and exhibitions"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:100
 msgid "checkboxlist1"
 msgstr ""
@@ -174,7 +178,8 @@ msgstr "Филми, видео и мултимедия"
 msgid "checkboxlist4"
 msgstr "Рекламни кампании и кампании за популяризиране"
 
-#. Default: "Partnerships between enterprises and schools/colleges/training centres"
+#. Default: "Partnerships between enterprises and schools/colleges/training
+#. centres"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:130
 msgid "checkboxlist5"
 msgstr ""
@@ -205,7 +210,10 @@ msgstr "Нови инициативи за политика или превен�
 msgid "other"
 msgstr "Друго"
 
-#. Default: "It\342\200\231s easy! Just fill in the electronic form and the Agency will send you by email a <strong>personalised certificate of participation</strong> in recognition of your commitment to the Healthy Workplaces Campaign."
+#. Default: "It\342\200\231s easy! Just fill in the electronic form and the
+#. Agency will send you by email a <strong>personalised certificate of
+#. participation</strong> in recognition of your commitment to the Healthy
+#. Workplaces Campaign."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:18
 msgid "partner_form_instructions"
 msgstr ""
@@ -213,7 +221,9 @@ msgstr ""
 "електронна поща <strong>персонализирано удостоверение за участие</strong> "
 "като признание за Вашия принос за кампанията „Здравословни работни места“."
 
-#. Default: "We will issue a personalised email certificate based on the information that you provided us with, in the language in which you completed the application form."
+#. Default: "We will issue a personalised email certificate based on the
+#. information that you provided us with, in the language in which you
+#. completed the application form."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:180
 msgid "partner_form_description_email_certificate"
 msgstr ""
@@ -221,7 +231,8 @@ msgstr ""
 "на информацията, която ни предоставите, на езика на формуляра за заявление, "
 "който сте попълнили."
 
-#. Default: "Please note that you may be contacted by the Agency to provide more details on your Campaign activities."
+#. Default: "Please note that you may be contacted by the Agency to provide
+#. more details on your Campaign activities."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:184
 msgid "partner_form_description_contacted"
 msgstr ""
@@ -278,10 +289,13 @@ msgstr "Адрес на електронна поща"
 msgid "field_telephone"
 msgstr "Телефонен номер"
 
-#. Default: "I/we participated in the Healthy Workplace Campaign and organised the following activities"
+#. Default: "I/we participated in the Healthy Workplace Campaign and organised
+#. the following activities"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:93
 msgid "field_comprehensive_checklist"
 msgstr ""
+"Аз/ние участвахме в кампанията „Здравословни работни места“ и организирахме "
+"следните дейности"
 
 #. Default: "More"
 #: osha.hwccontent:/browser/templates/pressrelease_listing.pt:27
@@ -330,23 +344,23 @@ msgstr "Декември"
 
 #: osha.hwccontent:/manual_translations.py:22
 msgid "Enterprises"
-msgstr ""
+msgstr "Предприятия"
 
 #: osha.hwccontent:/manual_translations.py:23
 msgid "Trade unions"
-msgstr ""
+msgstr "Търговски съюзи"
 
 #: osha.hwccontent:/manual_translations.py:24
 msgid "Employer organisations"
-msgstr ""
+msgstr "Работодателски организации"
 
 #: osha.hwccontent:/manual_translations.py:25
 msgid "OSH professionals"
-msgstr ""
+msgstr "Специалисти в областта на безопасността и здравето при работа "
 
 #: osha.hwccontent:/manual_translations.py:26
 msgid "Research"
-msgstr ""
+msgstr "Изследвания"
 
 #: osha.hwccontent:/manual_translations.py:27
 msgid "Other"
@@ -395,9 +409,10 @@ msgstr "Избери Език"
 #. Default: "Supported by"
 #: osha.hwctheme:/viewlets/hwcheader.pt:27
 msgid "supported_by"
-msgstr ""
+msgstr "Подкрепено от"
 
-#. Default: "Safety and health at work is everyone's concern. It's good for you. It's good for business."
+#. Default: "Safety and health at work is everyone's concern. It's good for
+#. you. It's good for business."
 #: osha.hwctheme:/viewlets/hwcheader.pt:30
 msgid "campaign_tagline"
 msgstr ""

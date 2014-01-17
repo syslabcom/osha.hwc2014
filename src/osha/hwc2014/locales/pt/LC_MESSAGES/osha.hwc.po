@@ -1,36 +1,36 @@
 # ############################################################################
-#
+# 
 # Copyright (c) 2003-2004 Zope Foundation and Contributors.
 # All Rights Reserved.
-#
+# 
 # This software is subject to the provisions of the Zope Public License,
 # Version 2.1 (ZPL).  A copy of the ZPL should accompany this distribution.
 # THIS SOFTWARE IS PROVIDED "AS IS" AND ANY AND ALL EXPRESS OR IMPLIED
 # WARRANTIES ARE DISCLAIMED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
 # WARRANTIES OF TITLE, MERCHANTABILITY, AGAINST INFRINGEMENT, AND FITNESS
 # FOR A PARTICULAR PURPOSE.
-#
+# 
 # ############################################################################
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "POT-Creation-Date: Mon Dec  9 17:57:38 2013\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2014-01-17 16:15+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: zope/app/locales/extract.py\n"
+"Language: \n"
 
 #: osha.hwccontent:/behaviors/moreabout.py:65
 msgid "Related sites"
-msgstr ""
+msgstr "Sites relacionados"
 
 #: osha.hwccontent:/behaviors/moreabout.py:91
 msgid "See also"
-msgstr ""
+msgstr "Ver também"
 
 #. Default: "${name} is required, please correct."
 #: osha.hwccontent:/browser/charter.py:103
@@ -94,17 +94,20 @@ msgstr "Telefone"
 
 #: osha.hwccontent:/browser/templates/document_files.pt:41
 msgid "Downloads"
-msgstr ""
+msgstr "Transferências"
 
 #. Default: "National Focal Points"
 #: osha.hwccontent:/browser/templates/document_focalpoints.pt:25
 msgid "title_focal_points"
 msgstr "Pontos Focais Nacionais"
 
-#. Default: "Tips and tools to manage stress and psychosocial risks in your workplace"
+#. Default: "Tips and tools to manage stress and psychosocial risks in your
+#. workplace"
 #: osha.hwccontent:/browser/templates/front_page.pt:17
 msgid "banner_text_1"
 msgstr ""
+"Sugestões e ferramentas para gerir o stresse e os riscos psicossociais no "
+"seu local de trabalho"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:27
 msgid "News"
@@ -114,7 +117,7 @@ msgstr "Notícias"
 #: osha.hwccontent:/browser/templates/organisation.pt:135
 #: osha.hwccontent:/browser/templates/focalpoint.pt:112
 msgid "see all news"
-msgstr ""
+msgstr "ver todas as notícias"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:50
 msgid "Events"
@@ -129,30 +132,31 @@ msgstr ""
 #. Default: "Location"
 #: osha.hwccontent:/browser/templates/front_page.pt:67
 msgid "event_location"
-msgstr ""
+msgstr "Local"
 
 #. Default: "Organiser"
 #: osha.hwccontent:/browser/templates/front_page.pt:68
 msgid "event_organiser"
-msgstr ""
+msgstr "Organizador"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:73
 #: osha.hwccontent:/browser/templates/organisation.pt:121
 #: osha.hwccontent:/browser/templates/focalpoint.pt:98
 msgid "see all events"
-msgstr ""
+msgstr "ver todos os eventos"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:80
 #: osha.hwccontent:/browser/templates/document_organisations.pt:20
 msgid "Partners"
-msgstr ""
+msgstr "Parceiros"
 
 #. Default: "Certificate of Participation - Online Application Form"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:10
 msgid "certificate_of_participation"
 msgstr "Certificado de participação – Formulário de inscrição em linha"
 
-#. Default: "Training events, seminars and workshops Safety demonstrations, displays and exhibitions"
+#. Default: "Training events, seminars and workshops Safety demonstrations,
+#. displays and exhibitions"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:100
 msgid "checkboxlist1"
 msgstr ""
@@ -174,12 +178,13 @@ msgstr "Filme, vídeo e multimédia"
 msgid "checkboxlist4"
 msgstr "Campanhas de publicidade e de promoção"
 
-#. Default: "Partnerships between enterprises and schools/colleges/training centres"
+#. Default: "Partnerships between enterprises and schools/colleges/training
+#. centres"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:130
 msgid "checkboxlist5"
 msgstr ""
-"Parcerias entre empresas e escolas/estabelecimentos de ensino superior/"
-"centros de formação"
+"Parcerias entre empresas e escolas/estabelecimentos de ensino "
+"superior/centros de formação"
 
 #. Default: "\"Good neighbour schemes\" between large and small enterprises"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:137
@@ -206,7 +211,10 @@ msgstr "Novas políticas ou iniciativas de prevenção"
 msgid "other"
 msgstr "Outros"
 
-#. Default: "It\342\200\231s easy! Just fill in the electronic form and the Agency will send you by email a <strong>personalised certificate of participation</strong> in recognition of your commitment to the Healthy Workplaces Campaign."
+#. Default: "It\342\200\231s easy! Just fill in the electronic form and the
+#. Agency will send you by email a <strong>personalised certificate of
+#. participation</strong> in recognition of your commitment to the Healthy
+#. Workplaces Campaign."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:18
 msgid "partner_form_instructions"
 msgstr ""
@@ -215,7 +223,9 @@ msgstr ""
 "personalizado</strong>, como reconhecimento pelo seu empenho na Campanha "
 "Locais de Trabalho Seguros e Saudáveis."
 
-#. Default: "We will issue a personalised email certificate based on the information that you provided us with, in the language in which you completed the application form."
+#. Default: "We will issue a personalised email certificate based on the
+#. information that you provided us with, in the language in which you
+#. completed the application form."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:180
 msgid "partner_form_description_email_certificate"
 msgstr ""
@@ -223,7 +233,8 @@ msgstr ""
 "na informação que nos forneceu e na língua em que preencheu o formulário de "
 "inscrição."
 
-#. Default: "Please note that you may be contacted by the Agency to provide more details on your Campaign activities."
+#. Default: "Please note that you may be contacted by the Agency to provide
+#. more details on your Campaign activities."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:184
 msgid "partner_form_description_contacted"
 msgstr ""
@@ -281,10 +292,13 @@ msgstr "Endereço de correio electrónico"
 msgid "field_telephone"
 msgstr "Número de telefone"
 
-#. Default: "I/we participated in the Healthy Workplace Campaign and organised the following activities"
+#. Default: "I/we participated in the Healthy Workplace Campaign and organised
+#. the following activities"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:93
 msgid "field_comprehensive_checklist"
 msgstr ""
+"Participei/Participamos na campanha «Locais de Trabalho Seguros e Saudáveis»"
+" e organizei/organizamos as seguintes atividades"
 
 #. Default: "More"
 #: osha.hwccontent:/browser/templates/pressrelease_listing.pt:27
@@ -333,23 +347,23 @@ msgstr "Dezembro"
 
 #: osha.hwccontent:/manual_translations.py:22
 msgid "Enterprises"
-msgstr ""
+msgstr "Empresas"
 
 #: osha.hwccontent:/manual_translations.py:23
 msgid "Trade unions"
-msgstr ""
+msgstr "Sindicatos"
 
 #: osha.hwccontent:/manual_translations.py:24
 msgid "Employer organisations"
-msgstr ""
+msgstr "Organizações de empregadores"
 
 #: osha.hwccontent:/manual_translations.py:25
 msgid "OSH professionals"
-msgstr ""
+msgstr "Profissionais de SST"
 
 #: osha.hwccontent:/manual_translations.py:26
 msgid "Research"
-msgstr ""
+msgstr "Pesquisar"
 
 #: osha.hwccontent:/manual_translations.py:27
 msgid "Other"
@@ -398,14 +412,15 @@ msgstr "Seleccionar Língua"
 #. Default: "Supported by"
 #: osha.hwctheme:/viewlets/hwcheader.pt:27
 msgid "supported_by"
-msgstr ""
+msgstr "Suportado por"
 
-#. Default: "Safety and health at work is everyone's concern. It's good for you. It's good for business."
+#. Default: "Safety and health at work is everyone's concern. It's good for
+#. you. It's good for business."
 #: osha.hwctheme:/viewlets/hwcheader.pt:30
 msgid "campaign_tagline"
 msgstr ""
-"Segurança e saúde no trabalho diz respeito a todos. Bom para si. Bom para as "
-"empresas."
+"Segurança e saúde no trabalho diz respeito a todos. Bom para si. Bom para as"
+" empresas."
 
 #~ msgid "heading_you_are_now_logged_in"
 #~ msgstr "Você está agora identificado"
@@ -413,9 +428,8 @@ msgstr ""
 #~ msgid "description_logged_in_explain"
 #~ msgstr ""
 #~ "Note que a barra superior direita foi alterada. Agora contém vários itens "
-#~ "personalizados. Utilize estes itens para controlar as suas configurações "
-#~ "e a sua área pessoal. Eles manter-se-ão enquanto estiver ligado ao "
-#~ "sistema."
+#~ "personalizados. Utilize estes itens para controlar as suas configurações e a"
+#~ " sua área pessoal. Eles manter-se-ão enquanto estiver ligado ao sistema."
 
 #~ msgid "Trade union"
 #~ msgstr "Sindicato"
