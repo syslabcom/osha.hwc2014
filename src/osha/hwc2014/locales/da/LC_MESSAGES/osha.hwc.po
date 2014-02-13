@@ -106,7 +106,7 @@ msgstr "Nationale knudepunkter"
 #: osha.hwccontent:/browser/templates/front_page.pt:17
 msgid "banner_text_1"
 msgstr ""
-"Tips og værktøjer til håndtering af stress og psykosociale risici på "
+"Tips og værktøjer til håndtering af stress og psykiske risici på "
 "arbejdspladsen"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:27
