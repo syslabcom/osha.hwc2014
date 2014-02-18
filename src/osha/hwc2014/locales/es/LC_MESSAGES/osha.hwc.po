@@ -230,7 +230,7 @@ msgstr ""
 msgid "partner_form_description_email_certificate"
 msgstr ""
 "Le enviaremos por correo electrónico un certificado personalizado basado en "
-"la información que nos ha facilitado y en la lengua en la que haya "
+"la información que nos ha facilitado y en el idioma en el que haya "
 "cumplimentado el formulario de solicitud en línea."
 
 #. Default: "Please note that you may be contacted by the Agency to provide
@@ -298,7 +298,7 @@ msgstr "Número de teléfono"
 msgid "field_comprehensive_checklist"
 msgstr ""
 "He/hemos participado en la campaña Trabajos saludables y organizado "
-"lassiguientes actividades"
+"las siguientes actividades"
 
 #. Default: "More"
 #: osha.hwccontent:/browser/templates/pressrelease_listing.pt:27
