@@ -106,7 +106,7 @@ msgstr "Landsbundnir tengipunktar"
 #: osha.hwccontent:/browser/templates/front_page.pt:17
 msgid "banner_text_1"
 msgstr ""
-"Ráð og tól til þess að stjórna streitu og sálfélagslegum áhættum á "
+"Ráð og verkfæri til þess að stjórna streitu og sálfélagslegum áhættum á "
 "vinnustaðnum þínum"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:27
