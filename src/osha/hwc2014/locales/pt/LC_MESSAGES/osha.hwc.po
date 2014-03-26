@@ -1,96 +1,116 @@
 # ############################################################################
-# 
+#
 # Copyright (c) 2003-2004 Zope Foundation and Contributors.
 # All Rights Reserved.
-# 
+#
 # This software is subject to the provisions of the Zope Public License,
 # Version 2.1 (ZPL).  A copy of the ZPL should accompany this distribution.
 # THIS SOFTWARE IS PROVIDED "AS IS" AND ANY AND ALL EXPRESS OR IMPLIED
 # WARRANTIES ARE DISCLAIMED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
 # WARRANTIES OF TITLE, MERCHANTABILITY, AGAINST INFRINGEMENT, AND FITNESS
 # FOR A PARTICULAR PURPOSE.
-# 
+#
 # ############################################################################
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: Mon Dec  9 17:57:38 2013\n"
+"POT-Creation-Date: Wed Mar 26 19:46:16 2014\n"
 "PO-Revision-Date: 2014-01-17 16:15+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: zope/app/locales/extract.py\n"
-"Language: \n"
+
+#: osha.hwccontent:/behaviors/attachment.py:17
+msgid "Attachment"
+msgstr ""
 
 #: osha.hwccontent:/behaviors/moreabout.py:65
+#: osha.hwccontent:/behaviors/relatedsites.pt:3
 msgid "Related sites"
 msgstr "Sites relacionados"
 
 #: osha.hwccontent:/behaviors/moreabout.py:91
+#: osha.hwccontent:/behaviors/seealso.pt:3
 msgid "See also"
 msgstr "Ver também"
 
-#. Default: "${name} is required, please correct."
-#: osha.hwccontent:/browser/charter.py:103
-msgid "error_required"
-msgstr "${name} obrigatório, efectuar as correcções necessárias."
-
-#: osha.hwccontent:/browser/charter.py:110
-msgid "You entered an invalid email address."
-msgstr "O endereço de correio electrónico que inseriu não é válido."
-
-#: osha.hwccontent:/browser/charter.py:26
-msgid ""
-"<p>Thank you for signing the Healthy Workplaces Campaign certificate.</p>\n"
-"\n"
-"<p>Please find a PDF version of the certificate attached to this email,\n"
-"which you may print.</p>\n"
-"\n"
-"<p>For more information on the Healthy Workplaces Campaign, please\n"
-"consult the website at http://www.healthy-workplaces.eu.</p>\n"
-msgstr ""
-
-#: osha.hwccontent:/browser/charter.py:86
+#: osha.hwccontent:/browser/charter.py:105
 msgid "Company/Organisation"
 msgstr "Empresa/Organização"
 
-#: osha.hwccontent:/browser/charter.py:87
+#: osha.hwccontent:/browser/charter.py:106
 msgid "Address"
 msgstr "Endereço"
 
-#: osha.hwccontent:/browser/charter.py:88
+#: osha.hwccontent:/browser/charter.py:107
 msgid "Postal Code"
 msgstr "Código postal"
 
-#: osha.hwccontent:/browser/charter.py:89
+#: osha.hwccontent:/browser/charter.py:108
 msgid "City"
 msgstr "Localidade"
 
-#: osha.hwccontent:/browser/charter.py:90
+#: osha.hwccontent:/browser/charter.py:109
 msgid "Country"
 msgstr "País"
 
-#: osha.hwccontent:/browser/charter.py:91
+#: osha.hwccontent:/browser/charter.py:110
 msgid "Firstname"
 msgstr "Nome próprio"
 
-#: osha.hwccontent:/browser/charter.py:92
+#: osha.hwccontent:/browser/charter.py:111
 msgid "Lastname"
 msgstr "Apelido"
 
-#: osha.hwccontent:/browser/charter.py:93
+#: osha.hwccontent:/browser/charter.py:112
 msgid "Sector"
 msgstr "Sector"
 
-#: osha.hwccontent:/browser/charter.py:94
+#: osha.hwccontent:/browser/charter.py:113
 msgid "Email"
 msgstr "Endereço de correio electrónico"
 
-#: osha.hwccontent:/browser/charter.py:95
+#: osha.hwccontent:/browser/charter.py:114
 msgid "Telephone"
 msgstr "Telefone"
+
+#: osha.hwccontent:/browser/charter.py:115
+msgid "Privacy"
+msgstr ""
+
+#. Default: "${name} is required, please correct."
+#: osha.hwccontent:/browser/charter.py:123
+msgid "error_required"
+msgstr "${name} obrigatório, efectuar as correcções necessárias."
+
+#: osha.hwccontent:/browser/charter.py:130
+msgid "You entered an invalid email address."
+msgstr "O endereço de correio electrónico que inseriu não é válido."
+
+#. Default: ""
+#.  "<p>Thank you for actively supporting the Healthy Workplaces Campaign!</p>\n"
+#.  "\n"
+#.  "<p>Please find a PDF version of the Campaign certificate attached to this email, which you may print.</p>\n"
+#.  "\n"
+#.  "<p>For more information on the Healthy Workplaces Campaign, please\n"
+#.  "visit the website at http://www.healthy-workplaces.eu.</p>\n"
+#.  "\n"
+#.  "<p>To keep up to date with the latest news, subscribe to EU-OSHA newsletter https://osha.europa.eu/en/news/oshmail/</p>"
+#: osha.hwccontent:/browser/charter.py:31
+msgid "charter_feedback_email_text"
+msgstr ""
+"<p>Obrigado por apoiar ativamente a Campanha Locais de Trabalho Seguros e "
+"Saudáveis.<br />Segue em anexo à presente mensagem de correio eletrónico uma "
+"versão em PDF imprimível do certificado da Campanha.<br />Para mais "
+"informações sobre a Campanha Locais de Trabalho Seguros e Saudáveis, visite "
+"o sítio Web em <a href=\"http://www.healthy-workplaces.eu/\">http://www."
+"healthy-workplaces.eu</a>.<br /> Para se manter a par das últimas notícias, "
+"assine o boletim informativo da EU-OSHA, em <a href=\"https://osha.europa.eu/"
+"en/news/oshmail/\">https://osha.europa.eu/en/news/oshmail/</a></p>"
 
 #: osha.hwccontent:/browser/templates/document_files.pt:41
 msgid "Downloads"
@@ -101,120 +121,125 @@ msgstr "Transferências"
 msgid "title_focal_points"
 msgstr "Pontos Focais Nacionais"
 
-#. Default: "Tips and tools to manage stress and psychosocial risks in your
-#. workplace"
+#. Default: "Media Partners"
+#: osha.hwccontent:/browser/templates/document_mediapartners.pt:24
+msgid "title_media_partners"
+msgstr ""
+
+#: osha.hwccontent:/browser/templates/front_page.pt:101
+#: osha.hwccontent:/browser/templates/document_organisations.pt:20
+msgid "Partners"
+msgstr "Parceiros"
+
+#. Default: "Tips and tools to manage stress and psychosocial risks in your workplace"
 #: osha.hwccontent:/browser/templates/front_page.pt:17
 msgid "banner_text_1"
 msgstr ""
 "Sugestões e ferramentas para gerir o stresse e os riscos psicossociais no "
 "seu local de trabalho"
 
-#: osha.hwccontent:/browser/templates/front_page.pt:27
+#: osha.hwccontent:/browser/templates/front_page.pt:36
 msgid "News"
 msgstr "Notícias"
 
-#: osha.hwccontent:/browser/templates/front_page.pt:46
+#: osha.hwccontent:/browser/templates/front_page.pt:69
+#: osha.hwccontent:/browser/templates/mediapartner.pt:99
 #: osha.hwccontent:/browser/templates/organisation.pt:135
-#: osha.hwccontent:/browser/templates/focalpoint.pt:112
+#: osha.hwccontent:/browser/templates/focalpoint.pt:114
 msgid "see all news"
 msgstr "ver todas as notícias"
 
-#: osha.hwccontent:/browser/templates/front_page.pt:50
+#: osha.hwccontent:/browser/templates/front_page.pt:73
 msgid "Events"
 msgstr "Eventos"
 
-#: osha.hwccontent:/browser/templates/front_page.pt:62
-#: osha.hwccontent:/browser/templates/front_page.pt:84
+#: osha.hwccontent:/browser/templates/front_page.pt:83
+#: osha.hwccontent:/browser/templates/front_page.pt:105
 #: osha.hwccontent:/browser/templates/document_organisations.pt:24
 msgid "${DYNAMIC_CONTENT}"
 msgstr ""
 
 #. Default: "Location"
-#: osha.hwccontent:/browser/templates/front_page.pt:67
+#: osha.hwccontent:/browser/templates/front_page.pt:88
 msgid "event_location"
 msgstr "Local"
 
 #. Default: "Organiser"
-#: osha.hwccontent:/browser/templates/front_page.pt:68
+#: osha.hwccontent:/browser/templates/front_page.pt:89
 msgid "event_organiser"
 msgstr "Organizador"
 
-#: osha.hwccontent:/browser/templates/front_page.pt:73
+#: osha.hwccontent:/browser/templates/front_page.pt:94
 #: osha.hwccontent:/browser/templates/organisation.pt:121
-#: osha.hwccontent:/browser/templates/focalpoint.pt:98
+#: osha.hwccontent:/browser/templates/focalpoint.pt:100
 msgid "see all events"
 msgstr "ver todos os eventos"
-
-#: osha.hwccontent:/browser/templates/front_page.pt:80
-#: osha.hwccontent:/browser/templates/document_organisations.pt:20
-msgid "Partners"
-msgstr "Parceiros"
 
 #. Default: "Certificate of Participation - Online Application Form"
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:10
 msgid "certificate_of_participation"
 msgstr "Certificado de participação – Formulário de inscrição em linha"
 
-#. Default: "Training events, seminars and workshops Safety demonstrations,
-#. displays and exhibitions"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:100
+#. Default: "Training events, seminars and workshops Safety demonstrations, displays and exhibitions"
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:101
 msgid "checkboxlist1"
 msgstr ""
 "Acções de formação, seminários e oficinas de trabalho Demonstrações de "
 "segurança, mostras e exposições"
 
 #. Default: "Poster competitions and quizzes"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:107
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:108
 msgid "checkboxlist2"
 msgstr "Concursos de cartazes e de pergunta-resposta"
 
 #. Default: "Film, video and multimedia"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:115
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:116
 msgid "checkboxlist3"
 msgstr "Filme, vídeo e multimédia"
 
 #. Default: "Advertising and promotion campaigns"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:122
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:123
 msgid "checkboxlist4"
 msgstr "Campanhas de publicidade e de promoção"
 
-#. Default: "Partnerships between enterprises and schools/colleges/training
-#. centres"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:130
+#. Default: "Partnerships between enterprises and schools/colleges/training centres"
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:131
 msgid "checkboxlist5"
 msgstr ""
-"Parcerias entre empresas e escolas/estabelecimentos de ensino "
-"superior/centros de formação"
+"Parcerias entre empresas e escolas/estabelecimentos de ensino superior/"
+"centros de formação"
 
 #. Default: "\"Good neighbour schemes\" between large and small enterprises"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:137
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:138
 msgid "checkboxlist6"
 msgstr "\"Programas de boa vizinhança\" entre grandes e pequenas empresas"
 
 #. Default: "Hazard spotting"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:144
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:145
 msgid "checkboxlist7"
 msgstr "Detecção de riscos"
 
 #. Default: "Inspection days"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:152
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:153
 msgid "checkboxlist8"
 msgstr "Dias de inspecção"
 
 #. Default: "New policy or prevention initiatives"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:160
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:161
 msgid "checkboxlist9"
 msgstr "Novas políticas ou iniciativas de prevenção"
 
 #. Default: "Other"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:165
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:166
 msgid "other"
 msgstr "Outros"
 
-#. Default: "It\342\200\231s easy! Just fill in the electronic form and the
-#. Agency will send you by email a <strong>personalised certificate of
-#. participation</strong> in recognition of your commitment to the Healthy
-#. Workplaces Campaign."
+#. Default: "I confirm that I have read and accept the terms of privacy conditions and I authorise the treatment of my personal data."
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:178
+msgid "label_accept_privacy"
+msgstr ""
+
+#. Default: "It\342\200\231s easy! Just fill in the electronic form and the Agency will send you by email a <strong>personalised certificate of participation</strong> in recognition of your commitment to the Healthy Workplaces Campaign."
 #: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:18
 msgid "partner_form_instructions"
 msgstr ""
@@ -223,19 +248,16 @@ msgstr ""
 "personalizado</strong>, como reconhecimento pelo seu empenho na Campanha "
 "Locais de Trabalho Seguros e Saudáveis."
 
-#. Default: "We will issue a personalised email certificate based on the
-#. information that you provided us with, in the language in which you
-#. completed the application form."
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:180
+#. Default: "We will issue a personalised email certificate based on the information that you provided us with, in the language in which you completed the application form."
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:188
 msgid "partner_form_description_email_certificate"
 msgstr ""
 "Emitiremos um certificado personalizado, por correio electrónico, com base "
 "na informação que nos forneceu e na língua em que preencheu o formulário de "
 "inscrição."
 
-#. Default: "Please note that you may be contacted by the Agency to provide
-#. more details on your Campaign activities."
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:184
+#. Default: "Please note that you may be contacted by the Agency to provide more details on your Campaign activities."
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:192
 msgid "partner_form_description_contacted"
 msgstr ""
 "Tenha em consideração a possibilidade de ser contactado pela Agência para "
@@ -243,62 +265,61 @@ msgstr ""
 "Campanha"
 
 #. Default: "Company/Organisation"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:32
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:33
 msgid "field_company"
 msgstr "Empresa/Organização"
 
 #. Default: "Address"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:38
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:39
 msgid "field_address"
 msgstr "Endereço"
 
 #. Default: "Postal code"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:44
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:45
 msgid "field_postalcode"
 msgstr "Código postal"
 
 #. Default: "City"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:50
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:51
 msgid "field_city"
 msgstr "Localidade"
 
 #. Default: "Country"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:56
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:57
 msgid "field_country"
 msgstr "País"
 
 #. Default: "First name of contact person"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:62
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:63
 msgid "field_firstname"
 msgstr "Nome próprio da pessoa de contacto"
 
 #. Default: "Last name"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:68
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:69
 msgid "field_lastname"
 msgstr "Apelido"
 
 #. Default: "Business/sector"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:74
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:75
 msgid "field_sector"
 msgstr "Empresa/sector"
 
 #. Default: "E-mail address"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:80
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:81
 msgid "field_email"
 msgstr "Endereço de correio electrónico"
 
 #. Default: "Telephone number"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:86
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:87
 msgid "field_telephone"
 msgstr "Número de telefone"
 
-#. Default: "I/we participated in the Healthy Workplace Campaign and organised
-#. the following activities"
-#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:93
+#. Default: "I/we participated in the Healthy Workplace Campaign and organised the following activities"
+#: osha.hwccontent:/browser/templates/get_campaign_certificate.pt:94
 msgid "field_comprehensive_checklist"
 msgstr ""
-"Participei/Participamos na campanha «Locais de Trabalho Seguros e Saudáveis»"
-" e organizei/organizamos as seguintes atividades"
+"Participei/Participamos na campanha «Locais de Trabalho Seguros e Saudáveis» "
+"e organizei/organizamos as seguintes atividades"
 
 #. Default: "More"
 #: osha.hwccontent:/browser/templates/pressrelease_listing.pt:27
@@ -382,7 +403,7 @@ msgid "Copyright"
 msgstr "Direitos de autor "
 
 #: osha.hwccontent:/manual_translations.py:33
-#: osha.hwctheme:/viewlets/hwcheader.pt:27
+#: osha.hwctheme:/viewlets/hwcheader.pt:29
 msgid "European Agency for Safety and Health at Work"
 msgstr "Agência Europeia para a Segurança e Saúde no Trabalho"
 
@@ -400,27 +421,24 @@ msgid "February"
 msgstr "Fevereiro"
 
 #. Default: "Healthy Workplaces Manage Stress."
-#: osha.hwctheme:/viewlets/hwcheader.pt:21
+#: osha.hwctheme:/viewlets/hwcheader.pt:23
 msgid "campaign_slogan"
 msgstr "Locais de trabalho saudáveis contribuem para a gestão do stresse"
 
 #. Default: "Select your language"
-#: osha.hwctheme:/viewlets/hwcheader.pt:24
+#: osha.hwctheme:/viewlets/hwcheader.pt:26
 msgid "label_select_language"
 msgstr "Seleccionar Língua"
 
-#. Default: "Supported by"
-#: osha.hwctheme:/viewlets/hwcheader.pt:27
-msgid "supported_by"
-msgstr "Suportado por"
-
-#. Default: "Safety and health at work is everyone's concern. It's good for
-#. you. It's good for business."
-#: osha.hwctheme:/viewlets/hwcheader.pt:30
+#. Default: "Safety and health at work is everyone's concern. It's good for you. It's good for business."
+#: osha.hwctheme:/viewlets/hwcheader.pt:32
 msgid "campaign_tagline"
 msgstr ""
-"Segurança e saúde no trabalho diz respeito a todos. Bom para si. Bom para as"
-" empresas."
+"Segurança e saúde no trabalho diz respeito a todos. Bom para si. Bom para as "
+"empresas."
+
+#~ msgid "supported_by"
+#~ msgstr "Suportado por"
 
 #~ msgid "heading_you_are_now_logged_in"
 #~ msgstr "Você está agora identificado"
@@ -428,8 +446,9 @@ msgstr ""
 #~ msgid "description_logged_in_explain"
 #~ msgstr ""
 #~ "Note que a barra superior direita foi alterada. Agora contém vários itens "
-#~ "personalizados. Utilize estes itens para controlar as suas configurações e a"
-#~ " sua área pessoal. Eles manter-se-ão enquanto estiver ligado ao sistema."
+#~ "personalizados. Utilize estes itens para controlar as suas configurações "
+#~ "e a sua área pessoal. Eles manter-se-ão enquanto estiver ligado ao "
+#~ "sistema."
 
 #~ msgid "Trade union"
 #~ msgstr "Sindicato"
