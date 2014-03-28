@@ -14,7 +14,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: Wed Mar 26 19:46:16 2014\n"
+"POT-Creation-Date: Fri Mar 28 15:52:30 2014\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
@@ -104,12 +104,18 @@ msgstr "You entered an invalid email address."
 msgid "charter_feedback_email_text"
 msgstr ""
 
+#. Default: "Healthy Workplaces"
+#: osha.hwccontent:/browser/charter.py:58
+#: osha.hwccontent:/manual_translations.py:35
+msgid "campaign_name"
+msgstr ""
+
 #: osha.hwccontent:/browser/templates/document_files.pt:41
 msgid "Downloads"
 msgstr ""
 
 #. Default: "National Focal Points"
-#: osha.hwccontent:/browser/templates/document_focalpoints.pt:25
+#: osha.hwccontent:/browser/templates/document_focalpoints.pt:26
 msgid "title_focal_points"
 msgstr ""
 
@@ -118,8 +124,20 @@ msgstr ""
 msgid "title_media_partners"
 msgstr ""
 
+#. Default: "Profiles are in English only"
+#: osha.hwccontent:/browser/templates/document_organisations.pt:23
+#: osha.hwccontent:/browser/templates/document_focalpoints.pt:27
+msgid "profiles_english_only"
+msgstr ""
+
 #: osha.hwccontent:/browser/templates/front_page.pt:101
-#: osha.hwccontent:/browser/templates/document_organisations.pt:20
+#: osha.hwccontent:/browser/templates/organisation.pt:121
+#: osha.hwccontent:/browser/templates/focalpoint.pt:100
+msgid "see all events"
+msgstr ""
+
+#: osha.hwccontent:/browser/templates/front_page.pt:108
+#: osha.hwccontent:/browser/templates/document_organisations.pt:22
 msgid "Partners"
 msgstr ""
 
@@ -132,37 +150,31 @@ msgstr ""
 msgid "News"
 msgstr ""
 
-#: osha.hwccontent:/browser/templates/front_page.pt:69
+#: osha.hwccontent:/browser/templates/front_page.pt:76
 #: osha.hwccontent:/browser/templates/mediapartner.pt:99
 #: osha.hwccontent:/browser/templates/organisation.pt:135
 #: osha.hwccontent:/browser/templates/focalpoint.pt:114
 msgid "see all news"
 msgstr ""
 
-#: osha.hwccontent:/browser/templates/front_page.pt:73
+#: osha.hwccontent:/browser/templates/front_page.pt:80
 msgid "Events"
 msgstr ""
 
-#: osha.hwccontent:/browser/templates/front_page.pt:83
-#: osha.hwccontent:/browser/templates/front_page.pt:105
-#: osha.hwccontent:/browser/templates/document_organisations.pt:24
+#: osha.hwccontent:/browser/templates/front_page.pt:90
+#: osha.hwccontent:/browser/templates/front_page.pt:112
+#: osha.hwccontent:/browser/templates/document_organisations.pt:27
 msgid "${DYNAMIC_CONTENT}"
 msgstr ""
 
 #. Default: "Location"
-#: osha.hwccontent:/browser/templates/front_page.pt:88
+#: osha.hwccontent:/browser/templates/front_page.pt:95
 msgid "event_location"
 msgstr ""
 
 #. Default: "Organiser"
-#: osha.hwccontent:/browser/templates/front_page.pt:89
+#: osha.hwccontent:/browser/templates/front_page.pt:96
 msgid "event_organiser"
-msgstr ""
-
-#: osha.hwccontent:/browser/templates/front_page.pt:94
-#: osha.hwccontent:/browser/templates/organisation.pt:121
-#: osha.hwccontent:/browser/templates/focalpoint.pt:100
-msgid "see all events"
 msgstr ""
 
 #. Default: "Certificate of Participation - Online Application Form"
@@ -390,11 +402,6 @@ msgstr "Copyright"
 #: osha.hwctheme:/viewlets/hwcheader.pt:29
 msgid "European Agency for Safety and Health at Work"
 msgstr "European Agency for Safety and Health at Work"
-
-#. Default: "Healthy Workplaces"
-#: osha.hwccontent:/manual_translations.py:35
-msgid "campaign_name"
-msgstr ""
 
 #: osha.hwccontent:/manual_translations.py:8
 msgid "January"
