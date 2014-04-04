@@ -385,7 +385,7 @@ msgstr "Επιχειρήσεις"
 
 #: osha.hwccontent:/manual_translations.py:23
 msgid "Trade unions"
-msgstr "Συνδικαλιστικές οργανώσεις"
+msgstr "Οργανώσεις εργαζομένων"
 
 #: osha.hwccontent:/manual_translations.py:24
 msgid "Employer organisations"
@@ -393,7 +393,7 @@ msgstr "Οργανώσεις εργοδοτών"
 
 #: osha.hwccontent:/manual_translations.py:25
 msgid "OSH professionals"
-msgstr "Επαγγελματίες του τομέα της ΕΑΥ"
+msgstr "Επαγγελματίες της ΑΥΕ"
 
 #: osha.hwccontent:/manual_translations.py:26
 msgid "Research"
