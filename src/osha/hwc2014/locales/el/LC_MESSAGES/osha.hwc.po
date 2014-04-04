@@ -132,13 +132,13 @@ msgstr "Εθνικοί εστιακοί πόλοι"
 #. Default: "Media Partners"
 #: osha.hwccontent:/browser/templates/document_mediapartners.pt:24
 msgid "title_media_partners"
-msgstr ""
+msgstr "Εταίροι από τα μέσα ενημέρωσης"
 
 #. Default: "Profiles are in English only"
 #: osha.hwccontent:/browser/templates/document_organisations.pt:23
 #: osha.hwccontent:/browser/templates/document_focalpoints.pt:27
 msgid "profiles_english_only"
-msgstr ""
+msgstr "Τα Προφίλ είναι μόνο στα Αγγλικά"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:101
 #: osha.hwccontent:/browser/templates/organisation.pt:121
@@ -431,7 +431,7 @@ msgstr "Φεβρουάριος"
 #. Default: "Healthy Workplaces Manage Stress."
 #: osha.hwctheme:/viewlets/hwcheader.pt:23
 msgid "campaign_slogan"
-msgstr "Διαχείριση του άγχους σε Ασφαλείς και Υγιείς Χώρους Εργασίας"
+msgstr "Διαχείριση του Άγχους σε Ασφαλείς και Υγιείς Χώρους Εργασίας"
 
 #. Default: "Select your language"
 #: osha.hwctheme:/viewlets/hwcheader.pt:26
