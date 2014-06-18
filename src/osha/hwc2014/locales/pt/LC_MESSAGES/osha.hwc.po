@@ -136,7 +136,7 @@ msgstr ""
 #: osha.hwccontent:/browser/templates/document_organisations.pt:23
 #: osha.hwccontent:/browser/templates/document_focalpoints.pt:27
 msgid "profiles_english_only"
-msgstr ""
+msgstr "Perfis apenas disponíveis em inglês"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:101
 #: osha.hwccontent:/browser/templates/organisation.pt:121
