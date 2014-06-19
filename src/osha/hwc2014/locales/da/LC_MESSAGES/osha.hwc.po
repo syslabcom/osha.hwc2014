@@ -14,7 +14,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: Fri Mar 28 15:52:30 2014\n"
+"POT-Creation-Date: Thu Jun 19 14:46:43 2014\n"
 "PO-Revision-Date: 2014-01-17 16:11+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
@@ -38,56 +38,56 @@ msgstr "Relaterede websteder"
 msgid "See also"
 msgstr "Se også"
 
-#: osha.hwccontent:/browser/charter.py:105
+#: osha.hwccontent:/browser/charter.py:107
 msgid "Company/Organisation"
 msgstr "Virksomhed/Organisation"
 
-#: osha.hwccontent:/browser/charter.py:106
+#: osha.hwccontent:/browser/charter.py:108
 msgid "Address"
 msgstr "Adresse"
 
-#: osha.hwccontent:/browser/charter.py:107
+#: osha.hwccontent:/browser/charter.py:109
 msgid "Postal Code"
 msgstr "Postnummer"
 
-#: osha.hwccontent:/browser/charter.py:108
+#: osha.hwccontent:/browser/charter.py:110
 msgid "City"
 msgstr "By"
 
-#: osha.hwccontent:/browser/charter.py:109
+#: osha.hwccontent:/browser/charter.py:111
 msgid "Country"
 msgstr "Land"
 
-#: osha.hwccontent:/browser/charter.py:110
+#: osha.hwccontent:/browser/charter.py:112
 msgid "Firstname"
 msgstr "Fornavn"
 
-#: osha.hwccontent:/browser/charter.py:111
+#: osha.hwccontent:/browser/charter.py:113
 msgid "Lastname"
 msgstr "Efternavn"
 
-#: osha.hwccontent:/browser/charter.py:112
+#: osha.hwccontent:/browser/charter.py:114
 msgid "Sector"
 msgstr "Sektor"
 
-#: osha.hwccontent:/browser/charter.py:113
+#: osha.hwccontent:/browser/charter.py:115
 msgid "Email"
 msgstr "E-mail"
 
-#: osha.hwccontent:/browser/charter.py:114
+#: osha.hwccontent:/browser/charter.py:116
 msgid "Telephone"
 msgstr "Telefon"
 
-#: osha.hwccontent:/browser/charter.py:115
+#: osha.hwccontent:/browser/charter.py:117
 msgid "Privacy"
 msgstr ""
 
 #. Default: "${name} is required, please correct."
-#: osha.hwccontent:/browser/charter.py:123
+#: osha.hwccontent:/browser/charter.py:125
 msgid "error_required"
 msgstr "${name} er påkrævet, ret venligst."
 
-#: osha.hwccontent:/browser/charter.py:130
+#: osha.hwccontent:/browser/charter.py:132
 msgid "You entered an invalid email address."
 msgstr "Du har indtastet en ugyldig e-mailadresse."
 
@@ -100,7 +100,7 @@ msgstr "Du har indtastet en ugyldig e-mailadresse."
 #.  "visit the website at http://www.healthy-workplaces.eu.</p>\n"
 #.  "\n"
 #.  "<p>To keep up to date with the latest news, subscribe to EU-OSHA newsletter https://osha.europa.eu/en/news/oshmail/</p>"
-#: osha.hwccontent:/browser/charter.py:31
+#: osha.hwccontent:/browser/charter.py:33
 msgid "charter_feedback_email_text"
 msgstr ""
 "<p>Tak, fordi du aktivt støtter kampagnen \"Et sikkert og sundt arbejdsmiljø"
@@ -113,7 +113,7 @@ msgstr ""
 "a></p>"
 
 #. Default: "Healthy Workplaces"
-#: osha.hwccontent:/browser/charter.py:58
+#: osha.hwccontent:/browser/charter.py:60
 #: osha.hwccontent:/manual_translations.py:35
 msgid "campaign_name"
 msgstr "Et sikkert og sundt arbejdsmiljø"
@@ -128,24 +128,31 @@ msgid "title_focal_points"
 msgstr "Nationale knudepunkter"
 
 #. Default: "Media Partners"
-#: osha.hwccontent:/browser/templates/document_mediapartners.pt:24
+#: osha.hwccontent:/browser/templates/document_mediapartners.pt:25
 msgid "title_media_partners"
 msgstr ""
 
+#. Default: "View all partners in alphabetical order"
+#: osha.hwccontent:/browser/templates/document_organisations.pt:17
+msgid "label_view_all_partners"
+msgstr ""
+
 #. Default: "Profiles are in English only"
-#: osha.hwccontent:/browser/templates/document_organisations.pt:23
+#: osha.hwccontent:/browser/templates/document_organisations.pt:25
 #: osha.hwccontent:/browser/templates/document_focalpoints.pt:27
+#: osha.hwccontent:/browser/templates/document_organisations_atoz.pt:12
+#: osha.hwccontent:/browser/templates/document_mediapartners.pt:26
 msgid "profiles_english_only"
 msgstr "Profiler findes kun på engelsk"
 
-#: osha.hwccontent:/browser/templates/front_page.pt:101
-#: osha.hwccontent:/browser/templates/organisation.pt:121
+#: osha.hwccontent:/browser/templates/front_page.pt:103
+#: osha.hwccontent:/browser/templates/organisation.pt:123
 #: osha.hwccontent:/browser/templates/focalpoint.pt:100
 msgid "see all events"
 msgstr "Se alle arrangementer"
 
-#: osha.hwccontent:/browser/templates/front_page.pt:108
-#: osha.hwccontent:/browser/templates/document_organisations.pt:22
+#: osha.hwccontent:/browser/templates/front_page.pt:110
+#: osha.hwccontent:/browser/templates/document_organisations.pt:24
 msgid "Partners"
 msgstr "Partnere"
 
@@ -160,30 +167,30 @@ msgstr ""
 msgid "News"
 msgstr "Nyheder"
 
-#: osha.hwccontent:/browser/templates/front_page.pt:76
+#: osha.hwccontent:/browser/templates/front_page.pt:78
 #: osha.hwccontent:/browser/templates/mediapartner.pt:99
-#: osha.hwccontent:/browser/templates/organisation.pt:135
+#: osha.hwccontent:/browser/templates/organisation.pt:137
 #: osha.hwccontent:/browser/templates/focalpoint.pt:114
 msgid "see all news"
 msgstr "Se alle nyheder"
 
-#: osha.hwccontent:/browser/templates/front_page.pt:80
+#: osha.hwccontent:/browser/templates/front_page.pt:82
 msgid "Events"
 msgstr "Begivenheder"
 
-#: osha.hwccontent:/browser/templates/front_page.pt:90
-#: osha.hwccontent:/browser/templates/front_page.pt:112
-#: osha.hwccontent:/browser/templates/document_organisations.pt:27
+#: osha.hwccontent:/browser/templates/front_page.pt:92
+#: osha.hwccontent:/browser/templates/front_page.pt:114
+#: osha.hwccontent:/browser/templates/document_organisations.pt:29
 msgid "${DYNAMIC_CONTENT}"
 msgstr ""
 
 #. Default: "Location"
-#: osha.hwccontent:/browser/templates/front_page.pt:95
+#: osha.hwccontent:/browser/templates/front_page.pt:97
 msgid "event_location"
 msgstr "Sted"
 
 #. Default: "Organiser"
-#: osha.hwccontent:/browser/templates/front_page.pt:96
+#: osha.hwccontent:/browser/templates/front_page.pt:98
 msgid "event_organiser"
 msgstr "Arrangør"
 
@@ -334,6 +341,11 @@ msgstr ""
 #: osha.hwccontent:/browser/templates/pressrelease_listing.pt:27
 msgid "alert_label_more"
 msgstr "Mere"
+
+#. Default: "on EU-OSHA website"
+#: osha.hwccontent:/browser/templates/pressrelease_listing.pt:28
+msgid "on_osha_website"
+msgstr "på EU-OSHA's websted"
 
 #: osha.hwccontent:/manual_translations.py:10
 msgid "March"
