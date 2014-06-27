@@ -344,7 +344,7 @@ msgstr "Viöe"
 #. Default: "on EU-OSHA website"
 #: osha.hwccontent:/browser/templates/pressrelease_listing.pt:28
 msgid "on_osha_website"
-msgstr ""
+msgstr "na stranici EU-OSHA"
 
 #: osha.hwccontent:/manual_translations.py:10
 msgid "March"
