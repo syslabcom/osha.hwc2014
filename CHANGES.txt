@@ -1,8 +1,14 @@
 Changelog
 =========
 
-1.0-dev (unreleased)
---------------------
+1.0 (unreleased)
+----------------
+
+- Initial release
+
+
+1.0-dev (unknown)
+-----------------
 
 - Package created using templer
   []
