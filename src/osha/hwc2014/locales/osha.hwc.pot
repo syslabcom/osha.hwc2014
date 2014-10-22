@@ -14,7 +14,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
-"POT-Creation-Date: Thu Jun 19 14:46:43 2014\n"
+"POT-Creation-Date: Wed Oct 22 09:44:32 2014\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
@@ -134,6 +134,51 @@ msgstr ""
 #: osha.hwccontent:/browser/templates/document_mediapartners.pt:26
 #. Default: "Profiles are in English only"
 msgid "profiles_english_only"
+msgstr ""
+
+#: osha.hwccontent:/browser/templates/eguides.pt:32
+#. Default: "Find ${eguide_label_instructions} below."
+msgid "eguide_link_instructions"
+msgstr ""
+
+#: osha.hwccontent:/browser/templates/eguides.pt:32
+#. Default: "instructions on system requirements etc."
+msgid "eguide_name_instructions"
+msgstr ""
+
+#: osha.hwccontent:/browser/templates/eguides.pt:42
+#. Default: "Access to the national versions of the e-guide"
+msgid "access_national_tools"
+msgstr ""
+
+#: osha.hwccontent:/browser/templates/eguides.pt:44
+#. Default: "Find the e-guide version that is relevant for you by filtering by country and / or language."
+msgid "filter_national_tools"
+msgstr ""
+
+#: osha.hwccontent:/browser/templates/eguides.pt:49
+#. Default: "All Countries"
+msgid "label_all_countries"
+msgstr ""
+
+#: osha.hwccontent:/browser/templates/eguides.pt:55
+#. Default: "All Languages"
+msgid "label_all_languages"
+msgstr ""
+
+#: osha.hwccontent:/browser/templates/eguides.pt:73
+#. Default: "Download"
+msgid "label_download"
+msgstr ""
+
+#: osha.hwccontent:/browser/templates/eguides.pt:74
+#. Default: "Online version"
+msgid "label_online_version"
+msgstr ""
+
+#: osha.hwccontent:/browser/templates/eguides.pt:80
+#. Default: "Instructions"
+msgid "eguide_instructions"
 msgstr ""
 
 #: osha.hwccontent:/browser/templates/front_page.pt:103
