@@ -147,47 +147,47 @@ msgstr "Aprašymai pateikiami tik anglų k"
 #. Default: "Find ${eguide_label_instructions} below."
 #: osha.hwccontent:/browser/templates/eguides.pt:32
 msgid "eguide_link_instructions"
-msgstr ""
+msgstr "${eguide_label_instructions} pateiktos toliau."
 
 #. Default: "instructions on system requirements etc."
 #: osha.hwccontent:/browser/templates/eguides.pt:32
 msgid "eguide_name_instructions"
-msgstr ""
+msgstr "nurodymai dėl sistemos reikalavimų ir pan."
 
 #. Default: "Access to the national versions of the e-guide"
 #: osha.hwccontent:/browser/templates/eguides.pt:42
 msgid "access_national_tools"
-msgstr ""
+msgstr "E.vadovas šalių kalbomis"
 
 #. Default: "Find the e-guide version that is relevant for you by filtering by country and / or language."
 #: osha.hwccontent:/browser/templates/eguides.pt:44
 msgid "filter_national_tools"
-msgstr ""
+msgstr "Susiraskite reikiamą e.vadovo versiją filtruodami paieškos rezultatus pagal šalį ir (arba) kalbą."
 
 #. Default: "All Countries"
 #: osha.hwccontent:/browser/templates/eguides.pt:49
 msgid "label_all_countries"
-msgstr ""
+msgstr "Visos šalys"
 
 #. Default: "All Languages"
 #: osha.hwccontent:/browser/templates/eguides.pt:55
 msgid "label_all_languages"
-msgstr ""
+msgstr "Visos kalbos"
 
 #. Default: "Download"
 #: osha.hwccontent:/browser/templates/eguides.pt:73
 msgid "label_download"
-msgstr ""
+msgstr "Atsisiųsti"
 
 #. Default: "Online version"
 #: osha.hwccontent:/browser/templates/eguides.pt:74
 msgid "label_online_version"
-msgstr ""
+msgstr "Internetinė versija"
 
 #. Default: "Instructions"
 #: osha.hwccontent:/browser/templates/eguides.pt:80
 msgid "eguide_instructions"
-msgstr ""
+msgstr "Nurodymai"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:103
 #: osha.hwccontent:/browser/templates/organisation.pt:123

@@ -4,8 +4,7 @@ Changelog
 1.0.1 (unreleased)
 ------------------
 
-- Nothing changed yet.
-
+- Translations for the e-guide #10700
 
 1.0 (2014-07-10)
 ----------------

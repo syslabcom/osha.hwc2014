@@ -147,47 +147,47 @@ msgstr "Profiilit ovat vain englanniksi"
 #. Default: "Find ${eguide_label_instructions} below."
 #: osha.hwccontent:/browser/templates/eguides.pt:32
 msgid "eguide_link_instructions"
-msgstr ""
+msgstr "Hae seuraavasta ${eguide_label_instructions}."
 
 #. Default: "instructions on system requirements etc."
 #: osha.hwccontent:/browser/templates/eguides.pt:32
 msgid "eguide_name_instructions"
-msgstr ""
+msgstr "ohjeita järjestelmävaatimuksista yms."
 
 #. Default: "Access to the national versions of the e-guide"
 #: osha.hwccontent:/browser/templates/eguides.pt:42
 msgid "access_national_tools"
-msgstr ""
+msgstr "Verkko-oppaan kansalliset versiot"
 
 #. Default: "Find the e-guide version that is relevant for you by filtering by country and / or language."
 #: osha.hwccontent:/browser/templates/eguides.pt:44
 msgid "filter_national_tools"
-msgstr ""
+msgstr "Hae haluamasi verkkoversio suodattamalla maan ja/tai kielen mukaan."
 
 #. Default: "All Countries"
 #: osha.hwccontent:/browser/templates/eguides.pt:49
 msgid "label_all_countries"
-msgstr ""
+msgstr "Kaikki maat"
 
 #. Default: "All Languages"
 #: osha.hwccontent:/browser/templates/eguides.pt:55
 msgid "label_all_languages"
-msgstr ""
+msgstr "Kaikki kielet"
 
 #. Default: "Download"
 #: osha.hwccontent:/browser/templates/eguides.pt:73
 msgid "label_download"
-msgstr ""
+msgstr "Lataa"
 
 #. Default: "Online version"
 #: osha.hwccontent:/browser/templates/eguides.pt:74
 msgid "label_online_version"
-msgstr ""
+msgstr "Verkkoversio"
 
 #. Default: "Instructions"
 #: osha.hwccontent:/browser/templates/eguides.pt:80
 msgid "eguide_instructions"
-msgstr ""
+msgstr "Ohjeet"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:103
 #: osha.hwccontent:/browser/templates/organisation.pt:123
