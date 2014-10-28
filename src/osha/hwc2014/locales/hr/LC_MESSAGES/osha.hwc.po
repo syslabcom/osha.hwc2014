@@ -148,47 +148,47 @@ msgstr "Profili su samo na engleskom jeziku"
 #. Default: "Find ${eguide_label_instructions} below."
 #: osha.hwccontent:/browser/templates/eguides.pt:32
 msgid "eguide_link_instructions"
-msgstr ""
+msgstr "${eguide_label_instructions} nalazi se ispod."
 
 #. Default: "instructions on system requirements etc."
 #: osha.hwccontent:/browser/templates/eguides.pt:32
 msgid "eguide_name_instructions"
-msgstr ""
+msgstr "upute o sistemskim preduvjetima itd."
 
 #. Default: "Access to the national versions of the e-guide"
 #: osha.hwccontent:/browser/templates/eguides.pt:42
 msgid "access_national_tools"
-msgstr ""
+msgstr "Pristup nacionalnim verzijama e-vodiča"
 
 #. Default: "Find the e-guide version that is relevant for you by filtering by country and / or language."
 #: osha.hwccontent:/browser/templates/eguides.pt:44
 msgid "filter_national_tools"
-msgstr ""
+msgstr "Pronađite verziju e-vodiča koja vam odgovara filtrirajući po zemlji i/ili jeziku."
 
 #. Default: "All Countries"
 #: osha.hwccontent:/browser/templates/eguides.pt:49
 msgid "label_all_countries"
-msgstr ""
+msgstr "Sve zemlje"
 
 #. Default: "All Languages"
 #: osha.hwccontent:/browser/templates/eguides.pt:55
 msgid "label_all_languages"
-msgstr ""
+msgstr "Svi jezici"
 
 #. Default: "Download"
 #: osha.hwccontent:/browser/templates/eguides.pt:73
 msgid "label_download"
-msgstr ""
+msgstr "Preuzimanje"
 
 #. Default: "Online version"
 #: osha.hwccontent:/browser/templates/eguides.pt:74
 msgid "label_online_version"
-msgstr ""
+msgstr "mrežne verzije"
 
 #. Default: "Instructions"
 #: osha.hwccontent:/browser/templates/eguides.pt:80
 msgid "eguide_instructions"
-msgstr ""
+msgstr "Upute"
 
 #: osha.hwccontent:/browser/templates/front_page.pt:103
 #: osha.hwccontent:/browser/templates/organisation.pt:123
