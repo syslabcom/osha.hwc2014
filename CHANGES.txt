@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.0.1 (unreleased)
+1.0.1 (2014-10-28)
 ------------------
 
 - Translations for the e-guide #10700
