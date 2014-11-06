@@ -497,8 +497,8 @@ msgstr "Agħżel Lingwa"
 #: osha.hwctheme:/viewlets/hwcheader.pt:32
 msgid "campaign_tagline"
 msgstr ""
-"Is-sigurtà u s-saħħa fil-post tax-xogħol jirrigwardaw lil kulħadd. Tajjeb "
-"għalik, tajjeb għall-kumpanija."
+"Is-sigurtà u s-saħħa fuq il-post tax-xogħol jirrigwardaw lil kulħadd. Tajjeb "
+"għalik. Tajjeb għall-kumpanija."
 
 #~ msgid "supported_by"
 #~ msgstr "Appoġġat minn"
