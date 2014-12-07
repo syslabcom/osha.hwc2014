@@ -148,7 +148,7 @@ msgstr "profilene er bare på engelsk"
 #. Default: "Find ${eguide_label_instructions} below."
 #: osha.hwccontent:/browser/templates/eguides.pt:32
 msgid "eguide_link_instructions"
-msgstr "Finn {eguide_label_instructions} under."
+msgstr "Finn ${eguide_label_instructions} under."
 
 #. Default: "instructions on system requirements etc."
 #: osha.hwccontent:/browser/templates/eguides.pt:32
