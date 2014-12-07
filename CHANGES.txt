@@ -4,8 +4,7 @@ Changelog
 1.0.4 (unreleased)
 ------------------
 
-- Nothing changed yet.
-
+- Make a new release, last one was brown-bag
 
 1.0.3 (2014-12-07)
 ------------------
