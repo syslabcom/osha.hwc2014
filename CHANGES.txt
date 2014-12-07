@@ -1,7 +1,7 @@
 Changelog
 =========
 
-1.0.4 (unreleased)
+1.0.4 (2014-12-07)
 ------------------
 
 - Make a new release, last one was brown-bag
